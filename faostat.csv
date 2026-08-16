@@ -1,0 +1,82 @@
+Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2022,2022,ha,14834.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2022,2022,kg/ha,7473.8,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2022,2022,t,110863.82,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2023,2023,ha,14890.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2023,2023,kg/ha,7457.7,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2023,2023,t,111047.57,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2024,2024,ha,14945.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2024,2024,kg/ha,7411.4,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1652,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",2024,2024,t,110766.27,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2022,2022,ha,14678.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2022,2022,kg/ha,8446.6,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2022,2022,t,123981.27,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2023,2023,ha,14705.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2023,2023,kg/ha,8462.6,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2023,2023,t,124443.92,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2024,2024,ha,14731.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2024,2024,kg/ha,8402.8,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1231,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",2024,2024,t,123784.17,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1706,"Cow peas, dry",2022,2022,ha,192573.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1706,"Cow peas, dry",2022,2022,kg/ha,1662.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1706,"Cow peas, dry",2022,2022,t,320057.32,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1706,"Cow peas, dry",2023,2023,ha,185376.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1706,"Cow peas, dry",2023,2023,kg/ha,1660.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1706,"Cow peas, dry",2023,2023,t,307724.02,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1706,"Cow peas, dry",2024,2024,ha,191625.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1706,"Cow peas, dry",2024,2024,kg/ha,1691.3,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1706,"Cow peas, dry",2024,2024,t,324088.49,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,142,"Groundnuts, excluding shelled",2022,2022,ha,370000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5412,Yield,142,"Groundnuts, excluding shelled",2022,2022,kg/ha,1651.4,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5510,Production,142,"Groundnuts, excluding shelled",2022,2022,t,611000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,142,"Groundnuts, excluding shelled",2023,2023,ha,370000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5412,Yield,142,"Groundnuts, excluding shelled",2023,2023,kg/ha,1718.9,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5510,Production,142,"Groundnuts, excluding shelled",2023,2023,t,636000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,142,"Groundnuts, excluding shelled",2024,2024,ha,370000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5412,Yield,142,"Groundnuts, excluding shelled",2024,2024,kg/ha,1689.2,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5510,Production,142,"Groundnuts, excluding shelled",2024,2024,t,625000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,112,Maize (corn),2022,2022,ha,1300000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5412,Yield,112,Maize (corn),2022,2022,kg/ha,2504.4,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5510,Production,112,Maize (corn),2022,2022,t,3255718.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,112,Maize (corn),2023,2023,ha,1300000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5412,Yield,112,Maize (corn),2023,2023,kg/ha,2753.1,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5510,Production,112,Maize (corn),2023,2023,t,3579000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,112,Maize (corn),2024,2024,ha,1368623.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,112,Maize (corn),2024,2024,kg/ha,2772.1,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,112,Maize (corn),2024,2024,t,3794000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,118,Millet,2022,2022,ha,138927.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,118,Millet,2022,2022,kg/ha,1413.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,118,Millet,2022,2022,t,196308.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,118,Millet,2023,2023,ha,163137.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,118,Millet,2023,2023,kg/ha,1495.7,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,118,Millet,2023,2023,t,244000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,118,Millet,2024,2024,ha,135281.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,118,Millet,2024,2024,kg/ha,1552.3,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,118,Millet,2024,2024,t,210000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,113,Rice,2022,2022,ha,382000.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5412,Yield,113,Rice,2022,2022,kg/ha,3358.6,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,113,Rice,2022,2022,t,1283000.0,A,Official value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,113,Rice,2023,2023,ha,443200.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5412,Yield,113,Rice,2023,2023,kg/ha,3255.9,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,113,Rice,2023,2023,t,1443000.0,A,Official value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,113,Rice,2024,2024,ha,472900.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5412,Yield,113,Rice,2024,2024,kg/ha,3639.7,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,113,Rice,2024,2024,t,1721200.0,A,Official value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,114,Sorghum,2022,2022,ha,310000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5412,Yield,114,Sorghum,2022,2022,kg/ha,1295.2,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5510,Production,114,Sorghum,2022,2022,t,401499.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,114,Sorghum,2023,2023,ha,310000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5412,Yield,114,Sorghum,2023,2023,kg/ha,1332.3,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5510,Production,114,Sorghum,2023,2023,t,413000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,114,Sorghum,2024,2024,ha,380192.0,I,Value imputed by a receiving agency
+QCL,Crops and livestock products,288,Ghana,5412,Yield,114,Sorghum,2024,2024,kg/ha,1259.9,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,114,Sorghum,2024,2024,t,479000.0,X,Value from external organization
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1234,Tomatoes,2022,2022,ha,48148.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1234,Tomatoes,2022,2022,kg/ha,7890.9,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1234,Tomatoes,2022,2022,t,379925.13,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1234,Tomatoes,2023,2023,ha,48333.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1234,Tomatoes,2023,2023,kg/ha,7877.3,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1234,Tomatoes,2023,2023,t,380731.48,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5312,Area harvested,1234,Tomatoes,2024,2024,ha,48262.0,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5412,Yield,1234,Tomatoes,2024,2024,kg/ha,7866.1,E,Estimated value
+QCL,Crops and livestock products,288,Ghana,5510,Production,1234,Tomatoes,2024,2024,t,379630.68,E,Estimated value

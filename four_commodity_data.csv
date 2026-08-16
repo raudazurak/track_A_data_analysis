@@ -1,0 +1,1680 @@
+region,district,date,Market,source,commodity,Price,market_day,Year,month,week,Type
+Central,Mfantsiman Municipal,16-07-2025,Mankessim,retail,white maize,8.66,2025-07-16,2025,7,3,retail
+Central,Mfantsiman Municipal,16-07-2025,Mankessim,retail,Maize Yellow,9.485,2025-07-16,2025,7,3,retail
+Central,Mfantsiman Municipal,16-07-2025,Mankessim,retail,Rice Local perfumed,20.64333333,2025-07-16,2025,7,3,retail
+Central,Mfantsiman Municipal,16-07-2025,Mankessim,retail,Rice Local non perfumed,15.11,2025-07-16,2025,7,3,retail
+Central,Mfantsiman Municipal,16-07-2025,Mankessim,retail,Groundnut Red,20.41333333,2025-07-16,2025,7,3,retail
+Central,Mfantsiman Municipal,16-07-2025,Mankessim,retail,Soya Bean,17.82,2025-07-16,2025,7,3,retail
+Greater Accra,AMA-Okaikoi South,17-07-2025,AGBOGBLOSHIE,retail,white maize,10.8,2025-07-17,2025,7,3,retail
+Greater Accra,AMA-Okaikoi South,17-07-2025,AGBOGBLOSHIE,retail,Maize Yellow,11.22666667,2025-07-17,2025,7,3,retail
+Greater Accra,AMA-Okaikoi South,17-07-2025,AGBOGBLOSHIE,retail,Rice Local perfumed,20.0,2025-07-17,2025,7,3,retail
+Greater Accra,AMA-Okaikoi South,17-07-2025,AGBOGBLOSHIE,retail,Rice Local non perfumed,18.66666667,2025-07-17,2025,7,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-07-2025,Bibiani ,retail,white maize,10.39666667,2025-07-17,2025,7,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-07-2025,Bibiani ,retail,Maize Yellow,12.41333333,2025-07-17,2025,7,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-07-2025,Bibiani ,retail,Rice Local perfumed,29.72,2025-07-17,2025,7,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-07-2025,Bibiani ,retail,Rice Local non perfumed,22.5,2025-07-17,2025,7,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-07-2025,Bibiani ,retail,Groundnut Red,32.77666667,2025-07-17,2025,7,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-07-2025,Bibiani ,retail,Soya Bean,21.875,2025-07-17,2025,7,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-07-2025,Bibiani ,retail,Unshelled Groundnut,22.33333333,2025-07-17,2025,7,3,retail
+Bono,Sunyani Municipal,16-07-2025,Nana Bosomah,retail,white maize,6.67,2025-07-16,2025,7,3,retail
+Bono,Sunyani Municipal,16-07-2025,Nana Bosomah,retail,Maize Yellow,6.67,2025-07-16,2025,7,3,retail
+Bono,Sunyani Municipal,16-07-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-07-16,2025,7,3,retail
+Bono,Sunyani Municipal,16-07-2025,Nana Bosomah,retail,Rice Local non perfumed,12.96,2025-07-16,2025,7,3,retail
+Bono,Sunyani Municipal,18-07-2025,Nana Bosomah ,retail,Groundnut Red,20.0,2025-07-18,2025,7,3,retail
+Bono,Sunyani Municipal,18-07-2025,Nana Bosomah ,retail,Soya Bean,12.5,2025-07-18,2025,7,3,retail
+Bono,Sunyani Municipal,18-07-2025,Nana Bosomah ,retail,Unshelled Groundnut,11.54,2025-07-18,2025,7,3,retail
+Greater Accra,TMA-Tema East,14-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.0,2025-07-14,2025,7,2,retail
+Greater Accra,TMA-Tema East,14-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.33,2025-07-14,2025,7,2,retail
+Greater Accra,TMA-Tema East,14-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,22.66666667,2025-07-14,2025,7,2,retail
+Greater Accra,TMA-Tema East,14-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,38.66666667,2025-07-14,2025,7,2,retail
+Greater Accra,TMA-Tema East,14-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-07-14,2025,7,2,retail
+Volta,Ho Municipal,15-07-2025,Ho Central market,retail,white maize,9.1775,2025-07-15,2025,7,3,retail
+Volta,Ho Municipal,15-07-2025,Ho Central market,retail,Maize Yellow,8.93,2025-07-15,2025,7,3,retail
+Volta,Ho Municipal,15-07-2025,Ho Central market,retail,Rice Local perfumed,17.55,2025-07-15,2025,7,3,retail
+Volta,Ho Municipal,15-07-2025,Ho Central market,retail,Groundnut Red,24.0,2025-07-15,2025,7,3,retail
+Volta,Ho Municipal,15-07-2025,Ho Central market,retail,Soya Bean,14.58,2025-07-15,2025,7,3,retail
+Bono East,Kintampo North Municipal,20-07-2025,Kintampo,retail,white maize,7.596666667,2025-07-20,2025,7,3,retail
+Bono East,Kintampo North Municipal,20-07-2025,Kintampo,retail,Maize Yellow,7.41,2025-07-20,2025,7,3,retail
+Bono East,Kintampo North Municipal,20-07-2025,Kintampo,retail,Rice Local perfumed,16.10333333,2025-07-20,2025,7,3,retail
+Bono East,Kintampo North Municipal,20-07-2025,Kintampo,retail,Rice Local non perfumed,10.58666667,2025-07-20,2025,7,3,retail
+Bono East,Kintampo North Municipal,20-07-2025,Kintampo,retail,Groundnut Red,19.33333333,2025-07-20,2025,7,3,retail
+Bono East,Kintampo North Municipal,20-07-2025,Kintampo,retail,Soya Bean,11.45,2025-07-20,2025,7,3,retail
+Ashanti,Obuasi Municipal,16-07-2025,Obuasi Central Market,retail,Rice Local perfumed,16.86,2025-07-16,2025,7,3,retail
+Ashanti,Obuasi Municipal,16-07-2025,Obuasi Central Market,retail,Soya Bean,16.91,2025-07-16,2025,7,3,retail
+Ashanti,Obuasi Municipal,16-07-2025,Obuasi Central Market,retail,white maize,12.5,2025-07-16,2025,7,3,retail
+Ashanti,Obuasi Municipal,16-07-2025,Obuasi Central Market,retail,Groundnut Red,24.66666667,2025-07-16,2025,7,3,retail
+Ahafo,Asunafo North Municipal,20-07-2025,Goaso,retail,white maize,9.046666667,2025-07-20,2025,7,3,retail
+Ahafo,Asunafo North Municipal,20-07-2025,Goaso,retail,Maize Yellow,9.186666667,2025-07-20,2025,7,3,retail
+Ahafo,Asunafo North Municipal,20-07-2025,Goaso,retail,Rice Local perfumed,18.36666667,2025-07-20,2025,7,3,retail
+Ahafo,Asunafo North Municipal,20-07-2025,Goaso,retail,Groundnut Red,21.71666667,2025-07-20,2025,7,3,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,AGBOGBLOSHIE,retail,white maize,11.67,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,AGBOGBLOSHIE,retail,Maize Yellow,12.0,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,AGBOGBLOSHIE,retail,Rice Local perfumed,17.33333333,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,AGBOGBLOSHIE,retail,Rice Local non perfumed,14.0,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,03-07-2025,Tuesday Market,retail,white maize,18.96,2025-07-03,2025,7,1,retail
+Greater Accra,AMA-Okaikoi South,03-07-2025,Tuesday Market,retail,Maize Yellow,11.54,2025-07-03,2025,7,1,retail
+Greater Accra,AMA-Okaikoi South,03-07-2025,Tuesday Market,retail,Rice Local perfumed,20.0,2025-07-03,2025,7,1,retail
+Greater Accra,AMA-Okaikoi South,03-07-2025,Tuesday Market,retail,Rice Local non perfumed,16.0,2025-07-03,2025,7,1,retail
+Central,Mfantsiman Municipal,23-07-2025,Mankessim,retail,white maize,8.73,2025-07-23,2025,7,4,retail
+Central,Mfantsiman Municipal,23-07-2025,Mankessim,retail,Maize Yellow,10.248,2025-07-23,2025,7,4,retail
+Central,Mfantsiman Municipal,23-07-2025,Mankessim,retail,Rice Local perfumed,21.43666667,2025-07-23,2025,7,4,retail
+Central,Mfantsiman Municipal,23-07-2025,Mankessim,retail,Rice Local non perfumed,16.54,2025-07-23,2025,7,4,retail
+Central,Mfantsiman Municipal,23-07-2025,Mankessim,retail,Groundnut Red,22.56666667,2025-07-23,2025,7,4,retail
+Central,Mfantsiman Municipal,23-07-2025,Mankessim,retail,Soya Bean,18.9,2025-07-23,2025,7,4,retail
+Greater Accra,TMA-Tema East,22-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.0,2025-07-22,2025,7,4,retail
+Greater Accra,TMA-Tema East,22-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.71666667,2025-07-22,2025,7,4,retail
+Greater Accra,TMA-Tema East,22-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,24.0,2025-07-22,2025,7,4,retail
+Greater Accra,TMA-Tema East,22-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,37.33333333,2025-07-22,2025,7,4,retail
+Greater Accra,TMA-Tema East,22-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-07-22,2025,7,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-07-2025,Bibiani,retail,white maize,12.22,2025-07-24,2025,7,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-07-2025,Bibiani,retail,Maize Yellow,13.18333333,2025-07-24,2025,7,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-07-2025,Bibiani,retail,Rice Local perfumed,21.16666667,2025-07-24,2025,7,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-07-2025,Bibiani,retail,Rice Local non perfumed,18.5,2025-07-24,2025,7,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-07-2025,Bibiani,retail,Groundnut Red,14.52666667,2025-07-24,2025,7,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-07-2025,Bibiani,retail,Soya Bean,15.0,2025-07-24,2025,7,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-07-2025,Bibiani,retail,Unshelled Groundnut,6.92,2025-07-24,2025,7,4,retail
+Upper West,Wa Municipal,26-07-2025,Wa Market,retail,white maize,7.965,2025-07-26,2025,7,4,retail
+Upper West,Wa Municipal,26-07-2025,Wa Market,retail,Maize Yellow,7.8725,2025-07-26,2025,7,4,retail
+Upper West,Wa Municipal,26-07-2025,Wa Market,retail,Rice Local perfumed,12.07,2025-07-26,2025,7,4,retail
+Upper West,Wa Municipal,26-07-2025,Wa Market,retail,Rice Local non perfumed,10.34,2025-07-26,2025,7,4,retail
+Upper West,Wa Municipal,26-07-2025,Wa Market,retail,Groundnut Red,16.50333333,2025-07-26,2025,7,4,retail
+Upper West,Wa Municipal,26-07-2025,Wa Market,retail,Soya Bean,8.0,2025-07-26,2025,7,4,retail
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,retail,white maize,5.286666667,2025-07-27,2025,7,4,retail
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,retail,Maize Yellow,5.286666667,2025-07-27,2025,7,4,retail
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,retail,Rice Local perfumed,12.08,2025-07-27,2025,7,4,retail
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,retail,Rice Local non perfumed,9.893333333,2025-07-27,2025,7,4,retail
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,retail,Groundnut Red,17.28666667,2025-07-27,2025,7,4,retail
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,retail,Soya Bean,8.62,2025-07-27,2025,7,4,retail
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,retail,white maize,6.77,2025-07-23,2025,7,4,retail
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,retail,Maize Yellow,6.77,2025-07-23,2025,7,4,retail
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-07-23,2025,7,4,retail
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,retail,Rice Local non perfumed,14.07,2025-07-23,2025,7,4,retail
+Ahafo,Asunafo North Municipal,25-07-2025,Goaso,retail,white maize,8.386666667,2025-07-25,2025,7,4,retail
+Ahafo,Asunafo North Municipal,25-07-2025,Goaso,retail,Maize Yellow,8.826666667,2025-07-25,2025,7,4,retail
+Ahafo,Asunafo North Municipal,25-07-2025,Goaso,retail,Groundnut Red,23.33333333,2025-07-25,2025,7,4,retail
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo,retail,white maize,7.596666667,2025-07-27,2025,7,4,retail
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo,retail,Maize Yellow,7.55,2025-07-27,2025,7,4,retail
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo,retail,Rice Local perfumed,15.02666667,2025-07-27,2025,7,4,retail
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo,retail,Rice Local non perfumed,10.17666667,2025-07-27,2025,7,4,retail
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo,retail,Groundnut Red,16.27666667,2025-07-27,2025,7,4,retail
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo,retail,Soya Bean,12.41333333,2025-07-27,2025,7,4,retail
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,retail,white maize,7.32,2025-07-18,2025,7,3,retail
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,retail,Maize Yellow,7.956666667,2025-07-18,2025,7,3,retail
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,retail,Rice Local perfumed,11.35,2025-07-18,2025,7,3,retail
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,retail,Rice Local non perfumed,10.83,2025-07-18,2025,7,3,retail
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,retail,Groundnut Red,21.83333333,2025-07-18,2025,7,3,retail
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,retail,Soya Bean,9.27,2025-07-18,2025,7,3,retail
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,retail,Unshelled Groundnut,11.17333333,2025-07-18,2025,7,3,retail
+Bono East,Techiman Municipal,25-07-2025,Techiman Market ,retail,white maize,7.41,2025-07-25,2025,7,4,retail
+Bono East,Techiman Municipal,25-07-2025,Techiman Market ,retail,Maize Yellow,8.053333333,2025-07-25,2025,7,4,retail
+Bono East,Techiman Municipal,25-07-2025,Techiman Market ,retail,Rice Local perfumed,12.11,2025-07-25,2025,7,4,retail
+Bono East,Techiman Municipal,25-07-2025,Techiman Market ,retail,Rice Local non perfumed,11.19,2025-07-25,2025,7,4,retail
+Bono East,Techiman Municipal,25-07-2025,Techiman Market ,retail,Groundnut Red,21.16,2025-07-25,2025,7,4,retail
+Bono East,Techiman Municipal,25-07-2025,Techiman Market ,retail,Soya Bean,9.38,2025-07-25,2025,7,4,retail
+Bono East,Techiman Municipal,25-07-2025,Techiman Market ,retail,Unshelled Groundnut,13.37333333,2025-07-25,2025,7,4,retail
+Ashanti,Obuasi Municipal,31-07-2025,Obuasi Central Market,retail,Soya Bean,16.91,2025-07-31,2025,7,5,retail
+Ashanti,Obuasi Municipal,28-07-2025,Obuasi Central Market,retail,white maize,10.97333333,2025-07-28,2025,7,4,retail
+Ashanti,Obuasi Municipal,28-07-2025,Obuasi Central Market,retail,Maize Yellow,11.69333333,2025-07-28,2025,7,4,retail
+Ashanti,Obuasi Municipal,28-07-2025,Obuasi Central Market,retail,Rice Local non perfumed,16.67,2025-07-28,2025,7,4,retail
+Ashanti,Obuasi Municipal,30-07-2025,Obuasi Central Market,retail,Groundnut Red,24.66666667,2025-07-30,2025,7,5,retail
+Central,Mfantsiman Municipal,30-07-2025,Mankessim,retail,white maize,7.2825,2025-07-30,2025,7,5,retail
+Central,Mfantsiman Municipal,30-07-2025,Mankessim,retail,Maize Yellow,7.9375,2025-07-30,2025,7,5,retail
+Central,Mfantsiman Municipal,30-07-2025,Mankessim,retail,Rice Local perfumed,18.8925,2025-07-30,2025,7,5,retail
+Central,Mfantsiman Municipal,30-07-2025,Mankessim,retail,Rice Local non perfumed,14.40666667,2025-07-30,2025,7,5,retail
+Central,Mfantsiman Municipal,30-07-2025,Mankessim,retail,Groundnut Red,28.30666667,2025-07-30,2025,7,5,retail
+Central,Mfantsiman Municipal,30-07-2025,Mankessim,retail,Soya Bean,19.02333333,2025-07-30,2025,7,5,retail
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,retail,white maize,7.35,2025-07-31,2025,7,5,retail
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,retail,Maize Yellow,7.35,2025-07-31,2025,7,5,retail
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,retail,Rice Local perfumed,15.33333333,2025-07-31,2025,7,5,retail
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,retail,Groundnut Red,19.33333333,2025-07-31,2025,7,5,retail
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,retail,Unshelled Groundnut,15.28,2025-07-31,2025,7,5,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,Makola Market,retail,white maize,12.5,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,Makola Market,retail,Maize Yellow,14.0,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,Makola Market,retail,Rice Local perfumed,20.0,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,Makola Market,retail,Rice Local non perfumed,18.0,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,TUESDAY MARKET,retail,white maize,12.5,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,TUESDAY MARKET,retail,Maize Yellow,14.0,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,TUESDAY MARKET,retail,Rice Local perfumed,19.33333333,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,23-07-2025,TUESDAY MARKET,retail,Rice Local non perfumed,18.0,2025-07-23,2025,7,4,retail
+Greater Accra,AMA-Okaikoi South,01-08-2025,AGBOGBLOSHIE MARKET ,retail,white maize,11.06666667,2025-08-01,2025,8,1,retail
+Greater Accra,AMA-Okaikoi South,01-08-2025,AGBOGBLOSHIE MARKET ,retail,Maize Yellow,12.66666667,2025-08-01,2025,8,1,retail
+Greater Accra,AMA-Okaikoi South,01-08-2025,AGBOGBLOSHIE MARKET ,retail,Rice Local perfumed,18.0,2025-08-01,2025,8,1,retail
+Greater Accra,AMA-Okaikoi South,01-08-2025,AGBOGBLOSHIE MARKET ,retail,Rice Local non perfumed,15.33333333,2025-08-01,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,retail,white maize,8.123333333,2025-07-29,2025,7,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,retail,Maize Yellow,8.89,2025-07-29,2025,7,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,retail,Rice Local perfumed,21.83333333,2025-07-29,2025,7,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,retail,Rice Local non perfumed,18.0,2025-07-29,2025,7,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,retail,Groundnut Red,15.87333333,2025-07-29,2025,7,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,retail,Soya Bean,25.5,2025-07-29,2025,7,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,retail,Unshelled Groundnut,16.43333333,2025-07-29,2025,7,5,retail
+Upper East,Bolgatanga Municipal,02-08-2025,Bolga market,retail,white maize,5.286666667,2025-08-02,2025,8,1,retail
+Upper East,Bolgatanga Municipal,02-08-2025,Bolga market,retail,Maize Yellow,5.286666667,2025-08-02,2025,8,1,retail
+Upper East,Bolgatanga Municipal,02-08-2025,Bolga market,retail,Rice Local perfumed,11.74666667,2025-08-02,2025,8,1,retail
+Upper East,Bolgatanga Municipal,02-08-2025,Bolga market,retail,Rice Local non perfumed,9.29,2025-08-02,2025,8,1,retail
+Upper East,Bolgatanga Municipal,02-08-2025,Bolga market,retail,Groundnut Red,17.28666667,2025-08-02,2025,8,1,retail
+Upper East,Bolgatanga Municipal,02-08-2025,Bolga market,retail,Soya Bean,8.5475,2025-08-02,2025,8,1,retail
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomahɔ,retail,white maize,7.55,2025-07-30,2025,7,5,retail
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomahɔ,retail,Maize Yellow,7.55,2025-07-30,2025,7,5,retail
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomahɔ,retail,Rice Local perfumed,14.81,2025-07-30,2025,7,5,retail
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomahɔ,retail,Rice Local non perfumed,14.07,2025-07-30,2025,7,5,retail
+Bono,Sunyani Municipal,04-08-2025,Nana Bosomah,retail,Groundnut Red,20.0,2025-08-04,2025,8,1,retail
+Bono,Sunyani Municipal,04-08-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-08-04,2025,8,1,retail
+Bono,Sunyani Municipal,04-08-2025,Nana Bosomah,retail,Unshelled Groundnut,10.0,2025-08-04,2025,8,1,retail
+Upper West,Wa Municipal,01-08-2025,Wa Market,retail,white maize,7.41,2025-08-01,2025,8,1,retail
+Upper West,Wa Municipal,01-08-2025,Wa Market,retail,Maize Yellow,7.41,2025-08-01,2025,8,1,retail
+Upper West,Wa Municipal,01-08-2025,Wa Market,retail,Rice Local perfumed,11.11,2025-08-01,2025,8,1,retail
+Upper West,Wa Municipal,01-08-2025,Wa Market,retail,Rice Local non perfumed,9.26,2025-08-01,2025,8,1,retail
+Upper West,Wa Municipal,01-08-2025,Wa Market,retail,Groundnut Red,17.31,2025-08-01,2025,8,1,retail
+Upper West,Wa Municipal,01-08-2025,Wa Market,retail,Soya Bean,11.39666667,2025-08-01,2025,8,1,retail
+Upper West,Wa Municipal,01-08-2025,Wa Market,retail,Unshelled Groundnut,6.0,2025-08-01,2025,8,1,retail
+Volta,Ho Municipal,24-07-2025,Ho Central market,retail,white maize,9.095,2025-07-24,2025,7,4,retail
+Volta,Ho Municipal,24-07-2025,Ho Central market,retail,Maize Yellow,8.93,2025-07-24,2025,7,4,retail
+Volta,Ho Municipal,24-07-2025,Ho Central market,retail,Rice Local perfumed,17.86,2025-07-24,2025,7,4,retail
+Volta,Ho Municipal,24-07-2025,Ho Central market,retail,Groundnut Red,24.33333333,2025-07-24,2025,7,4,retail
+Volta,Ho Municipal,24-07-2025,Ho Central market,retail,Soya Bean,14.38666667,2025-07-24,2025,7,4,retail
+Bono East,Kintampo North Municipal,05-08-2025,Kintampo ,retail,white maize,7.35,2025-08-05,2025,8,1,retail
+Bono East,Kintampo North Municipal,05-08-2025,Kintampo ,retail,Maize Yellow,7.12,2025-08-05,2025,8,1,retail
+Bono East,Kintampo North Municipal,05-08-2025,Kintampo ,retail,Rice Local perfumed,15.12,2025-08-05,2025,8,1,retail
+Bono East,Kintampo North Municipal,05-08-2025,Kintampo ,retail,Groundnut Red,14.61666667,2025-08-05,2025,8,1,retail
+Greater Accra,AMA-Okaikoi South,04-08-2025,Tuesday Market,retail,white maize,12.0,2025-08-04,2025,8,1,retail
+Greater Accra,AMA-Okaikoi South,04-08-2025,Tuesday Market,retail,Maize Yellow,14.0,2025-08-04,2025,8,1,retail
+Greater Accra,AMA-Okaikoi South,04-08-2025,Tuesday Market,retail,Rice Local perfumed,18.0,2025-08-04,2025,8,1,retail
+Greater Accra,AMA-Okaikoi South,04-08-2025,Tuesday Market,retail,Rice Local non perfumed,14.0,2025-08-04,2025,8,1,retail
+Greater Accra,TMA-Tema East,27-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.0,2025-07-27,2025,7,4,retail
+Greater Accra,TMA-Tema East,27-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.52333333,2025-07-27,2025,7,4,retail
+Greater Accra,TMA-Tema East,27-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,24.66666667,2025-07-27,2025,7,4,retail
+Greater Accra,TMA-Tema East,27-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,38.66666667,2025-07-27,2025,7,4,retail
+Greater Accra,TMA-Tema East,27-07-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,21.33333333,2025-07-27,2025,7,4,retail
+Central,Mfantsiman Municipal,06-08-2025,Mankessim,retail,white maize,6.5225,2025-08-06,2025,8,1,retail
+Central,Mfantsiman Municipal,06-08-2025,Mankessim,retail,Maize Yellow,7.115,2025-08-06,2025,8,1,retail
+Central,Mfantsiman Municipal,06-08-2025,Mankessim,retail,Rice Local perfumed,19.75,2025-08-06,2025,8,1,retail
+Central,Mfantsiman Municipal,06-08-2025,Mankessim,retail,Rice Local non perfumed,15.33333333,2025-08-06,2025,8,1,retail
+Central,Mfantsiman Municipal,06-08-2025,Mankessim,retail,Groundnut Red,27.53,2025-08-06,2025,8,1,retail
+Central,Mfantsiman Municipal,06-08-2025,Mankessim,retail,Soya Bean,22.02333333,2025-08-06,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,07-08-2025,BIBIANI,retail,white maize,9.086666667,2025-08-07,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,07-08-2025,BIBIANI,retail,Maize Yellow,10.06333333,2025-08-07,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,07-08-2025,BIBIANI,retail,Rice Local perfumed,19.72333333,2025-08-07,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,07-08-2025,BIBIANI,retail,Rice Local non perfumed,17.66666667,2025-08-07,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,07-08-2025,BIBIANI,retail,Groundnut Red,15.55666667,2025-08-07,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,07-08-2025,BIBIANI,retail,Soya Bean,25.0,2025-08-07,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,07-08-2025,BIBIANI,retail,Unshelled Groundnut,13.49666667,2025-08-07,2025,8,1,retail
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri ,retail,white maize,5.383333333,2025-08-07,2025,8,1,retail
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri ,retail,Maize Yellow,5.195,2025-08-07,2025,8,1,retail
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri ,retail,Soya Bean,7.756666667,2025-08-07,2025,8,1,retail
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,retail,white maize,7.21,2025-08-08,2025,8,2,retail
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,retail,Maize Yellow,7.21,2025-08-08,2025,8,2,retail
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,retail,Rice Local perfumed,16.33333333,2025-08-08,2025,8,2,retail
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,retail,Groundnut Red,25.0,2025-08-08,2025,8,2,retail
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,retail,Unshelled Groundnut,16.67,2025-08-08,2025,8,2,retail
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,retail,white maize,5.286666667,2025-08-10,2025,8,2,retail
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,retail,Maize Yellow,5.286666667,2025-08-10,2025,8,2,retail
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,retail,Rice Local perfumed,11.42666667,2025-08-10,2025,8,2,retail
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,retail,Rice Local non perfumed,9.57,2025-08-10,2025,8,2,retail
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,retail,Groundnut Red,16.1,2025-08-10,2025,8,2,retail
+Bono East,Techiman Municipal,06-08-2025,,retail,white maize,7.533333333,2025-08-06,2025,8,1,retail
+Bono East,Techiman Municipal,06-08-2025,,retail,Maize Yellow,7.32,2025-08-06,2025,8,1,retail
+Bono East,Techiman Municipal,06-08-2025,,retail,Rice Local perfumed,11.89,2025-08-06,2025,8,1,retail
+Bono East,Techiman Municipal,06-08-2025,,retail,Rice Local non perfumed,10.96333333,2025-08-06,2025,8,1,retail
+Bono East,Techiman Municipal,06-08-2025,,retail,Groundnut Red,21.16,2025-08-06,2025,8,1,retail
+Bono East,Techiman Municipal,06-08-2025,,retail,Soya Bean,9.623333333,2025-08-06,2025,8,1,retail
+Bono East,Techiman Municipal,06-08-2025,,retail,Unshelled Groundnut,13.09666667,2025-08-06,2025,8,1,retail
+Bono East,Kintampo North Municipal,13-08-2025,Kintampo ,retail,white maize,7.77,2025-08-13,2025,8,2,retail
+Bono East,Kintampo North Municipal,13-08-2025,Kintampo ,retail,Maize Yellow,7.57,2025-08-13,2025,8,2,retail
+Bono East,Kintampo North Municipal,13-08-2025,Kintampo ,retail,Rice Local perfumed,10.4,2025-08-13,2025,8,2,retail
+Bono East,Kintampo North Municipal,13-08-2025,Kintampo ,retail,Groundnut Red,15.04666667,2025-08-13,2025,8,2,retail
+Bono East,Techiman Municipal,30-07-2025,Techiman,retail,white maize,7.533333333,2025-07-30,2025,7,5,retail
+Bono East,Techiman Municipal,30-07-2025,Techiman,retail,Maize Yellow,7.81,2025-07-30,2025,7,5,retail
+Bono East,Techiman Municipal,30-07-2025,Techiman,retail,Rice Local perfumed,11.89,2025-07-30,2025,7,5,retail
+Bono East,Techiman Municipal,30-07-2025,Techiman,retail,Rice Local non perfumed,11.09666667,2025-07-30,2025,7,5,retail
+Bono East,Techiman Municipal,30-07-2025,Techiman,retail,Groundnut Red,21.32666667,2025-07-30,2025,7,5,retail
+Bono East,Techiman Municipal,30-07-2025,Techiman,retail,Soya Bean,9.38,2025-07-30,2025,7,5,retail
+Bono East,Techiman Municipal,30-07-2025,Techiman,retail,Unshelled Groundnut,11.57333333,2025-07-30,2025,7,5,retail
+Eastern,New Juaben South Municipal,14-08-2025,Central market ,retail,Maize Yellow,6.67,2025-08-14,2025,8,2,retail
+Ashanti,Obuasi Municipal,07-08-2025,Obuasi Central Market,retail,Groundnut Red,23.1,2025-08-07,2025,8,1,retail
+Ashanti,Obuasi Municipal,07-08-2025,Obuasi Central Market,retail,Rice Local perfumed,16.86,2025-08-07,2025,8,1,retail
+Ashanti,Obuasi Municipal,07-08-2025,Obuasi Central Market,retail,Maize Yellow,11.69333333,2025-08-07,2025,8,1,retail
+Ashanti,Obuasi Municipal,07-08-2025,Obuasi Central Market,retail,white maize,10.14,2025-08-07,2025,8,1,retail
+Ashanti,Obuasi Municipal,10-08-2025,Obuasi Central Market,retail,Soya Bean,16.44666667,2025-08-10,2025,8,2,retail
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,retail,white maize,5.56,2025-08-13,2025,8,2,retail
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,retail,Maize Yellow,5.56,2025-08-13,2025,8,2,retail
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-08-13,2025,8,2,retail
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,retail,Rice Local non perfumed,14.07,2025-08-13,2025,8,2,retail
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,retail,Groundnut Red,20.0,2025-08-13,2025,8,2,retail
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-08-13,2025,8,2,retail
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,retail,Unshelled Groundnut,9.696666667,2025-08-13,2025,8,2,retail
+Central,Mfantsiman Municipal,13-08-2025,Mankessim,retail,white maize,6.646666667,2025-08-13,2025,8,2,retail
+Central,Mfantsiman Municipal,13-08-2025,Mankessim,retail,Maize Yellow,7.964,2025-08-13,2025,8,2,retail
+Central,Mfantsiman Municipal,13-08-2025,Mankessim,retail,Rice Local perfumed,22.42333333,2025-08-13,2025,8,2,retail
+Central,Mfantsiman Municipal,13-08-2025,Mankessim,retail,Rice Local non perfumed,15.2,2025-08-13,2025,8,2,retail
+Central,Mfantsiman Municipal,13-08-2025,Mankessim,retail,Groundnut Red,28.04333333,2025-08-13,2025,8,2,retail
+Central,Mfantsiman Municipal,13-08-2025,Mankessim,retail,Soya Bean,19.53,2025-08-13,2025,8,2,retail
+Oti,Nkwanta South Municipal,05-08-2025,NKWANTA,retail,white maize,7.75,2025-08-05,2025,8,1,retail
+Oti,Nkwanta South Municipal,05-08-2025,NKWANTA,retail,Maize Yellow,8.563333333,2025-08-05,2025,8,1,retail
+Oti,Nkwanta South Municipal,05-08-2025,NKWANTA,retail,Rice Local perfumed,13.33,2025-08-05,2025,8,1,retail
+Oti,Nkwanta South Municipal,05-08-2025,NKWANTA,retail,Rice Local non perfumed,10.71,2025-08-05,2025,8,1,retail
+Oti,Nkwanta South Municipal,05-08-2025,NKWANTA,retail,Soya Bean,9.26,2025-08-05,2025,8,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,retail,white maize,10.46333333,2025-08-14,2025,8,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,retail,Maize Yellow,12.02666667,2025-08-14,2025,8,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,retail,Rice Local perfumed,10.37,2025-08-14,2025,8,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,retail,Rice Local non perfumed,8.103333333,2025-08-14,2025,8,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,retail,Groundnut Red,24.66666667,2025-08-14,2025,8,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,retail,Soya Bean,10.83333333,2025-08-14,2025,8,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,retail,Unshelled Groundnut,9.956666667,2025-08-14,2025,8,2,retail
+Ahafo,Asunafo North Municipal,14-08-2025,Goaso,retail,white maize,7.073333333,2025-08-14,2025,8,2,retail
+Ahafo,Asunafo North Municipal,14-08-2025,Goaso,retail,Maize Yellow,8.163333333,2025-08-14,2025,8,2,retail
+Ahafo,Asunafo North Municipal,14-08-2025,Goaso,retail,Rice Local perfumed,16.85,2025-08-14,2025,8,2,retail
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,retail,white maize,8.053333333,2025-08-14,2025,8,2,retail
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,retail,Maize Yellow,7.946666667,2025-08-14,2025,8,2,retail
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,retail,Rice Local perfumed,13.55333333,2025-08-14,2025,8,2,retail
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,retail,Rice Local non perfumed,10.60666667,2025-08-14,2025,8,2,retail
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,retail,Soya Bean,9.62,2025-08-14,2025,8,2,retail
+Upper East,Bolgatanga Municipal,16-08-2025,Bolga,retail,white maize,8.446666667,2025-08-16,2025,8,3,retail
+Upper East,Bolgatanga Municipal,16-08-2025,Bolga,retail,Maize Yellow,8.446666667,2025-08-16,2025,8,3,retail
+Upper East,Bolgatanga Municipal,16-08-2025,Bolga,retail,Groundnut Red,16.66666667,2025-08-16,2025,8,3,retail
+Upper East,Bolgatanga Municipal,16-08-2025,Bolga,retail,Soya Bean,8.62,2025-08-16,2025,8,3,retail
+Savannah,Bole,16-07-2025,Bamboi market,retail,white maize,8.0,2025-07-16,2025,7,3,retail
+Savannah,Bole,16-07-2025,Bamboi market,retail,Maize Yellow,8.0,2025-07-16,2025,7,3,retail
+Savannah,Bole,16-07-2025,Bamboi market,retail,Rice Local non perfumed,16.67,2025-07-16,2025,7,3,retail
+Savannah,Bole,16-07-2025,Bamboi market,retail,Groundnut Red,18.75,2025-07-16,2025,7,3,retail
+Savannah,Bole,16-07-2025,Bamboi market,retail,Soya Bean,12.135,2025-07-16,2025,7,3,retail
+Upper West,Wa Municipal,17-08-2025,Wa  Market ,retail,white maize,7.14,2025-08-17,2025,8,3,retail
+Upper West,Wa Municipal,17-08-2025,Wa  Market ,retail,Maize Yellow,6.873333333,2025-08-17,2025,8,3,retail
+Upper West,Wa Municipal,17-08-2025,Wa  Market ,retail,Rice Local perfumed,10.34666667,2025-08-17,2025,8,3,retail
+Upper West,Wa Municipal,17-08-2025,Wa  Market ,retail,Rice Local non perfumed,11.15,2025-08-17,2025,8,3,retail
+Upper West,Wa Municipal,17-08-2025,Wa  Market ,retail,Groundnut Red,15.17,2025-08-17,2025,8,3,retail
+Upper West,Wa Municipal,17-08-2025,Wa  Market ,retail,Soya Bean,5.56,2025-08-17,2025,8,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,AGBOGBLOSHIE MARKET,retail,white maize,11.2,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,AGBOGBLOSHIE MARKET,retail,Maize Yellow,12.0,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,AGBOGBLOSHIE MARKET,retail,Rice Local perfumed,19.33333333,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,AGBOGBLOSHIE MARKET,retail,Rice Local non perfumed,14.0,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,Makola Market,retail,white maize,12.0,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,Makola Market,retail,Maize Yellow,13.33333333,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,Makola Market,retail,Rice Local perfumed,20.0,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,21-04-2025,Makola Market,retail,Rice Local non perfumed,14.0,2025-04-21,2025,4,3,retail
+Greater Accra,AMA-Okaikoi South,18-08-2025,Tuesday market ,retail,white maize,12.0,2025-08-18,2025,8,3,retail
+Greater Accra,AMA-Okaikoi South,18-08-2025,Tuesday market ,retail,Maize Yellow,14.19333333,2025-08-18,2025,8,3,retail
+Greater Accra,AMA-Okaikoi South,18-08-2025,Tuesday market ,retail,Rice Local perfumed,20.0,2025-08-18,2025,8,3,retail
+Greater Accra,AMA-Okaikoi South,18-08-2025,Tuesday market ,retail,Rice Local non perfumed,14.0,2025-08-18,2025,8,3,retail
+Bono East,Kintampo North Municipal,18-08-2025,Kintampo ,retail,white maize,6.636666667,2025-08-18,2025,8,3,retail
+Bono East,Kintampo North Municipal,18-08-2025,Kintampo ,retail,Maize Yellow,6.52,2025-08-18,2025,8,3,retail
+Bono East,Kintampo North Municipal,18-08-2025,Kintampo ,retail,Rice Local perfumed,10.35,2025-08-18,2025,8,3,retail
+Bono East,Kintampo North Municipal,18-08-2025,Kintampo ,retail,Groundnut Red,14.05666667,2025-08-18,2025,8,3,retail
+Bono East,Kintampo North Municipal,18-08-2025,Kintampo ,retail,Soya Bean,8.85,2025-08-18,2025,8,3,retail
+Bono East,Techiman Municipal,14-08-2025,,retail,white maize,8.053333333,2025-08-14,2025,8,2,retail
+Bono East,Techiman Municipal,14-08-2025,,retail,Maize Yellow,8.676666667,2025-08-14,2025,8,2,retail
+Bono East,Techiman Municipal,14-08-2025,,retail,Rice Local perfumed,12.33666667,2025-08-14,2025,8,2,retail
+Bono East,Techiman Municipal,14-08-2025,,retail,Rice Local non perfumed,11.35666667,2025-08-14,2025,8,2,retail
+Bono East,Techiman Municipal,14-08-2025,,retail,Groundnut Red,20.83333333,2025-08-14,2025,8,2,retail
+Bono East,Techiman Municipal,14-08-2025,,retail,Soya Bean,9.26,2025-08-14,2025,8,2,retail
+Bono East,Techiman Municipal,14-08-2025,,retail,Unshelled Groundnut,16.11333333,2025-08-14,2025,8,2,retail
+Greater Accra,TMA-Tema East,11-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.0,2025-08-11,2025,8,2,retail
+Greater Accra,TMA-Tema East,11-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.71666667,2025-08-11,2025,8,2,retail
+Greater Accra,TMA-Tema East,11-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,21.33333333,2025-08-11,2025,8,2,retail
+Greater Accra,TMA-Tema East,11-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,38.66666667,2025-08-11,2025,8,2,retail
+Greater Accra,TMA-Tema East,11-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-08-11,2025,8,2,retail
+Ashanti,Obuasi Municipal,21-08-2025,Obuasi Central Market,retail,Groundnut Red,20.27666667,2025-08-21,2025,8,3,retail
+Ashanti,Obuasi Municipal,21-08-2025,Obuasi Central Market,retail,Soya Bean,16.44666667,2025-08-21,2025,8,3,retail
+Ashanti,Obuasi Municipal,21-08-2025,Obuasi Central Market,retail,white maize,12.33333333,2025-08-21,2025,8,3,retail
+Ashanti,Obuasi Municipal,21-08-2025,Obuasi Central Market,retail,Maize Yellow,11.69333333,2025-08-21,2025,8,3,retail
+Ashanti,Obuasi Municipal,21-08-2025,Obuasi Central Market,retail,Maize Yellow,11.69333333,2025-08-21,2025,8,3,retail
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,retail,white maize,6.39,2025-08-21,2025,8,3,retail
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,retail,Maize Yellow,7.733333333,2025-08-21,2025,8,3,retail
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,retail,Rice Local perfumed,12.44666667,2025-08-21,2025,8,3,retail
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,retail,Groundnut Red,19.89,2025-08-21,2025,8,3,retail
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,retail,Unshelled Groundnut,17.71,2025-08-21,2025,8,3,retail
+Central,Mfantsiman Municipal,20-08-2025,Mankessim,retail,white maize,6.316666667,2025-08-20,2025,8,3,retail
+Central,Mfantsiman Municipal,20-08-2025,Mankessim,retail,Maize Yellow,7.94,2025-08-20,2025,8,3,retail
+Central,Mfantsiman Municipal,20-08-2025,Mankessim,retail,Rice Local perfumed,21.92,2025-08-20,2025,8,3,retail
+Central,Mfantsiman Municipal,20-08-2025,Mankessim,retail,Rice Local non perfumed,14.38666667,2025-08-20,2025,8,3,retail
+Central,Mfantsiman Municipal,20-08-2025,Mankessim,retail,Groundnut Red,28.04333333,2025-08-20,2025,8,3,retail
+Central,Mfantsiman Municipal,20-08-2025,Mankessim,retail,Soya Bean,19.625,2025-08-20,2025,8,3,retail
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,retail,white maize,8.086666667,2025-08-18,2025,8,3,retail
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,retail,Maize Yellow,7.946666667,2025-08-18,2025,8,3,retail
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,retail,Rice Local perfumed,14.66666667,2025-08-18,2025,8,3,retail
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,retail,Rice Local non perfumed,10.84333333,2025-08-18,2025,8,3,retail
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,retail,Soya Bean,9.62,2025-08-18,2025,8,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,21-08-2025,BIBIANI ,retail,white maize,7.96,2025-08-21,2025,8,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,21-08-2025,BIBIANI ,retail,Maize Yellow,10.30333333,2025-08-21,2025,8,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,21-08-2025,BIBIANI ,retail,Rice Local perfumed,15.79333333,2025-08-21,2025,8,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,21-08-2025,BIBIANI ,retail,Rice Local non perfumed,8.736666667,2025-08-21,2025,8,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,21-08-2025,BIBIANI ,retail,Groundnut Red,15.23666667,2025-08-21,2025,8,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,21-08-2025,BIBIANI ,retail,Soya Bean,13.72333333,2025-08-21,2025,8,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,21-08-2025,BIBIANI ,retail,Unshelled Groundnut,15.7,2025-08-21,2025,8,3,retail
+Greater Accra,TMA-Tema East,19-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.26666667,2025-08-19,2025,8,3,retail
+Greater Accra,TMA-Tema East,19-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.52333333,2025-08-19,2025,8,3,retail
+Greater Accra,TMA-Tema East,19-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,20.0,2025-08-19,2025,8,3,retail
+Greater Accra,TMA-Tema East,19-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,36.0,2025-08-19,2025,8,3,retail
+Greater Accra,TMA-Tema East,19-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,22.66666667,2025-08-19,2025,8,3,retail
+Upper East,Bolgatanga Municipal,23-08-2025,Bolga,retail,white maize,5.17,2025-08-23,2025,8,4,retail
+Upper East,Bolgatanga Municipal,23-08-2025,Bolga,retail,Maize Yellow,5.17,2025-08-23,2025,8,4,retail
+Upper East,Bolgatanga Municipal,23-08-2025,Bolga,retail,Rice Local perfumed,15.52,2025-08-23,2025,8,4,retail
+Upper East,Bolgatanga Municipal,23-08-2025,Bolga,retail,Rice Local non perfumed,10.91666667,2025-08-23,2025,8,4,retail
+Upper East,Bolgatanga Municipal,23-08-2025,Bolga,retail,Soya Bean,11.95333333,2025-08-23,2025,8,4,retail
+Bono East,Techiman Municipal,20-08-2025,,retail,white maize,6.98,2025-08-20,2025,8,3,retail
+Bono East,Techiman Municipal,20-08-2025,,retail,Maize Yellow,7.32,2025-08-20,2025,8,3,retail
+Bono East,Techiman Municipal,20-08-2025,,retail,Rice Local perfumed,13.33,2025-08-20,2025,8,3,retail
+Bono East,Techiman Municipal,20-08-2025,,retail,Rice Local non perfumed,10.71,2025-08-20,2025,8,3,retail
+Bono East,Techiman Municipal,20-08-2025,,retail,Groundnut Red,19.58,2025-08-20,2025,8,3,retail
+Bono East,Techiman Municipal,20-08-2025,,retail,Soya Bean,9.15,2025-08-20,2025,8,3,retail
+Bono East,Techiman Municipal,20-08-2025,,retail,Unshelled Groundnut,18.05666667,2025-08-20,2025,8,3,retail
+Savannah,Bole,17-08-2025,Bamboi market,retail,white maize,8.0,2025-08-17,2025,8,3,retail
+Savannah,Bole,17-08-2025,Bamboi market,retail,Maize Yellow,8.0,2025-08-17,2025,8,3,retail
+Savannah,Bole,17-08-2025,Bamboi market,retail,Rice Local perfumed,16.1675,2025-08-17,2025,8,3,retail
+Savannah,Bole,17-08-2025,Bamboi market,retail,Rice Local non perfumed,14.145,2025-08-17,2025,8,3,retail
+Savannah,Bole,17-08-2025,Bamboi market,retail,Groundnut Red,17.31,2025-08-17,2025,8,3,retail
+Savannah,Bole,17-08-2025,Bamboi market,retail,Soya Bean,13.395,2025-08-17,2025,8,3,retail
+Greater Accra,AMA-Okaikoi South,25-08-2025,AGBOGBLOSHIE MARKET,retail,white maize,10.8,2025-08-25,2025,8,4,retail
+Greater Accra,AMA-Okaikoi South,25-08-2025,AGBOGBLOSHIE MARKET,retail,Maize Yellow,12.0,2025-08-25,2025,8,4,retail
+Greater Accra,AMA-Okaikoi South,25-08-2025,AGBOGBLOSHIE MARKET,retail,Rice Local perfumed,17.33333333,2025-08-25,2025,8,4,retail
+Greater Accra,AMA-Okaikoi South,25-08-2025,AGBOGBLOSHIE MARKET,retail,Rice Local non perfumed,14.0,2025-08-25,2025,8,4,retail
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,retail,white maize,5.12,2025-08-20,2025,8,3,retail
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,retail,Maize Yellow,5.056666667,2025-08-20,2025,8,3,retail
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-08-20,2025,8,3,retail
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,retail,Rice Local non perfumed,10.37,2025-08-20,2025,8,3,retail
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,retail,Groundnut Red,20.0,2025-08-20,2025,8,3,retail
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-08-20,2025,8,3,retail
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,retail,Unshelled Groundnut,37.04,2025-08-20,2025,8,3,retail
+Bono East,Kintampo North Municipal,25-08-2025,Kintampo,retail,white maize,6.673333333,2025-08-25,2025,8,4,retail
+Bono East,Kintampo North Municipal,25-08-2025,Kintampo,retail,Maize Yellow,6.51,2025-08-25,2025,8,4,retail
+Bono East,Kintampo North Municipal,25-08-2025,Kintampo,retail,Rice Local perfumed,11.16333333,2025-08-25,2025,8,4,retail
+Bono East,Kintampo North Municipal,25-08-2025,Kintampo,retail,Groundnut Red,14.46333333,2025-08-25,2025,8,4,retail
+Eastern,New Juaben South Municipal,30-07-2025,Koforidua central ,retail,Maize Yellow,8.33,2025-07-30,2025,7,5,retail
+Central,Mfantsiman Municipal,27-08-2025,Mankessim,retail,white maize,5.515,2025-08-27,2025,8,4,retail
+Central,Mfantsiman Municipal,27-08-2025,Mankessim,retail,Maize Yellow,6.35,2025-08-27,2025,8,4,retail
+Central,Mfantsiman Municipal,27-08-2025,Mankessim,retail,Rice Local perfumed,19.61,2025-08-27,2025,8,4,retail
+Central,Mfantsiman Municipal,27-08-2025,Mankessim,retail,Rice Local non perfumed,14.0,2025-08-27,2025,8,4,retail
+Central,Mfantsiman Municipal,27-08-2025,Mankessim,retail,Groundnut Red,27.54333333,2025-08-27,2025,8,4,retail
+Central,Mfantsiman Municipal,27-08-2025,Mankessim,retail,Soya Bean,20.83333333,2025-08-27,2025,8,4,retail
+Ahafo,Asunafo North Municipal,28-08-2025,208,retail,white maize,5.823333333,2025-08-28,2025,8,4,retail
+Ahafo,Asunafo North Municipal,28-08-2025,208,retail,Maize Yellow,6.0,2025-08-28,2025,8,4,retail
+Ahafo,Asunafo North Municipal,28-08-2025,208,retail,Rice Local perfumed,13.22333333,2025-08-28,2025,8,4,retail
+Ahafo,Asunafo North Municipal,28-08-2025,208,retail,Groundnut Red,19.33333333,2025-08-28,2025,8,4,retail
+Ahafo,Asunafo North Municipal,28-08-2025,208,retail,Unshelled Groundnut,15.87666667,2025-08-28,2025,8,4,retail
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA,retail,white maize,8.07,2025-08-24,2025,8,4,retail
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA,retail,Maize Yellow,7.946666667,2025-08-24,2025,8,4,retail
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA,retail,Rice Local perfumed,14.66666667,2025-08-24,2025,8,4,retail
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA,retail,Rice Local non perfumed,10.84333333,2025-08-24,2025,8,4,retail
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA,retail,Soya Bean,9.62,2025-08-24,2025,8,4,retail
+Ashanti,Obuasi Municipal,25-08-2025,Obuasi Central Market,retail,Groundnut Red,21.28333333,2025-08-25,2025,8,4,retail
+Ashanti,Obuasi Municipal,25-08-2025,Obuasi Central Market,retail,white maize,14.83333333,2025-08-25,2025,8,4,retail
+Ashanti,Obuasi Municipal,26-08-2025,Obuasi Central Market,retail,Maize Yellow,11.84666667,2025-08-26,2025,8,4,retail
+Ashanti,Obuasi Municipal,26-08-2025,Obuasi Central Market,retail,Soya Bean,11.7,2025-08-26,2025,8,4,retail
+North East,East Mamprusi Municipal,30-08-2025,Gbintiri ,retail,white maize,7.605,2025-08-30,2025,8,5,retail
+North East,East Mamprusi Municipal,30-08-2025,Gbintiri ,retail,Maize Yellow,4.336,2025-08-30,2025,8,5,retail
+North East,East Mamprusi Municipal,30-08-2025,Gbintiri ,retail,Soya Bean,6.773333333,2025-08-30,2025,8,5,retail
+North East,East Mamprusi Municipal,30-08-2025,Gbintiri ,retail,Unshelled Groundnut,4.053333333,2025-08-30,2025,8,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,28-08-2025,BIBIANI ,retail,white maize,13.74666667,2025-08-28,2025,8,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,28-08-2025,BIBIANI ,retail,Maize Yellow,12.06666667,2025-08-28,2025,8,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,28-08-2025,BIBIANI ,retail,Rice Local perfumed,23.66666667,2025-08-28,2025,8,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,28-08-2025,BIBIANI ,retail,Rice Local non perfumed,20.44333333,2025-08-28,2025,8,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,28-08-2025,BIBIANI ,retail,Groundnut Red,16.55666667,2025-08-28,2025,8,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,28-08-2025,BIBIANI ,retail,Soya Bean,13.16666667,2025-08-28,2025,8,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,28-08-2025,BIBIANI ,retail,Unshelled Groundnut,16.88666667,2025-08-28,2025,8,4,retail
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,retail,white maize,5.61,2025-08-29,2025,8,5,retail
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,retail,Maize Yellow,5.61,2025-08-29,2025,8,5,retail
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-08-29,2025,8,5,retail
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,retail,Rice Local non perfumed,10.37,2025-08-29,2025,8,5,retail
+Bono,Sunyani Municipal,31-08-2025,Nana Bosomah,retail,Groundnut Red,20.0,2025-08-31,2025,8,5,retail
+Bono,Sunyani Municipal,31-08-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-08-31,2025,8,5,retail
+Greater Accra,TMA-Tema East,26-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.0,2025-08-26,2025,8,4,retail
+Greater Accra,TMA-Tema East,26-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.52333333,2025-08-26,2025,8,4,retail
+Greater Accra,TMA-Tema East,26-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,22.66666667,2025-08-26,2025,8,4,retail
+Greater Accra,TMA-Tema East,26-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,38.66666667,2025-08-26,2025,8,4,retail
+Greater Accra,TMA-Tema East,26-08-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-08-26,2025,8,4,retail
+Bono East,Techiman Municipal,27-08-2025,,retail,white maize,6.916666667,2025-08-27,2025,8,4,retail
+Bono East,Techiman Municipal,27-08-2025,,retail,Maize Yellow,7.246666667,2025-08-27,2025,8,4,retail
+Bono East,Techiman Municipal,27-08-2025,,retail,Rice Local perfumed,13.11,2025-08-27,2025,8,4,retail
+Bono East,Techiman Municipal,27-08-2025,,retail,Rice Local non perfumed,11.11,2025-08-27,2025,8,4,retail
+Bono East,Techiman Municipal,27-08-2025,,retail,Groundnut Red,20.03,2025-08-27,2025,8,4,retail
+Bono East,Techiman Municipal,27-08-2025,,retail,Soya Bean,10.61333333,2025-08-27,2025,8,4,retail
+Bono East,Techiman Municipal,27-08-2025,,retail,Unshelled Groundnut,19.33333333,2025-08-27,2025,8,4,retail
+Bono East,Kintampo North Municipal,01-09-2025,Kintampo ,retail,white maize,3.886666667,2025-09-01,2025,9,1,retail
+Bono East,Kintampo North Municipal,01-09-2025,Kintampo ,retail,Maize Yellow,4.006666667,2025-09-01,2025,9,1,retail
+Bono East,Kintampo North Municipal,01-09-2025,Kintampo ,retail,Rice Local perfumed,11.03666667,2025-09-01,2025,9,1,retail
+Bono East,Kintampo North Municipal,01-09-2025,Kintampo ,retail,Groundnut Red,11.90333333,2025-09-01,2025,9,1,retail
+Upper West,Wa Municipal,31-08-2025,WA MARKET,retail,white maize,4.64,2025-08-31,2025,8,5,retail
+Upper West,Wa Municipal,31-08-2025,WA MARKET,retail,Maize Yellow,4.64,2025-08-31,2025,8,5,retail
+Upper West,Wa Municipal,31-08-2025,WA MARKET,retail,Rice Local perfumed,16.43666667,2025-08-31,2025,8,5,retail
+Upper West,Wa Municipal,31-08-2025,WA MARKET,retail,Rice Local non perfumed,10.34,2025-08-31,2025,8,5,retail
+Upper West,Wa Municipal,31-08-2025,WA MARKET,retail,Groundnut Red,15.38,2025-08-31,2025,8,5,retail
+Upper West,Wa Municipal,31-08-2025,WA MARKET,retail,Soya Bean,12.94,2025-08-31,2025,8,5,retail
+Upper West,Wa Municipal,31-08-2025,WA MARKET,retail,Unshelled Groundnut,17.08333333,2025-08-31,2025,8,5,retail
+Central,Mfantsiman Municipal,03-09-2025,Mankessim,retail,white maize,5.53,2025-09-03,2025,9,1,retail
+Central,Mfantsiman Municipal,03-09-2025,Mankessim,retail,Maize Yellow,6.25,2025-09-03,2025,9,1,retail
+Central,Mfantsiman Municipal,03-09-2025,Mankessim,retail,Rice Local perfumed,23.59666667,2025-09-03,2025,9,1,retail
+Central,Mfantsiman Municipal,03-09-2025,Mankessim,retail,Rice Local non perfumed,18.98,2025-09-03,2025,9,1,retail
+Central,Mfantsiman Municipal,03-09-2025,Mankessim,retail,Groundnut Red,28.30666667,2025-09-03,2025,9,1,retail
+Central,Mfantsiman Municipal,03-09-2025,Mankessim,retail,Soya Bean,18.64,2025-09-03,2025,9,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-09-2025,Bibiani,retail,white maize,6.92,2025-09-04,2025,9,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-09-2025,Bibiani,retail,Maize Yellow,7.84,2025-09-04,2025,9,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-09-2025,Bibiani,retail,Rice Local perfumed,29.72,2025-09-04,2025,9,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-09-2025,Bibiani,retail,Rice Local non perfumed,23.33333333,2025-09-04,2025,9,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-09-2025,Bibiani,retail,Groundnut Red,30.55666667,2025-09-04,2025,9,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-09-2025,Bibiani,retail,Unshelled Groundnut,75.79333333,2025-09-04,2025,9,1,retail
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,retail,white maize,4.29,2025-09-05,2025,9,1,retail
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,retail,Maize Yellow,4.29,2025-09-05,2025,9,1,retail
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-09-05,2025,9,1,retail
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,retail,Rice Local non perfumed,10.37,2025-09-05,2025,9,1,retail
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,retail,Groundnut Red,20.0,2025-09-05,2025,9,1,retail
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-09-05,2025,9,1,retail
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,retail,Unshelled Groundnut,19.2925,2025-09-05,2025,9,1,retail
+Greater Accra,TMA-Tema East,03-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.0,2025-09-03,2025,9,1,retail
+Greater Accra,TMA-Tema East,03-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.33,2025-09-03,2025,9,1,retail
+Greater Accra,TMA-Tema East,03-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,22.66666667,2025-09-03,2025,9,1,retail
+Greater Accra,TMA-Tema East,03-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,33.33333333,2025-09-03,2025,9,1,retail
+Greater Accra,TMA-Tema East,03-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,21.66666667,2025-09-03,2025,9,1,retail
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,retail,white maize,5.17,2025-08-30,2025,8,5,retail
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,retail,Maize Yellow,5.17,2025-08-30,2025,8,5,retail
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,retail,Rice Local perfumed,9.653333333,2025-08-30,2025,8,5,retail
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,retail,Rice Local non perfumed,9.77,2025-08-30,2025,8,5,retail
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,retail,Groundnut Red,15.52,2025-08-30,2025,8,5,retail
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,retail,Soya Bean,8.506666667,2025-08-30,2025,8,5,retail
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,retail,white maize,5.17,2025-09-07,2025,9,1,retail
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,retail,Maize Yellow,5.17,2025-09-07,2025,9,1,retail
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,retail,Groundnut Red,15.40333333,2025-09-07,2025,9,1,retail
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,retail,Soya Bean,10.34,2025-09-07,2025,9,1,retail
+Bono East,Techiman Municipal,04-09-2025,Techiman Market,retail,white maize,6.753333333,2025-09-04,2025,9,1,retail
+Bono East,Techiman Municipal,04-09-2025,Techiman Market,retail,Maize Yellow,6.916666667,2025-09-04,2025,9,1,retail
+Bono East,Techiman Municipal,04-09-2025,Techiman Market,retail,Rice Local perfumed,13.33,2025-09-04,2025,9,1,retail
+Bono East,Techiman Municipal,04-09-2025,Techiman Market,retail,Rice Local non perfumed,10.84333333,2025-09-04,2025,9,1,retail
+Bono East,Techiman Municipal,04-09-2025,Techiman Market,retail,Groundnut Red,19.36666667,2025-09-04,2025,9,1,retail
+Bono East,Techiman Municipal,04-09-2025,Techiman Market,retail,Soya Bean,8.89,2025-09-04,2025,9,1,retail
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,retail,white maize,5.766666667,2025-09-08,2025,9,2,retail
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,retail,Maize Yellow,6.696666667,2025-09-08,2025,9,2,retail
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,retail,Rice Local perfumed,14.0,2025-09-08,2025,9,2,retail
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,retail,Groundnut Red,18.33333333,2025-09-08,2025,9,2,retail
+Bono East,Kintampo North Municipal,08-09-2025,Kintampo ,retail,white maize,3.85,2025-09-08,2025,9,2,retail
+Bono East,Kintampo North Municipal,08-09-2025,Kintampo ,retail,Maize Yellow,3.863333333,2025-09-08,2025,9,2,retail
+Bono East,Kintampo North Municipal,08-09-2025,Kintampo ,retail,Rice Local perfumed,11.15,2025-09-08,2025,9,2,retail
+Bono East,Kintampo North Municipal,08-09-2025,Kintampo ,retail,Groundnut Red,12.67666667,2025-09-08,2025,9,2,retail
+Upper West,Wa Municipal,04-09-2025,WA MARKET,retail,white maize,4.64,2025-09-04,2025,9,1,retail
+Upper West,Wa Municipal,04-09-2025,WA MARKET,retail,Maize Yellow,4.64,2025-09-04,2025,9,1,retail
+Upper West,Wa Municipal,04-09-2025,WA MARKET,retail,Rice Local perfumed,18.97,2025-09-04,2025,9,1,retail
+Upper West,Wa Municipal,04-09-2025,WA MARKET,retail,Rice Local non perfumed,10.34,2025-09-04,2025,9,1,retail
+Upper West,Wa Municipal,04-09-2025,WA MARKET,retail,Groundnut Red,15.38,2025-09-04,2025,9,1,retail
+Upper West,Wa Municipal,04-09-2025,WA MARKET,retail,Soya Bean,12.94,2025-09-04,2025,9,1,retail
+Upper West,Wa Municipal,04-09-2025,WA MARKET,retail,Unshelled Groundnut,12.38,2025-09-04,2025,9,1,retail
+Central,Mfantsiman Municipal,10-09-2025,Mankessim,retail,white maize,6.39,2025-09-10,2025,9,2,retail
+Central,Mfantsiman Municipal,10-09-2025,Mankessim,retail,Maize Yellow,6.325,2025-09-10,2025,9,2,retail
+Central,Mfantsiman Municipal,10-09-2025,Mankessim,retail,Rice Local perfumed,23.47666667,2025-09-10,2025,9,2,retail
+Central,Mfantsiman Municipal,10-09-2025,Mankessim,retail,Rice Local non perfumed,19.62666667,2025-09-10,2025,9,2,retail
+Central,Mfantsiman Municipal,10-09-2025,Mankessim,retail,Groundnut Red,28.04333333,2025-09-10,2025,9,2,retail
+Central,Mfantsiman Municipal,10-09-2025,Mankessim,retail,Soya Bean,20.255,2025-09-10,2025,9,2,retail
+Eastern,New Juaben South Municipal,11-09-2025,Koforidua central,retail,Unshelled Groundnut,16.0,2025-09-11,2025,9,2,retail
+Ashanti,Obuasi Municipal,12-09-2025,Obuasi Central Market ,retail,white maize,12.5,2025-09-12,2025,9,2,retail
+Ashanti,Obuasi Municipal,12-09-2025,Obuasi Central Market ,retail,Maize Yellow,11.638,2025-09-12,2025,9,2,retail
+Ashanti,Obuasi Municipal,12-09-2025,Obuasi Central Market ,retail,Soya Bean,16.44666667,2025-09-12,2025,9,2,retail
+Ashanti,Obuasi Municipal,12-09-2025,Obuasi Central Market ,retail,Groundnut Red,19.78333333,2025-09-12,2025,9,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,12-09-2025,Bibiani ,retail,white maize,7.58,2025-09-12,2025,9,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,12-09-2025,Bibiani ,retail,Maize Yellow,8.15,2025-09-12,2025,9,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,12-09-2025,Bibiani ,retail,Rice Local perfumed,25.2075,2025-09-12,2025,9,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,12-09-2025,Bibiani ,retail,Rice Local non perfumed,28.89,2025-09-12,2025,9,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,12-09-2025,Bibiani ,retail,Soya Bean,17.22333333,2025-09-12,2025,9,2,retail
+Bono East,Kintampo North Municipal,14-09-2025,Kintampo ,retail,white maize,3.913333333,2025-09-14,2025,9,2,retail
+Bono East,Kintampo North Municipal,14-09-2025,Kintampo ,retail,Maize Yellow,3.85,2025-09-14,2025,9,2,retail
+Bono East,Kintampo North Municipal,14-09-2025,Kintampo ,retail,Rice Local perfumed,11.58666667,2025-09-14,2025,9,2,retail
+Bono East,Kintampo North Municipal,14-09-2025,Kintampo ,retail,Groundnut Red,12.67666667,2025-09-14,2025,9,2,retail
+Ahafo,Asunafo North Municipal,14-09-2025,Goaso,retail,white maize,6.736666667,2025-09-14,2025,9,2,retail
+Ahafo,Asunafo North Municipal,14-09-2025,Goaso,retail,Maize Yellow,6.64,2025-09-14,2025,9,2,retail
+Ahafo,Asunafo North Municipal,14-09-2025,Goaso,retail,Rice Local perfumed,12.44666667,2025-09-14,2025,9,2,retail
+Ahafo,Asunafo North Municipal,14-09-2025,Goaso,retail,Groundnut Red,17.22333333,2025-09-14,2025,9,2,retail
+Ahafo,Asunafo North Municipal,14-09-2025,Goaso,retail,Unshelled Groundnut,18.91,2025-09-14,2025,9,2,retail
+North East,East Mamprusi Municipal,31-08-2025,Gbintiri,retail,white maize,4.02,2025-08-31,2025,8,5,retail
+North East,East Mamprusi Municipal,31-08-2025,Gbintiri,retail,Maize Yellow,3.85,2025-08-31,2025,8,5,retail
+North East,East Mamprusi Municipal,31-08-2025,Gbintiri,retail,Soya Bean,6.303333333,2025-08-31,2025,8,5,retail
+North East,East Mamprusi Municipal,31-08-2025,Gbintiri,retail,Unshelled Groundnut,4.23,2025-08-31,2025,8,5,retail
+Upper West,Wa Municipal,14-09-2025,WA MARKET,retail,white maize,4.76,2025-09-14,2025,9,2,retail
+Upper West,Wa Municipal,14-09-2025,WA MARKET,retail,Maize Yellow,5.0,2025-09-14,2025,9,2,retail
+Upper West,Wa Municipal,14-09-2025,WA MARKET,retail,Rice Local perfumed,13.56,2025-09-14,2025,9,2,retail
+Upper West,Wa Municipal,14-09-2025,WA MARKET,retail,Rice Local non perfumed,10.34,2025-09-14,2025,9,2,retail
+Upper West,Wa Municipal,14-09-2025,WA MARKET,retail,Groundnut Red,13.04,2025-09-14,2025,9,2,retail
+Upper West,Wa Municipal,14-09-2025,WA MARKET,retail,Soya Bean,5.33,2025-09-14,2025,9,2,retail
+Upper West,Wa Municipal,14-09-2025,WA MARKET,retail,Unshelled Groundnut,11.34666667,2025-09-14,2025,9,2,retail
+Savannah,Bole,13-09-2025,Bamboi market,retail,white maize,9.7275,2025-09-13,2025,9,2,retail
+Savannah,Bole,13-09-2025,Bamboi market,retail,Maize Yellow,8.0,2025-09-13,2025,9,2,retail
+Savannah,Bole,13-09-2025,Bamboi market,retail,Rice Local perfumed,17.71,2025-09-13,2025,9,2,retail
+Savannah,Bole,13-09-2025,Bamboi market,retail,Rice Local non perfumed,13.54,2025-09-13,2025,9,2,retail
+Savannah,Bole,13-09-2025,Bamboi market,retail,Groundnut Red,15.38,2025-09-13,2025,9,2,retail
+Savannah,Bole,13-09-2025,Bamboi market,retail,Soya Bean,10.0,2025-09-13,2025,9,2,retail
+Central,Mfantsiman Municipal,17-09-2025,Mankessim,retail,white maize,4.736666667,2025-09-17,2025,9,3,retail
+Central,Mfantsiman Municipal,17-09-2025,Mankessim,retail,Maize Yellow,5.515,2025-09-17,2025,9,3,retail
+Central,Mfantsiman Municipal,17-09-2025,Mankessim,retail,Rice Local perfumed,20.57666667,2025-09-17,2025,9,3,retail
+Central,Mfantsiman Municipal,17-09-2025,Mankessim,retail,Rice Local non perfumed,16.33333333,2025-09-17,2025,9,3,retail
+Central,Mfantsiman Municipal,17-09-2025,Mankessim,retail,Groundnut Red,25.67666667,2025-09-17,2025,9,3,retail
+Central,Mfantsiman Municipal,17-09-2025,Mankessim,retail,Soya Bean,20.00666667,2025-09-17,2025,9,3,retail
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,retail,white maize,7.186666667,2025-09-08,2025,9,2,retail
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,retail,Maize Yellow,8.0,2025-09-08,2025,9,2,retail
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,retail,Rice Local perfumed,11.97,2025-09-08,2025,9,2,retail
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,retail,Rice Local non perfumed,10.71,2025-09-08,2025,9,2,retail
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,retail,Soya Bean,9.62,2025-09-08,2025,9,2,retail
+Greater Accra,TMA-Tema East,10-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,12.0,2025-09-10,2025,9,2,retail
+Greater Accra,TMA-Tema East,10-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,13.52333333,2025-09-10,2025,9,2,retail
+Greater Accra,TMA-Tema East,10-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,20.0,2025-09-10,2025,9,2,retail
+Greater Accra,TMA-Tema East,10-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,38.66666667,2025-09-10,2025,9,2,retail
+Greater Accra,TMA-Tema East,10-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-09-10,2025,9,2,retail
+Bono,Sunyani Municipal,18-09-2025,Nana Bosomah,retail,white maize,4.29,2025-09-18,2025,9,3,retail
+Bono,Sunyani Municipal,18-09-2025,Nana Bosomah,retail,Maize Yellow,4.29,2025-09-18,2025,9,3,retail
+Bono,Sunyani Municipal,18-09-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-09-18,2025,9,3,retail
+Bono,Sunyani Municipal,18-09-2025,Nana Bosomah,retail,Rice Local non perfumed,10.37,2025-09-18,2025,9,3,retail
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,retail,white maize,4.29,2025-09-10,2025,9,2,retail
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,retail,Maize Yellow,4.29,2025-09-10,2025,9,2,retail
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-09-10,2025,9,2,retail
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,retail,Rice Local non perfumed,10.37,2025-09-10,2025,9,2,retail
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,retail,Groundnut Red,18.18,2025-09-10,2025,9,2,retail
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-09-10,2025,9,2,retail
+Bono East,Techiman Municipal,10-09-2025,Techiman,retail,white maize,5.493333333,2025-09-10,2025,9,2,retail
+Bono East,Techiman Municipal,10-09-2025,Techiman,retail,Maize Yellow,5.493333333,2025-09-10,2025,9,2,retail
+Bono East,Techiman Municipal,10-09-2025,Techiman,retail,Rice Local perfumed,13.33,2025-09-10,2025,9,2,retail
+Bono East,Techiman Municipal,10-09-2025,Techiman,retail,Rice Local non perfumed,11.01,2025-09-10,2025,9,2,retail
+Bono East,Techiman Municipal,10-09-2025,Techiman,retail,Groundnut Red,19.68333333,2025-09-10,2025,9,2,retail
+Bono East,Techiman Municipal,10-09-2025,Techiman,retail,Soya Bean,9.26,2025-09-10,2025,9,2,retail
+Bono East,Techiman Municipal,10-09-2025,Techiman,retail,Unshelled Groundnut,23.53666667,2025-09-10,2025,9,2,retail
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA,retail,white maize,8.07,2025-09-01,2025,9,1,retail
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA,retail,Maize Yellow,7.946666667,2025-09-01,2025,9,1,retail
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA,retail,Rice Local perfumed,14.66666667,2025-09-01,2025,9,1,retail
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA,retail,Rice Local non perfumed,10.84333333,2025-09-01,2025,9,1,retail
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA,retail,Soya Bean,9.62,2025-09-01,2025,9,1,retail
+Ashanti,Obuasi Municipal,20-09-2025,OBUASI CENTRAL MARKET ,retail,Groundnut Red,23.94333333,2025-09-20,2025,9,3,retail
+Ashanti,Obuasi Municipal,20-09-2025,Obuasi Central Market ,retail,white maize,10.54,2025-09-20,2025,9,3,retail
+Ashanti,Obuasi Municipal,20-09-2025,Obuasi Central Market ,retail,Maize Yellow,10.88333333,2025-09-20,2025,9,3,retail
+Ashanti,Obuasi Municipal,20-09-2025,Obuasi Central Market ,retail,Rice Local perfumed,14.585,2025-09-20,2025,9,3,retail
+Ashanti,Obuasi Municipal,20-09-2025,Obuasi Central Market ,retail,Rice Local non perfumed,16.49,2025-09-20,2025,9,3,retail
+Ahafo,Asunafo North Municipal,20-09-2025,Goaso,retail,white maize,6.64,2025-09-20,2025,9,3,retail
+Ahafo,Asunafo North Municipal,20-09-2025,Goaso,retail,Maize Yellow,6.736666667,2025-09-20,2025,9,3,retail
+Ahafo,Asunafo North Municipal,20-09-2025,Goaso,retail,Rice Local perfumed,12.44666667,2025-09-20,2025,9,3,retail
+Ahafo,Asunafo North Municipal,20-09-2025,Goaso,retail,Groundnut Red,18.33333333,2025-09-20,2025,9,3,retail
+Ahafo,Asunafo North Municipal,20-09-2025,Goaso,retail,Unshelled Groundnut,20.55666667,2025-09-20,2025,9,3,retail
+Bono East,Kintampo North Municipal,22-09-2025,Kintampo,retail,white maize,4.53,2025-09-22,2025,9,4,retail
+Bono East,Kintampo North Municipal,22-09-2025,Kintampo,retail,Maize Yellow,4.363333333,2025-09-22,2025,9,4,retail
+Bono East,Kintampo North Municipal,22-09-2025,Kintampo,retail,Rice Local perfumed,13.97,2025-09-22,2025,9,4,retail
+Bono East,Kintampo North Municipal,22-09-2025,Kintampo,retail,Rice Local non perfumed,10.47333333,2025-09-22,2025,9,4,retail
+Bono East,Kintampo North Municipal,22-09-2025,Kintampo,retail,Groundnut Red,11.84666667,2025-09-22,2025,9,4,retail
+Bono East,Kintampo North Municipal,22-09-2025,Kintampo,retail,Soya Bean,10.34666667,2025-09-22,2025,9,4,retail
+Upper West,Wa Municipal,22-09-2025,WA MARKET,retail,white maize,4.64,2025-09-22,2025,9,4,retail
+Upper West,Wa Municipal,22-09-2025,WA MARKET,retail,Maize Yellow,5.0,2025-09-22,2025,9,4,retail
+Upper West,Wa Municipal,22-09-2025,WA MARKET,retail,Rice Local perfumed,10.34,2025-09-22,2025,9,4,retail
+Upper West,Wa Municipal,22-09-2025,WA MARKET,retail,Rice Local non perfumed,10.34,2025-09-22,2025,9,4,retail
+Upper West,Wa Municipal,22-09-2025,WA MARKET,retail,Groundnut Red,12.18,2025-09-22,2025,9,4,retail
+Upper West,Wa Municipal,22-09-2025,WA MARKET,retail,Soya Bean,9.41,2025-09-22,2025,9,4,retail
+Upper West,Wa Municipal,22-09-2025,WA MARKET,retail,Unshelled Groundnut,9.38,2025-09-22,2025,9,4,retail
+Oti,Nkwanta South Municipal,15-09-2025,NKWANTA,retail,white maize,6.69,2025-09-15,2025,9,3,retail
+Oti,Nkwanta South Municipal,15-09-2025,NKWANTA,retail,Maize Yellow,7.41,2025-09-15,2025,9,3,retail
+Oti,Nkwanta South Municipal,15-09-2025,NKWANTA,retail,Rice Local perfumed,12.65,2025-09-15,2025,9,3,retail
+Oti,Nkwanta South Municipal,15-09-2025,NKWANTA,retail,Rice Local non perfumed,10.71,2025-09-15,2025,9,3,retail
+Oti,Nkwanta South Municipal,15-09-2025,NKWANTA,retail,Soya Bean,9.57,2025-09-15,2025,9,3,retail
+Bono East,Techiman Municipal,19-09-2025,Techiman,retail,white maize,5.063333333,2025-09-19,2025,9,3,retail
+Bono East,Techiman Municipal,19-09-2025,Techiman,retail,Maize Yellow,5.63,2025-09-19,2025,9,3,retail
+Bono East,Techiman Municipal,19-09-2025,Techiman,retail,Rice Local perfumed,13.33,2025-09-19,2025,9,3,retail
+Bono East,Techiman Municipal,19-09-2025,Techiman,retail,Rice Local non perfumed,10.97666667,2025-09-19,2025,9,3,retail
+Bono East,Techiman Municipal,19-09-2025,Techiman,retail,Groundnut Red,18.83333333,2025-09-19,2025,9,3,retail
+Bono East,Techiman Municipal,19-09-2025,Techiman,retail,Soya Bean,9.26,2025-09-19,2025,9,3,retail
+Central,Mfantsiman Municipal,24-09-2025,Mankessim,retail,white maize,4.76,2025-09-24,2025,9,4,retail
+Central,Mfantsiman Municipal,24-09-2025,Mankessim,retail,Maize Yellow,5.515,2025-09-24,2025,9,4,retail
+Central,Mfantsiman Municipal,24-09-2025,Mankessim,retail,Rice Local perfumed,24.16666667,2025-09-24,2025,9,4,retail
+Central,Mfantsiman Municipal,24-09-2025,Mankessim,retail,Rice Local non perfumed,16.52333333,2025-09-24,2025,9,4,retail
+Central,Mfantsiman Municipal,24-09-2025,Mankessim,retail,Groundnut Red,27.79,2025-09-24,2025,9,4,retail
+Central,Mfantsiman Municipal,24-09-2025,Mankessim,retail,Soya Bean,20.35,2025-09-24,2025,9,4,retail
+Greater Accra,TMA-Tema East,20-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,10.0,2025-09-20,2025,9,3,retail
+Greater Accra,TMA-Tema East,20-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,11.14333333,2025-09-20,2025,9,3,retail
+Greater Accra,TMA-Tema East,20-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,17.11333333,2025-09-20,2025,9,3,retail
+Greater Accra,TMA-Tema East,20-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,38.66666667,2025-09-20,2025,9,3,retail
+Greater Accra,TMA-Tema East,20-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-09-20,2025,9,3,retail
+Savannah,Bole,16-09-2025,Bamboi market,retail,white maize,6.0,2025-09-16,2025,9,3,retail
+Savannah,Bole,16-09-2025,Bamboi market,retail,Maize Yellow,6.0,2025-09-16,2025,9,3,retail
+Savannah,Bole,16-09-2025,Bamboi market,retail,Rice Local perfumed,16.67,2025-09-16,2025,9,3,retail
+Savannah,Bole,16-09-2025,Bamboi market,retail,Rice Local non perfumed,14.58,2025-09-16,2025,9,3,retail
+Savannah,Bole,16-09-2025,Bamboi market,retail,Groundnut Red,15.38,2025-09-16,2025,9,3,retail
+Savannah,Bole,16-09-2025,Bamboi market,retail,Soya Bean,11.71,2025-09-16,2025,9,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-09-2025,Bibiani ,retail,white maize,7.01,2025-09-25,2025,9,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-09-2025,Bibiani ,retail,Maize Yellow,7.416666667,2025-09-25,2025,9,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-09-2025,Bibiani ,retail,Rice Local perfumed,26.25,2025-09-25,2025,9,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-09-2025,Bibiani ,retail,Rice Local non perfumed,28.89,2025-09-25,2025,9,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-09-2025,Bibiani ,retail,Groundnut Red,28.61,2025-09-25,2025,9,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-09-2025,Bibiani ,retail,Soya Bean,18.89,2025-09-25,2025,9,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-09-2025,Bibiani ,retail,Unshelled Groundnut,13.24333333,2025-09-25,2025,9,4,retail
+Ahafo,Asunafo North Municipal,27-09-2025,Goaso,retail,white maize,6.88,2025-09-27,2025,9,4,retail
+Ahafo,Asunafo North Municipal,27-09-2025,Goaso,retail,Maize Yellow,7.04,2025-09-27,2025,9,4,retail
+Ahafo,Asunafo North Municipal,27-09-2025,Goaso,retail,Rice Local perfumed,12.0,2025-09-27,2025,9,4,retail
+Ahafo,Asunafo North Municipal,27-09-2025,Goaso,retail,Groundnut Red,20.0,2025-09-27,2025,9,4,retail
+Ahafo,Asunafo North Municipal,27-09-2025,Goaso,retail,Unshelled Groundnut,20.79,2025-09-27,2025,9,4,retail
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,retail,white maize,4.363333333,2025-09-28,2025,9,4,retail
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,retail,Maize Yellow,4.39,2025-09-28,2025,9,4,retail
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,retail,Rice Local perfumed,13.97,2025-09-28,2025,9,4,retail
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,retail,Rice Local non perfumed,10.71,2025-09-28,2025,9,4,retail
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,retail,Groundnut Red,12.5,2025-09-28,2025,9,4,retail
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,retail,Soya Bean,10.34666667,2025-09-28,2025,9,4,retail
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,retail,white maize,5.186666667,2025-09-25,2025,9,4,retail
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,retail,Maize Yellow,5.683333333,2025-09-25,2025,9,4,retail
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,retail,Rice Local perfumed,13.33,2025-09-25,2025,9,4,retail
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,retail,Rice Local non perfumed,10.72,2025-09-25,2025,9,4,retail
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,retail,Groundnut Red,18.86666667,2025-09-25,2025,9,4,retail
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,retail,Soya Bean,8.826666667,2025-09-25,2025,9,4,retail
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,retail,Unshelled Groundnut,23.94666667,2025-09-25,2025,9,4,retail
+Upper West,Wa Municipal,28-09-2025,WA MARKET,retail,white maize,5.0,2025-09-28,2025,9,4,retail
+Upper West,Wa Municipal,28-09-2025,WA MARKET,retail,Maize Yellow,5.12,2025-09-28,2025,9,4,retail
+Upper West,Wa Municipal,28-09-2025,WA MARKET,retail,Rice Local perfumed,13.79,2025-09-28,2025,9,4,retail
+Upper West,Wa Municipal,28-09-2025,WA MARKET,retail,Rice Local non perfumed,10.11333333,2025-09-28,2025,9,4,retail
+Upper West,Wa Municipal,28-09-2025,WA MARKET,retail,Groundnut Red,11.28333333,2025-09-28,2025,9,4,retail
+Upper West,Wa Municipal,28-09-2025,WA MARKET,retail,Soya Bean,9.41,2025-09-28,2025,9,4,retail
+Upper West,Wa Municipal,28-09-2025,WA MARKET,retail,Unshelled Groundnut,14.28666667,2025-09-28,2025,9,4,retail
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,retail,white maize,4.29,2025-09-24,2025,9,4,retail
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,retail,Maize Yellow,4.29,2025-09-24,2025,9,4,retail
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,retail,Rice Local perfumed,14.81,2025-09-24,2025,9,4,retail
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,retail,Rice Local non perfumed,10.37,2025-09-24,2025,9,4,retail
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,retail,Groundnut Red,18.18,2025-09-24,2025,9,4,retail
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-09-24,2025,9,4,retail
+Central,Mfantsiman Municipal,01-10-2025,Mankessim,retail,white maize,3.95,2025-10-01,2025,10,1,retail
+Central,Mfantsiman Municipal,01-10-2025,Mankessim,retail,Maize Yellow,4.736666667,2025-10-01,2025,10,1,retail
+Central,Mfantsiman Municipal,01-10-2025,Mankessim,retail,Rice Local perfumed,21.58,2025-10-01,2025,10,1,retail
+Central,Mfantsiman Municipal,01-10-2025,Mankessim,retail,Rice Local non perfumed,17.35666667,2025-10-01,2025,10,1,retail
+Central,Mfantsiman Municipal,01-10-2025,Mankessim,retail,Groundnut Red,25.67666667,2025-10-01,2025,10,1,retail
+Central,Mfantsiman Municipal,01-10-2025,Mankessim,retail,Soya Bean,18.72666667,2025-10-01,2025,10,1,retail
+Eastern,New Juaben South Municipal,02-10-2025,Central market,retail,Unshelled Groundnut,24.24333333,2025-10-02,2025,10,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,01-10-2025,Bibiani ,retail,white maize,7.223333333,2025-10-01,2025,10,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,01-10-2025,Bibiani ,retail,Maize Yellow,7.593333333,2025-10-01,2025,10,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,01-10-2025,Bibiani ,retail,Rice Local perfumed,15.0725,2025-10-01,2025,10,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,01-10-2025,Bibiani ,retail,Rice Local non perfumed,12.56333333,2025-10-01,2025,10,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,01-10-2025,Bibiani ,retail,Groundnut Red,30.83333333,2025-10-01,2025,10,1,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,01-10-2025,Bibiani ,retail,Unshelled Groundnut,12.19,2025-10-01,2025,10,1,retail
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,retail,white maize,6.88,2025-10-03,2025,10,1,retail
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,retail,Maize Yellow,6.976666667,2025-10-03,2025,10,1,retail
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,retail,Rice Local perfumed,11.33333333,2025-10-03,2025,10,1,retail
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,retail,Groundnut Red,18.66666667,2025-10-03,2025,10,1,retail
+Greater Accra,TMA-Tema East,27-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,10.0,2025-09-27,2025,9,4,retail
+Greater Accra,TMA-Tema East,27-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,11.41333333,2025-09-27,2025,9,4,retail
+Greater Accra,TMA-Tema East,27-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,20.0,2025-09-27,2025,9,4,retail
+Greater Accra,TMA-Tema East,27-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,34.0,2025-09-27,2025,9,4,retail
+Greater Accra,TMA-Tema East,27-09-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-09-27,2025,9,4,retail
+Bono,Sunyani Municipal,01-10-2025,"Nana Bosomah,",retail,white maize,17.14666667,2025-10-01,2025,10,1,retail
+Bono,Sunyani Municipal,01-10-2025,"Nana Bosomah,",retail,Maize Yellow,4.23,2025-10-01,2025,10,1,retail
+Bono,Sunyani Municipal,01-10-2025,"Nana Bosomah,",retail,Rice Local perfumed,12.96,2025-10-01,2025,10,1,retail
+Bono,Sunyani Municipal,01-10-2025,"Nana Bosomah,",retail,Rice Local non perfumed,10.37,2025-10-01,2025,10,1,retail
+Bono,Sunyani Municipal,01-10-2025,"Nana Bosomah,",retail,Groundnut Red,18.18,2025-10-01,2025,10,1,retail
+Bono,Sunyani Municipal,01-10-2025,"Nana Bosomah,",retail,Soya Bean,12.5,2025-10-01,2025,10,1,retail
+Upper West,Wa Municipal,06-10-2025,WA MARKET,retail,white maize,4.76,2025-10-06,2025,10,1,retail
+Upper West,Wa Municipal,06-10-2025,WA MARKET,retail,Maize Yellow,4.64,2025-10-06,2025,10,1,retail
+Upper West,Wa Municipal,06-10-2025,WA MARKET,retail,Rice Local perfumed,13.79,2025-10-06,2025,10,1,retail
+Upper West,Wa Municipal,06-10-2025,WA MARKET,retail,Rice Local non perfumed,10.34,2025-10-06,2025,10,1,retail
+Upper West,Wa Municipal,06-10-2025,WA MARKET,retail,Groundnut Red,13.04,2025-10-06,2025,10,1,retail
+Upper West,Wa Municipal,06-10-2025,WA MARKET,retail,Soya Bean,5.33,2025-10-06,2025,10,1,retail
+Upper West,Wa Municipal,06-10-2025,WA MARKET,retail,Unshelled Groundnut,7.366666667,2025-10-06,2025,10,1,retail
+North East,East Mamprusi Municipal,24-09-2025,Gbintiri,retail,white maize,3.526666667,2025-09-24,2025,9,4,retail
+North East,East Mamprusi Municipal,24-09-2025,Gbintiri,retail,Maize Yellow,3.59,2025-09-24,2025,9,4,retail
+North East,East Mamprusi Municipal,24-09-2025,Gbintiri,retail,Rice Local non perfumed,14.37666667,2025-09-24,2025,9,4,retail
+North East,East Mamprusi Municipal,24-09-2025,Gbintiri,retail,Groundnut Red,10.84666667,2025-09-24,2025,9,4,retail
+North East,East Mamprusi Municipal,24-09-2025,Gbintiri,retail,Unshelled Groundnut,6.436666667,2025-09-24,2025,9,4,retail
+Central,Mfantsiman Municipal,08-10-2025,Mankessim,retail,white maize,3.95,2025-10-08,2025,10,2,retail
+Central,Mfantsiman Municipal,08-10-2025,Mankessim,retail,Maize Yellow,4.3325,2025-10-08,2025,10,2,retail
+Central,Mfantsiman Municipal,08-10-2025,Mankessim,retail,Rice Local perfumed,23.98333333,2025-10-08,2025,10,2,retail
+Central,Mfantsiman Municipal,08-10-2025,Mankessim,retail,Rice Local non perfumed,17.23,2025-10-08,2025,10,2,retail
+Central,Mfantsiman Municipal,08-10-2025,Mankessim,retail,Groundnut Red,26.84,2025-10-08,2025,10,2,retail
+Central,Mfantsiman Municipal,08-10-2025,Mankessim,retail,Soya Bean,18.33333333,2025-10-08,2025,10,2,retail
+Bono East,Techiman Municipal,06-10-2025,Techiman,retail,white maize,4.753333333,2025-10-06,2025,10,1,retail
+Bono East,Techiman Municipal,06-10-2025,Techiman,retail,Maize Yellow,5.426666667,2025-10-06,2025,10,1,retail
+Bono East,Techiman Municipal,06-10-2025,Techiman,retail,Rice Local perfumed,12.55666667,2025-10-06,2025,10,1,retail
+Bono East,Techiman Municipal,06-10-2025,Techiman,retail,Rice Local non perfumed,10.84333333,2025-10-06,2025,10,1,retail
+Bono East,Techiman Municipal,06-10-2025,Techiman,retail,Groundnut Red,18.83333333,2025-10-06,2025,10,1,retail
+Bono East,Techiman Municipal,06-10-2025,Techiman,retail,Soya Bean,9.26,2025-10-06,2025,10,1,retail
+Bono East,Techiman Municipal,06-10-2025,Techiman,retail,Unshelled Groundnut,25.23666667,2025-10-06,2025,10,1,retail
+Ahafo,Asunafo North Municipal,09-10-2025,Goaso,retail,white maize,6.456666667,2025-10-09,2025,10,2,retail
+Ahafo,Asunafo North Municipal,09-10-2025,Goaso,retail,Maize Yellow,6.596666667,2025-10-09,2025,10,2,retail
+Ahafo,Asunafo North Municipal,09-10-2025,Goaso,retail,Rice Local perfumed,14.5,2025-10-09,2025,10,2,retail
+Ahafo,Asunafo North Municipal,09-10-2025,Goaso,retail,Groundnut Red,20.0,2025-10-09,2025,10,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-09-2025, BIBIANI ,retail,white maize,6.543333333,2025-09-18,2025,9,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-09-2025, BIBIANI ,retail,Maize Yellow,8.603333333,2025-09-18,2025,9,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-09-2025, BIBIANI ,retail,Rice Local perfumed,37.77666667,2025-09-18,2025,9,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-09-2025, BIBIANI ,retail,Rice Local non perfumed,32.22333333,2025-09-18,2025,9,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-09-2025, BIBIANI ,retail,Groundnut Red,28.165,2025-09-18,2025,9,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-09-2025, BIBIANI ,retail,Soya Bean,14.72333333,2025-09-18,2025,9,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-09-2025, BIBIANI ,retail,Unshelled Groundnut,14.59333333,2025-09-18,2025,9,3,retail
+Upper East,Garu,10-10-2025,Garu,retail,white maize,3.24,2025-10-10,2025,10,2,retail
+Upper East,Garu,10-10-2025,Garu,retail,Maize Yellow,3.24,2025-10-10,2025,10,2,retail
+Upper East,Garu,10-10-2025,Garu,retail,Rice Local non perfumed,8.036666667,2025-10-10,2025,10,2,retail
+Upper East,Garu,10-10-2025,Garu,retail,Groundnut Red,11.84,2025-10-10,2025,10,2,retail
+Upper East,Garu,10-10-2025,Garu,retail,Soya Bean,5.41,2025-10-10,2025,10,2,retail
+Upper East,Garu,10-10-2025,Garu,retail,Unshelled Groundnut,10.0,2025-10-10,2025,10,2,retail
+Greater Accra,TMA-Tema East,07-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,10.0,2025-10-07,2025,10,1,retail
+Greater Accra,TMA-Tema East,07-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,11.25,2025-10-07,2025,10,1,retail
+Greater Accra,TMA-Tema East,07-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,18.22333333,2025-10-07,2025,10,1,retail
+Greater Accra,TMA-Tema East,07-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,30.0,2025-10-07,2025,10,1,retail
+Greater Accra,TMA-Tema East,07-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,18.89,2025-10-07,2025,10,1,retail
+Savannah,Bole,11-10-2025,Bamboi market,retail,white maize,6.0625,2025-10-11,2025,10,2,retail
+Savannah,Bole,11-10-2025,Bamboi market,retail,Maize Yellow,6.0,2025-10-11,2025,10,2,retail
+Savannah,Bole,11-10-2025,Bamboi market,retail,Rice Local perfumed,14.58,2025-10-11,2025,10,2,retail
+Savannah,Bole,11-10-2025,Bamboi market,retail,Rice Local non perfumed,12.5,2025-10-11,2025,10,2,retail
+Savannah,Bole,11-10-2025,Bamboi market,retail,Groundnut Red,16.345,2025-10-11,2025,10,2,retail
+Savannah,Bole,11-10-2025,Bamboi market,retail,Soya Bean,12.0,2025-10-11,2025,10,2,retail
+Upper East,Garu,12-10-2025,Garu,retail,white maize,2.7025,2025-10-12,2025,10,2,retail
+Upper East,Garu,12-10-2025,Garu,retail,Maize Yellow,3.213333333,2025-10-12,2025,10,2,retail
+Upper East,Garu,12-10-2025,Garu,retail,Groundnut Red,12.95333333,2025-10-12,2025,10,2,retail
+Upper East,Garu,12-10-2025,Garu,retail,Soya Bean,5.51,2025-10-12,2025,10,2,retail
+Upper East,Garu,12-10-2025,Garu,retail,Unshelled Groundnut,8.0,2025-10-12,2025,10,2,retail
+Upper West,Wa Municipal,15-10-2025,WA MARKET,retail,white maize,4.88,2025-10-15,2025,10,3,retail
+Upper West,Wa Municipal,15-10-2025,WA MARKET,retail,Maize Yellow,5.12,2025-10-15,2025,10,3,retail
+Upper West,Wa Municipal,15-10-2025,WA MARKET,retail,Rice Local perfumed,14.02,2025-10-15,2025,10,3,retail
+Upper West,Wa Municipal,15-10-2025,WA MARKET,retail,Rice Local non perfumed,10.57,2025-10-15,2025,10,3,retail
+Upper West,Wa Municipal,15-10-2025,WA MARKET,retail,Groundnut Red,13.04,2025-10-15,2025,10,3,retail
+Upper West,Wa Municipal,15-10-2025,WA MARKET,retail,Soya Bean,5.33,2025-10-15,2025,10,3,retail
+Upper West,Wa Municipal,15-10-2025,WA MARKET,retail,Unshelled Groundnut,10.71,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,08-10-2025,Techiman,retail,white maize,4.88,2025-10-08,2025,10,2,retail
+Bono East,Techiman Municipal,08-10-2025,Techiman,retail,Maize Yellow,5.493333333,2025-10-08,2025,10,2,retail
+Bono East,Techiman Municipal,08-10-2025,Techiman,retail,Rice Local perfumed,12.11,2025-10-08,2025,10,2,retail
+Bono East,Techiman Municipal,08-10-2025,Techiman,retail,Rice Local non perfumed,10.71,2025-10-08,2025,10,2,retail
+Bono East,Techiman Municipal,08-10-2025,Techiman,retail,Groundnut Red,15.74666667,2025-10-08,2025,10,2,retail
+Bono East,Techiman Municipal,08-10-2025,Techiman,retail,Soya Bean,9.506666667,2025-10-08,2025,10,2,retail
+Central,Mfantsiman Municipal,15-10-2025,Mankessim,retail,white maize,4.736666667,2025-10-15,2025,10,3,retail
+Central,Mfantsiman Municipal,15-10-2025,Mankessim,retail,Maize Yellow,5.5375,2025-10-15,2025,10,3,retail
+Central,Mfantsiman Municipal,15-10-2025,Mankessim,retail,Rice Local perfumed,21.32,2025-10-15,2025,10,3,retail
+Central,Mfantsiman Municipal,15-10-2025,Mankessim,retail,Rice Local non perfumed,14.81333333,2025-10-15,2025,10,3,retail
+Central,Mfantsiman Municipal,15-10-2025,Mankessim,retail,Groundnut Red,25.49333333,2025-10-15,2025,10,3,retail
+Central,Mfantsiman Municipal,15-10-2025,Mankessim,retail,Soya Bean,20.41333333,2025-10-15,2025,10,3,retail
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,retail,white maize,5.713333333,2025-09-29,2025,9,5,retail
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,retail,Maize Yellow,7.69,2025-09-29,2025,9,5,retail
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,retail,Rice Local perfumed,12.77666667,2025-09-29,2025,9,5,retail
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,retail,Rice Local non perfumed,10.71,2025-09-29,2025,9,5,retail
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,retail,Soya Bean,9.57,2025-09-29,2025,9,5,retail
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,retail,white maize,5.713333333,2025-10-06,2025,10,1,retail
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,retail,Maize Yellow,7.69,2025-10-06,2025,10,1,retail
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,retail,Rice Local perfumed,12.77666667,2025-10-06,2025,10,1,retail
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,retail,Rice Local non perfumed,10.71,2025-10-06,2025,10,1,retail
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,retail,Soya Bean,9.57,2025-10-06,2025,10,1,retail
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,retail,white maize,4.34,2025-10-13,2025,10,2,retail
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,retail,Maize Yellow,4.313333333,2025-10-13,2025,10,2,retail
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,retail,Rice Local perfumed,14.12333333,2025-10-13,2025,10,2,retail
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,retail,Rice Local non perfumed,10.58666667,2025-10-13,2025,10,2,retail
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,retail,Groundnut Red,11.84666667,2025-10-13,2025,10,2,retail
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,retail,Soya Bean,10.34666667,2025-10-13,2025,10,2,retail
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,retail,white maize,4.29,2025-10-08,2025,10,2,retail
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,retail,Maize Yellow,4.29,2025-10-08,2025,10,2,retail
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,retail,Rice Local perfumed,12.96,2025-10-08,2025,10,2,retail
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,retail,Rice Local non perfumed,10.37,2025-10-08,2025,10,2,retail
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,retail,Groundnut Red,20.0,2025-10-08,2025,10,2,retail
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,retail,Soya Bean,12.5,2025-10-08,2025,10,2,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-10-2025,Bibiani ,retail,white maize,7.136666667,2025-10-17,2025,10,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-10-2025,Bibiani ,retail,Maize Yellow,8.17,2025-10-17,2025,10,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-10-2025,Bibiani ,retail,Rice Local perfumed,28.44333333,2025-10-17,2025,10,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-10-2025,Bibiani ,retail,Rice Local non perfumed,29.44333333,2025-10-17,2025,10,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-10-2025,Bibiani ,retail,Groundnut Red,25.41666667,2025-10-17,2025,10,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-10-2025,Bibiani ,retail,Soya Bean,27.77666667,2025-10-17,2025,10,3,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,17-10-2025,Bibiani ,retail,Unshelled Groundnut,17.74333333,2025-10-17,2025,10,3,retail
+Ahafo,Asunafo North Municipal,20-10-2025,Goaso,retail,white maize,6.596666667,2025-10-20,2025,10,3,retail
+Ahafo,Asunafo North Municipal,20-10-2025,Goaso,retail,Maize Yellow,6.596666667,2025-10-20,2025,10,3,retail
+Ahafo,Asunafo North Municipal,20-10-2025,Goaso,retail,Rice Local perfumed,13.33333333,2025-10-20,2025,10,3,retail
+Ahafo,Asunafo North Municipal,20-10-2025,Goaso,retail,Groundnut Red,20.2075,2025-10-20,2025,10,3,retail
+Ahafo,Asunafo North Municipal,20-10-2025,Goaso,retail,Unshelled Groundnut,18.31666667,2025-10-20,2025,10,3,retail
+Greater Accra,TMA-Tema East,15-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,10.0,2025-10-15,2025,10,3,retail
+Greater Accra,TMA-Tema East,15-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,11.25,2025-10-15,2025,10,3,retail
+Greater Accra,TMA-Tema East,15-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,23.39,2025-10-15,2025,10,3,retail
+Greater Accra,TMA-Tema East,15-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,36.0,2025-10-15,2025,10,3,retail
+Greater Accra,TMA-Tema East,15-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,retail,white maize,4.686666667,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,retail,Maize Yellow,5.493333333,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,retail,Rice Local perfumed,11.66666667,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,retail,Rice Local non perfumed,10.84333333,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,retail,Groundnut Red,16.89,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,retail,Soya Bean,9.383333333,2025-10-15,2025,10,3,retail
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,retail,Unshelled Groundnut,23.24666667,2025-10-15,2025,10,3,retail
+North East,East Mamprusi Municipal,21-10-2025,Gbintiri,retail,white maize,3.36,2025-10-21,2025,10,3,retail
+North East,East Mamprusi Municipal,21-10-2025,Gbintiri,retail,Maize Yellow,3.303333333,2025-10-21,2025,10,3,retail
+North East,East Mamprusi Municipal,21-10-2025,Gbintiri,retail,Rice Local non perfumed,12.66666667,2025-10-21,2025,10,3,retail
+North East,East Mamprusi Municipal,21-10-2025,Gbintiri,retail,Soya Bean,6.326666667,2025-10-21,2025,10,3,retail
+Central,Mfantsiman Municipal,22-10-2025,Mankessim,retail,white maize,4.76,2025-10-22,2025,10,4,retail
+Central,Mfantsiman Municipal,22-10-2025,Mankessim,retail,Maize Yellow,5.515,2025-10-22,2025,10,4,retail
+Central,Mfantsiman Municipal,22-10-2025,Mankessim,retail,Rice Local perfumed,24.28666667,2025-10-22,2025,10,4,retail
+Central,Mfantsiman Municipal,22-10-2025,Mankessim,retail,Rice Local non perfumed,16.71,2025-10-22,2025,10,4,retail
+Central,Mfantsiman Municipal,22-10-2025,Mankessim,retail,Groundnut Red,26.86666667,2025-10-22,2025,10,4,retail
+Central,Mfantsiman Municipal,22-10-2025,Mankessim,retail,Soya Bean,21.48,2025-10-22,2025,10,4,retail
+Upper West,Wa Municipal,22-10-2025,WA MARKET,retail,white maize,5.0,2025-10-22,2025,10,4,retail
+Upper West,Wa Municipal,22-10-2025,WA MARKET,retail,Maize Yellow,5.36,2025-10-22,2025,10,4,retail
+Upper West,Wa Municipal,22-10-2025,WA MARKET,retail,Rice Local perfumed,14.36666667,2025-10-22,2025,10,4,retail
+Upper West,Wa Municipal,22-10-2025,WA MARKET,retail,Rice Local non perfumed,10.34,2025-10-22,2025,10,4,retail
+Upper West,Wa Municipal,22-10-2025,WA MARKET,retail,Groundnut Red,12.05333333,2025-10-22,2025,10,4,retail
+Upper West,Wa Municipal,22-10-2025,WA MARKET,retail,Soya Bean,5.95,2025-10-22,2025,10,4,retail
+Upper West,Wa Municipal,22-10-2025,WA MARKET,retail,Unshelled Groundnut,9.38,2025-10-22,2025,10,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-10-2025,Bibiani ,retail,white maize,7.52,2025-10-24,2025,10,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-10-2025,Bibiani ,retail,Maize Yellow,8.213333333,2025-10-24,2025,10,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-10-2025,Bibiani ,retail,Rice Local perfumed,29.16666667,2025-10-24,2025,10,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-10-2025,Bibiani ,retail,Rice Local non perfumed,18.75,2025-10-24,2025,10,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-10-2025,Bibiani ,retail,Groundnut Red,26.3325,2025-10-24,2025,10,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-10-2025,Bibiani ,retail,Soya Bean,29.44333333,2025-10-24,2025,10,4,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,24-10-2025,Bibiani ,retail,Unshelled Groundnut,12.13666667,2025-10-24,2025,10,4,retail
+Greater Accra,TMA-Tema East,22-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,10.0,2025-10-22,2025,10,4,retail
+Greater Accra,TMA-Tema East,22-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,11.25,2025-10-22,2025,10,4,retail
+Greater Accra,TMA-Tema East,22-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,25.33333333,2025-10-22,2025,10,4,retail
+Greater Accra,TMA-Tema East,22-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,28.0,2025-10-22,2025,10,4,retail
+Greater Accra,TMA-Tema East,22-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,20.0,2025-10-22,2025,10,4,retail
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,retail,white maize,6.903333333,2025-10-26,2025,10,4,retail
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,retail,Maize Yellow,6.903333333,2025-10-26,2025,10,4,retail
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,retail,Rice Local perfumed,13.33333333,2025-10-26,2025,10,4,retail
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,retail,Groundnut Red,18.89,2025-10-26,2025,10,4,retail
+Oti,Nkwanta South Municipal,13-10-2025,NKWANTA ,retail,white maize,5.803333333,2025-10-13,2025,10,2,retail
+Oti,Nkwanta South Municipal,13-10-2025,NKWANTA ,retail,Maize Yellow,8.0,2025-10-13,2025,10,2,retail
+Oti,Nkwanta South Municipal,13-10-2025,NKWANTA ,retail,Rice Local perfumed,12.22333333,2025-10-13,2025,10,2,retail
+Oti,Nkwanta South Municipal,13-10-2025,NKWANTA ,retail,Rice Local non perfumed,8.93,2025-10-13,2025,10,2,retail
+Oti,Nkwanta South Municipal,13-10-2025,NKWANTA ,retail,Soya Bean,9.57,2025-10-13,2025,10,2,retail
+Bono East,Kintampo North Municipal,27-10-2025,Kintampo ,retail,white maize,4.046666667,2025-10-27,2025,10,4,retail
+Bono East,Kintampo North Municipal,27-10-2025,Kintampo ,retail,Maize Yellow,3.996666667,2025-10-27,2025,10,4,retail
+Bono East,Kintampo North Municipal,27-10-2025,Kintampo ,retail,Rice Local perfumed,12.34333333,2025-10-27,2025,10,4,retail
+Bono East,Kintampo North Municipal,27-10-2025,Kintampo ,retail,Groundnut Red,12.22333333,2025-10-27,2025,10,4,retail
+Bono,Sunyani Municipal,23-10-2025,Nana Bosomah.,retail,white maize,4.26,2025-10-23,2025,10,4,retail
+Bono,Sunyani Municipal,23-10-2025,Nana Bosomah.,retail,Maize Yellow,4.26,2025-10-23,2025,10,4,retail
+Bono,Sunyani Municipal,23-10-2025,Nana Bosomah.,retail,Rice Local perfumed,12.96,2025-10-23,2025,10,4,retail
+Bono,Sunyani Municipal,23-10-2025,Nana Bosomah.,retail,Rice Local non perfumed,10.37,2025-10-23,2025,10,4,retail
+Bono,Sunyani Municipal,23-10-2025,Nana Bosomah.,retail,Groundnut Red,20.0,2025-10-23,2025,10,4,retail
+Bono,Sunyani Municipal,23-10-2025,Nana Bosomah.,retail,Soya Bean,12.5,2025-10-23,2025,10,4,retail
+Central,Mfantsiman Municipal,29-10-2025,Mankessim,retail,white maize,4.725,2025-10-29,2025,10,5,retail
+Central,Mfantsiman Municipal,29-10-2025,Mankessim,retail,Maize Yellow,5.515,2025-10-29,2025,10,5,retail
+Central,Mfantsiman Municipal,29-10-2025,Mankessim,retail,Rice Local perfumed,24.38,2025-10-29,2025,10,5,retail
+Central,Mfantsiman Municipal,29-10-2025,Mankessim,retail,Rice Local non perfumed,17.65,2025-10-29,2025,10,5,retail
+Central,Mfantsiman Municipal,29-10-2025,Mankessim,retail,Groundnut Red,26.11666667,2025-10-29,2025,10,5,retail
+Central,Mfantsiman Municipal,29-10-2025,Mankessim,retail,Soya Bean,20.0,2025-10-29,2025,10,5,retail
+Upper West,Wa Municipal,30-10-2025,WA MARKET,retail,white maize,4.943333333,2025-10-30,2025,10,5,retail
+Upper West,Wa Municipal,30-10-2025,WA MARKET,retail,Maize Yellow,5.056666667,2025-10-30,2025,10,5,retail
+Upper West,Wa Municipal,30-10-2025,WA MARKET,retail,Rice Local perfumed,13.79,2025-10-30,2025,10,5,retail
+Upper West,Wa Municipal,30-10-2025,WA MARKET,retail,Rice Local non perfumed,12.07,2025-10-30,2025,10,5,retail
+Upper West,Wa Municipal,30-10-2025,WA MARKET,retail,Groundnut Red,12.0,2025-10-30,2025,10,5,retail
+Upper West,Wa Municipal,30-10-2025,WA MARKET,retail,Soya Bean,6.0,2025-10-30,2025,10,5,retail
+Upper West,Wa Municipal,30-10-2025,WA MARKET,retail,Unshelled Groundnut,8.77,2025-10-30,2025,10,5,retail
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,retail,white maize,4.936666667,2025-10-30,2025,10,5,retail
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,retail,Maize Yellow,6.98,2025-10-30,2025,10,5,retail
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,retail,Rice Local perfumed,13.33333333,2025-10-30,2025,10,5,retail
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,retail,Groundnut Red,20.0,2025-10-30,2025,10,5,retail
+Oti,Nkwanta South Municipal,21-10-2025,NKWANTA,retail,white maize,5.433333333,2025-10-21,2025,10,3,retail
+Oti,Nkwanta South Municipal,21-10-2025,NKWANTA,retail,Maize Yellow,7.6,2025-10-21,2025,10,3,retail
+Oti,Nkwanta South Municipal,21-10-2025,NKWANTA,retail,Rice Local perfumed,11.97,2025-10-21,2025,10,3,retail
+Oti,Nkwanta South Municipal,21-10-2025,NKWANTA,retail,Rice Local non perfumed,9.193333333,2025-10-21,2025,10,3,retail
+Oti,Nkwanta South Municipal,21-10-2025,NKWANTA,retail,Soya Bean,9.17,2025-10-21,2025,10,3,retail
+Ashanti,Obuasi Municipal,30-10-2025,Obuasi Central ,retail,Groundnut Red,18.08,2025-10-30,2025,10,5,retail
+Ashanti,Obuasi Municipal,30-10-2025,Obuasi Central Market ,retail,white maize,9.606666667,2025-10-30,2025,10,5,retail
+Ashanti,Obuasi Municipal,30-10-2025,Obuasi Central Market ,retail,Maize Yellow,8.563333333,2025-10-30,2025,10,5,retail
+Ashanti,Obuasi Municipal,30-10-2025,Obuasi Central Market ,retail,Rice Local non perfumed,13.81333333,2025-10-30,2025,10,5,retail
+Ashanti,Obuasi Municipal,30-10-2025,Obuasi Central Market ,retail,Soya Bean,9.93,2025-10-30,2025,10,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,31-10-2025,Bibiani ,retail,white maize,7.05,2025-10-31,2025,10,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,31-10-2025,Bibiani ,retail,Maize Yellow,8.1,2025-10-31,2025,10,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,31-10-2025,Bibiani ,retail,Rice Local perfumed,32.77666667,2025-10-31,2025,10,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,31-10-2025,Bibiani ,retail,Rice Local non perfumed,24.22333333,2025-10-31,2025,10,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,31-10-2025,Bibiani ,retail,Groundnut Red,30.69333333,2025-10-31,2025,10,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,31-10-2025,Bibiani ,retail,Soya Bean,21.94666667,2025-10-31,2025,10,5,retail
+Greater Accra,TMA-Tema East,29-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,white maize,10.0,2025-10-29,2025,10,5,retail
+Greater Accra,TMA-Tema East,29-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Maize Yellow,11.25,2025-10-29,2025,10,5,retail
+Greater Accra,TMA-Tema East,29-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Rice Local perfumed,23.89,2025-10-29,2025,10,5,retail
+Greater Accra,TMA-Tema East,29-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Groundnut Red,30.0,2025-10-29,2025,10,5,retail
+Greater Accra,TMA-Tema East,29-10-2025,TEMA COMMUNITY ONE MAIN MARKET,retail,Soya Bean,18.66666667,2025-10-29,2025,10,5,retail
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-06-2025,Bibiani,wholesale,white maize,11.03,2025-06-14,2025,6,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-06-2025,Bibiani,wholesale,Maize Yellow,11.65666667,2025-06-14,2025,6,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-06-2025,Bibiani,wholesale,Rice Local perfumed,17.6975,2025-06-14,2025,6,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-06-2025,Bibiani,wholesale,Groundnut Red,22.48333333,2025-06-14,2025,6,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-06-2025,Bibiani,wholesale,Soya Bean,17.16,2025-06-14,2025,6,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-06-2025,Bibiani,wholesale,Unshelled Groundnut,21.40333333,2025-06-14,2025,6,2,wholesale
+Upper West,Wa Municipal,15-06-2025,Wa Market,wholesale,white maize,6.8,2025-06-15,2025,6,3,wholesale
+Upper West,Wa Municipal,15-06-2025,Wa Market,wholesale,Maize Yellow,6.8,2025-06-15,2025,6,3,wholesale
+Upper West,Wa Municipal,15-06-2025,Wa Market,wholesale,Rice Local perfumed,8.33,2025-06-15,2025,6,3,wholesale
+Upper West,Wa Municipal,15-06-2025,Wa Market,wholesale,Rice Local non perfumed,7.74,2025-06-15,2025,6,3,wholesale
+Upper West,Wa Municipal,15-06-2025,Wa Market,wholesale,Soya Bean,8.0,2025-06-15,2025,6,3,wholesale
+Bono East,Kintampo North Municipal,14-06-2025,Kintampo,wholesale,white maize,6.9725,2025-06-14,2025,6,2,wholesale
+Bono East,Kintampo North Municipal,14-06-2025,Kintampo,wholesale,Maize Yellow,7.23,2025-06-14,2025,6,2,wholesale
+Bono East,Kintampo North Municipal,14-06-2025,Kintampo,wholesale,Rice Local perfumed,12.1725,2025-06-14,2025,6,2,wholesale
+Bono East,Kintampo North Municipal,14-06-2025,Kintampo,wholesale,Groundnut Red,13.20333333,2025-06-14,2025,6,2,wholesale
+Upper East,Bolgatanga Municipal,16-06-2025,Bolgatanga Market,wholesale,white maize,6.886666667,2025-06-16,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,16-06-2025,Bolgatanga Market,wholesale,Maize Yellow,6.886666667,2025-06-16,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,16-06-2025,Bolgatanga Market,wholesale,Rice Local non perfumed,13.5,2025-06-16,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,16-06-2025,Bolgatanga Market,wholesale,Groundnut Red,13.4,2025-06-16,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,16-06-2025,Bolgatanga Market,wholesale,Soya Bean,7.296,2025-06-16,2025,6,3,wholesale
+Greater Accra,TMA-Tema East,14-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-06-14,2025,6,2,wholesale
+Greater Accra,TMA-Tema East,14-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-06-14,2025,6,2,wholesale
+Greater Accra,TMA-Tema East,14-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,24.8,2025-06-14,2025,6,2,wholesale
+Greater Accra,TMA-Tema East,14-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,31.59,2025-06-14,2025,6,2,wholesale
+Greater Accra,TMA-Tema East,14-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-06-14,2025,6,2,wholesale
+Eastern,New Juaben South Municipal,19-06-2025,Koforidua Central Market ,wholesale,Maize Yellow,7.29,2025-06-19,2025,6,3,wholesale
+Ahafo,Asunafo North Municipal,19-06-2025,Goaso,wholesale,white maize,11.66,2025-06-19,2025,6,3,wholesale
+Ahafo,Asunafo North Municipal,19-06-2025,Goaso,wholesale,Maize Yellow,11.87333333,2025-06-19,2025,6,3,wholesale
+Ahafo,Asunafo North Municipal,19-06-2025,Goaso,wholesale,Rice Local perfumed,18.79333333,2025-06-19,2025,6,3,wholesale
+Ahafo,Asunafo North Municipal,19-06-2025,Goaso,wholesale,Groundnut Red,20.0,2025-06-19,2025,6,3,wholesale
+Bono,Sunyani Municipal,18-06-2025,Nana Bosomah,wholesale,white maize,7.69,2025-06-18,2025,6,3,wholesale
+Bono,Sunyani Municipal,18-06-2025,Nana Bosomah,wholesale,Maize Yellow,7.69,2025-06-18,2025,6,3,wholesale
+Bono,Sunyani Municipal,18-06-2025,Nana Bosomah,wholesale,Rice Local perfumed,16.67,2025-06-18,2025,6,3,wholesale
+Bono,Sunyani Municipal,18-06-2025,Nana Bosomah,wholesale,Rice Local non perfumed,15.0,2025-06-18,2025,6,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,20-06-2025,Bibiani,wholesale,white maize,11.00333333,2025-06-20,2025,6,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,20-06-2025,Bibiani,wholesale,Maize Yellow,11.99666667,2025-06-20,2025,6,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,20-06-2025,Bibiani,wholesale,Rice Local perfumed,18.36,2025-06-20,2025,6,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,20-06-2025,Bibiani,wholesale,Groundnut Red,20.85666667,2025-06-20,2025,6,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,20-06-2025,Bibiani,wholesale,Soya Bean,16.44333333,2025-06-20,2025,6,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,20-06-2025,Bibiani,wholesale,Unshelled Groundnut,31.42,2025-06-20,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,21-06-2025,Bolgatanga municipal market ,wholesale,white maize,5.466666667,2025-06-21,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,21-06-2025,Bolgatanga municipal market ,wholesale,Maize Yellow,5.466666667,2025-06-21,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,21-06-2025,Bolgatanga municipal market ,wholesale,Groundnut Red,14.86,2025-06-21,2025,6,3,wholesale
+Upper East,Bolgatanga Municipal,21-06-2025,Bolgatanga municipal market ,wholesale,Soya Bean,6.276,2025-06-21,2025,6,3,wholesale
+Upper West,Wa Municipal,22-06-2025,WA MARKET ,wholesale,white maize,6.0,2025-06-22,2025,6,4,wholesale
+Upper West,Wa Municipal,22-06-2025,WA MARKET ,wholesale,Maize Yellow,6.0,2025-06-22,2025,6,4,wholesale
+Upper West,Wa Municipal,22-06-2025,WA MARKET ,wholesale,Rice Local perfumed,9.63,2025-06-22,2025,6,4,wholesale
+Upper West,Wa Municipal,22-06-2025,WA MARKET ,wholesale,Rice Local non perfumed,8.37,2025-06-22,2025,6,4,wholesale
+Upper West,Wa Municipal,22-06-2025,WA MARKET ,wholesale,Soya Bean,7.933333333,2025-06-22,2025,6,4,wholesale
+Upper West,Wa Municipal,22-06-2025,WA MARKET ,wholesale,Unshelled Groundnut,15.23666667,2025-06-22,2025,6,4,wholesale
+Bono East,Kintampo North Municipal,22-06-2025,Kintampo,wholesale,white maize,6.16,2025-06-22,2025,6,4,wholesale
+Bono East,Kintampo North Municipal,22-06-2025,Kintampo,wholesale,Maize Yellow,6.112,2025-06-22,2025,6,4,wholesale
+Bono East,Kintampo North Municipal,22-06-2025,Kintampo,wholesale,Rice Local perfumed,11.82333333,2025-06-22,2025,6,4,wholesale
+Volta,Ho Municipal,22-06-2025,Ho Central market,wholesale,white maize,8.484,2025-06-22,2025,6,4,wholesale
+Bono East,Techiman Municipal,22-06-2025,Techiman,wholesale,white maize,7.31,2025-06-22,2025,6,4,wholesale
+Bono East,Techiman Municipal,22-06-2025,Techiman,wholesale,Maize Yellow,7.69,2025-06-22,2025,6,4,wholesale
+Bono East,Techiman Municipal,22-06-2025,Techiman,wholesale,Rice Local perfumed,14.22,2025-06-22,2025,6,4,wholesale
+Bono East,Techiman Municipal,22-06-2025,Techiman,wholesale,Rice Local non perfumed,10.71,2025-06-22,2025,6,4,wholesale
+Bono East,Techiman Municipal,22-06-2025,Techiman,wholesale,Groundnut Red,18.82333333,2025-06-22,2025,6,4,wholesale
+Bono East,Techiman Municipal,22-06-2025,Techiman,wholesale,Soya Bean,10.37,2025-06-22,2025,6,4,wholesale
+Bono East,Techiman Municipal,22-06-2025,Techiman,wholesale,Unshelled Groundnut,13.92666667,2025-06-22,2025,6,4,wholesale
+Upper East,Garu,25-06-2025,Garu,wholesale,white maize,7.0,2025-06-25,2025,6,4,wholesale
+Upper East,Garu,25-06-2025,Garu,wholesale,Maize Yellow,7.0,2025-06-25,2025,6,4,wholesale
+Upper East,Garu,25-06-2025,Garu,wholesale,Rice Local non perfumed,18.0,2025-06-25,2025,6,4,wholesale
+Upper East,Garu,25-06-2025,Garu,wholesale,Soya Bean,13.0,2025-06-25,2025,6,4,wholesale
+North East,East Mamprusi Municipal,25-06-2025,GBINTIRI,wholesale,white maize,5.333333333,2025-06-25,2025,6,4,wholesale
+North East,East Mamprusi Municipal,25-06-2025,GBINTIRI,wholesale,Maize Yellow,5.293333333,2025-06-25,2025,6,4,wholesale
+North East,East Mamprusi Municipal,25-06-2025,GBINTIRI,wholesale,Soya Bean,6.833333333,2025-06-25,2025,6,4,wholesale
+Eastern,New Juaben South Municipal,26-06-2025,Koforidua Central Market ,wholesale,Maize Yellow,8.33,2025-06-26,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,24-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-06-24,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,24-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-06-24,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,24-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,24.66666667,2025-06-24,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,24-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,31.56333333,2025-06-24,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,24-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-06-24,2025,6,4,wholesale
+Bono,Sunyani Municipal,25-06-2025,Nana Bosomah,wholesale,white maize,7.69,2025-06-25,2025,6,4,wholesale
+Bono,Sunyani Municipal,25-06-2025,Nana Bosomah,wholesale,Maize Yellow,7.69,2025-06-25,2025,6,4,wholesale
+Bono,Sunyani Municipal,25-06-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.0,2025-06-25,2025,6,4,wholesale
+Bono,Sunyani Municipal,25-06-2025,Nana Bosomah,wholesale,Rice Local non perfumed,11.67,2025-06-25,2025,6,4,wholesale
+Ahafo,Asunafo North Municipal,27-06-2025,Goaso,wholesale,white maize,10.69,2025-06-27,2025,6,4,wholesale
+Ahafo,Asunafo North Municipal,27-06-2025,Goaso,wholesale,Maize Yellow,10.61,2025-06-27,2025,6,4,wholesale
+Ahafo,Asunafo North Municipal,27-06-2025,Goaso,wholesale,Rice Local perfumed,20.27666667,2025-06-27,2025,6,4,wholesale
+Ahafo,Asunafo North Municipal,27-06-2025,Goaso,wholesale,Groundnut Red,21.94666667,2025-06-27,2025,6,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-06-2025,Bibiani,wholesale,white maize,11.43333333,2025-06-27,2025,6,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-06-2025,Bibiani,wholesale,Maize Yellow,12.16,2025-06-27,2025,6,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-06-2025,Bibiani,wholesale,Rice Local perfumed,17.64,2025-06-27,2025,6,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-06-2025,Bibiani,wholesale,Rice Local non perfumed,14.1025,2025-06-27,2025,6,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-06-2025,Bibiani,wholesale,Groundnut Red,21.83,2025-06-27,2025,6,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-06-2025,Bibiani,wholesale,Soya Bean,16.0075,2025-06-27,2025,6,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-06-2025,Bibiani,wholesale,Unshelled Groundnut,23.96,2025-06-27,2025,6,4,wholesale
+Upper East,Bolgatanga Municipal,28-06-2025,Bolgatanga municipal market ,wholesale,white maize,5.125,2025-06-28,2025,6,4,wholesale
+Upper East,Bolgatanga Municipal,28-06-2025,Bolgatanga municipal market ,wholesale,Maize Yellow,5.333333333,2025-06-28,2025,6,4,wholesale
+Upper East,Bolgatanga Municipal,28-06-2025,Bolgatanga municipal market ,wholesale,Rice Local non perfumed,11.90333333,2025-06-28,2025,6,4,wholesale
+Upper East,Bolgatanga Municipal,28-06-2025,Bolgatanga municipal market ,wholesale,Groundnut Red,15.56666667,2025-06-28,2025,6,4,wholesale
+Upper East,Bolgatanga Municipal,28-06-2025,Bolgatanga municipal market ,wholesale,Soya Bean,5.804,2025-06-28,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,26-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-06-26,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,26-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-06-26,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,26-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,24.93333333,2025-06-26,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,26-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,34.0,2025-06-26,2025,6,4,wholesale
+Greater Accra,TMA-Tema East,26-06-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-06-26,2025,6,4,wholesale
+Upper West,Wa Municipal,29-06-2025,Wa Market,wholesale,white maize,6.0,2025-06-29,2025,6,5,wholesale
+Upper West,Wa Municipal,29-06-2025,Wa Market,wholesale,Maize Yellow,6.0,2025-06-29,2025,6,5,wholesale
+Upper West,Wa Municipal,29-06-2025,Wa Market,wholesale,Rice Local perfumed,10.71,2025-06-29,2025,6,5,wholesale
+Upper West,Wa Municipal,29-06-2025,Wa Market,wholesale,Rice Local non perfumed,9.52,2025-06-29,2025,6,5,wholesale
+Upper West,Wa Municipal,29-06-2025,Wa Market,wholesale,Soya Bean,8.8,2025-06-29,2025,6,5,wholesale
+Bono East,Kintampo North Municipal,28-06-2025,Kintampo,wholesale,white maize,6.026,2025-06-28,2025,6,4,wholesale
+Bono East,Kintampo North Municipal,28-06-2025,Kintampo,wholesale,Maize Yellow,5.934,2025-06-28,2025,6,4,wholesale
+Bono East,Kintampo North Municipal,28-06-2025,Kintampo,wholesale,Rice Local perfumed,11.95333333,2025-06-28,2025,6,4,wholesale
+Bono East,Techiman Municipal,26-06-2025,Techiman,wholesale,white maize,6.54,2025-06-26,2025,6,4,wholesale
+Bono East,Techiman Municipal,26-06-2025,Techiman,wholesale,Maize Yellow,7.31,2025-06-26,2025,6,4,wholesale
+Bono East,Techiman Municipal,26-06-2025,Techiman,wholesale,Rice Local perfumed,13.55333333,2025-06-26,2025,6,4,wholesale
+Bono East,Techiman Municipal,26-06-2025,Techiman,wholesale,Rice Local non perfumed,10.12333333,2025-06-26,2025,6,4,wholesale
+Bono East,Techiman Municipal,26-06-2025,Techiman,wholesale,Groundnut Red,19.07666667,2025-06-26,2025,6,4,wholesale
+Bono East,Techiman Municipal,26-06-2025,Techiman,wholesale,Soya Bean,8.643333333,2025-06-26,2025,6,4,wholesale
+Bono East,Techiman Municipal,26-06-2025,Techiman,wholesale,Unshelled Groundnut,9.38,2025-06-26,2025,6,4,wholesale
+Bono,Sunyani Municipal,02-07-2025,Nana Bosomah,wholesale,white maize,7.69,2025-07-02,2025,7,1,wholesale
+Bono,Sunyani Municipal,02-07-2025,Nana Bosomah,wholesale,Maize Yellow,7.69,2025-07-02,2025,7,1,wholesale
+Bono,Sunyani Municipal,02-07-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.5,2025-07-02,2025,7,1,wholesale
+Bono,Sunyani Municipal,02-07-2025,Nana Bosomah,wholesale,Rice Local non perfumed,12.33,2025-07-02,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-07-2025,Bibiani,wholesale,white maize,11.35666667,2025-07-04,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-07-2025,Bibiani,wholesale,Maize Yellow,12.25666667,2025-07-04,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-07-2025,Bibiani,wholesale,Rice Local perfumed,16.63,2025-07-04,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-07-2025,Bibiani,wholesale,Groundnut Red,4.643333333,2025-07-04,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-07-2025,Bibiani,wholesale,Soya Bean,4.15,2025-07-04,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,04-07-2025,Bibiani,wholesale,Unshelled Groundnut,23.47666667,2025-07-04,2025,7,1,wholesale
+Upper West,Wa Municipal,06-07-2025,Wa Market ,wholesale,white maize,6.0,2025-07-06,2025,7,1,wholesale
+Upper West,Wa Municipal,06-07-2025,Wa Market ,wholesale,Maize Yellow,6.0,2025-07-06,2025,7,1,wholesale
+Upper West,Wa Municipal,06-07-2025,Wa Market ,wholesale,Rice Local perfumed,8.33,2025-07-06,2025,7,1,wholesale
+Upper West,Wa Municipal,06-07-2025,Wa Market ,wholesale,Rice Local non perfumed,6.76,2025-07-06,2025,7,1,wholesale
+Upper West,Wa Municipal,06-07-2025,Wa Market ,wholesale,Groundnut Red,35.04,2025-07-06,2025,7,1,wholesale
+Upper West,Wa Municipal,06-07-2025,Wa Market ,wholesale,Soya Bean,8.0,2025-07-06,2025,7,1,wholesale
+Ahafo,Asunafo North Municipal,06-07-2025,Goaso,wholesale,white maize,11.33,2025-07-06,2025,7,1,wholesale
+Ahafo,Asunafo North Municipal,06-07-2025,Goaso,wholesale,Maize Yellow,11.74,2025-07-06,2025,7,1,wholesale
+Ahafo,Asunafo North Municipal,06-07-2025,Goaso,wholesale,Rice Local perfumed,16.25666667,2025-07-06,2025,7,1,wholesale
+Ahafo,Asunafo North Municipal,06-07-2025,Goaso,wholesale,Groundnut Red,19.33333333,2025-07-06,2025,7,1,wholesale
+Bono East,Kintampo North Municipal,07-07-2025,Kintampo ,wholesale,white maize,6.13,2025-07-07,2025,7,1,wholesale
+Bono East,Kintampo North Municipal,07-07-2025,Kintampo ,wholesale,Maize Yellow,6.1725,2025-07-07,2025,7,1,wholesale
+Bono East,Kintampo North Municipal,07-07-2025,Kintampo ,wholesale,Rice Local perfumed,11.52333333,2025-07-07,2025,7,1,wholesale
+Bono East,Techiman Municipal,05-07-2025,Techiman,wholesale,white maize,6.46,2025-07-05,2025,7,1,wholesale
+Bono East,Techiman Municipal,05-07-2025,Techiman,wholesale,Maize Yellow,7.136666667,2025-07-05,2025,7,1,wholesale
+Bono East,Techiman Municipal,05-07-2025,Techiman,wholesale,Rice Local perfumed,13.33,2025-07-05,2025,7,1,wholesale
+Bono East,Techiman Municipal,05-07-2025,Techiman,wholesale,Rice Local non perfumed,10.12666667,2025-07-05,2025,7,1,wholesale
+Bono East,Techiman Municipal,05-07-2025,Techiman,wholesale,Groundnut Red,19.07666667,2025-07-05,2025,7,1,wholesale
+Bono East,Techiman Municipal,05-07-2025,Techiman,wholesale,Soya Bean,8.416666667,2025-07-05,2025,7,1,wholesale
+Bono East,Techiman Municipal,05-07-2025,Techiman,wholesale,Unshelled Groundnut,9.87,2025-07-05,2025,7,1,wholesale
+Ahafo,Asunafo North Municipal,11-07-2025,Goaso,wholesale,white maize,7.23,2025-07-11,2025,7,2,wholesale
+Ahafo,Asunafo North Municipal,11-07-2025,Goaso,wholesale,Rice Local perfumed,17.32666667,2025-07-11,2025,7,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,11-07-2025,607,wholesale,Rice Local perfumed,15.87666667,2025-07-11,2025,7,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,11-07-2025,607,wholesale,Groundnut Red,24.59666667,2025-07-11,2025,7,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,11-07-2025,607,wholesale,Soya Bean,19.15,2025-07-11,2025,7,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,11-07-2025,607,wholesale,Unshelled Groundnut,20.67,2025-07-11,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,10-07-2025,TEMA COMMUNITY ONE MAIN  MARKET,wholesale,white maize,14.0,2025-07-10,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,10-07-2025,TEMA COMMUNITY ONE MAIN  MARKET,wholesale,Maize Yellow,15.0,2025-07-10,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,10-07-2025,TEMA COMMUNITY ONE MAIN  MARKET,wholesale,Rice Local perfumed,24.8,2025-07-10,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,10-07-2025,TEMA COMMUNITY ONE MAIN  MARKET,wholesale,Groundnut Red,34.0,2025-07-10,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,10-07-2025,TEMA COMMUNITY ONE MAIN  MARKET,wholesale,Soya Bean,16.0,2025-07-10,2025,7,2,wholesale
+Bono,Sunyani Municipal,09-07-2025,Nana Bosomah,wholesale,white maize,6.92,2025-07-09,2025,7,2,wholesale
+Bono,Sunyani Municipal,09-07-2025,Nana Bosomah,wholesale,Maize Yellow,6.92,2025-07-09,2025,7,2,wholesale
+Bono,Sunyani Municipal,09-07-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.0,2025-07-09,2025,7,2,wholesale
+Bono,Sunyani Municipal,09-07-2025,Nana Bosomah,wholesale,Rice Local non perfumed,11.78,2025-07-09,2025,7,2,wholesale
+Upper West,Wa Municipal,13-07-2025,Wa Market,wholesale,white maize,6.0,2025-07-13,2025,7,2,wholesale
+Upper West,Wa Municipal,13-07-2025,Wa Market,wholesale,Maize Yellow,6.0,2025-07-13,2025,7,2,wholesale
+Upper West,Wa Municipal,13-07-2025,Wa Market,wholesale,Rice Local perfumed,8.266666667,2025-07-13,2025,7,2,wholesale
+Upper West,Wa Municipal,13-07-2025,Wa Market,wholesale,Rice Local non perfumed,5.466666667,2025-07-13,2025,7,2,wholesale
+Upper West,Wa Municipal,13-07-2025,Wa Market,wholesale,Groundnut Red,29.09,2025-07-13,2025,7,2,wholesale
+Upper West,Wa Municipal,13-07-2025,Wa Market,wholesale,Soya Bean,7.05,2025-07-13,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,12-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-07-12,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,12-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-07-12,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,12-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,24.93333333,2025-07-12,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,12-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,34.66666667,2025-07-12,2025,7,2,wholesale
+Greater Accra,TMA-Tema East,12-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-07-12,2025,7,2,wholesale
+Bono East,Techiman Municipal,13-07-2025,Techiman,wholesale,white maize,6.54,2025-07-13,2025,7,2,wholesale
+Bono East,Techiman Municipal,13-07-2025,Techiman,wholesale,Maize Yellow,7.22,2025-07-13,2025,7,2,wholesale
+Bono East,Techiman Municipal,13-07-2025,Techiman,wholesale,Rice Local perfumed,11.0,2025-07-13,2025,7,2,wholesale
+Bono East,Techiman Municipal,13-07-2025,Techiman,wholesale,Rice Local non perfumed,10.0,2025-07-13,2025,7,2,wholesale
+Bono East,Techiman Municipal,13-07-2025,Techiman,wholesale,Groundnut Red,16.52333333,2025-07-13,2025,7,2,wholesale
+Bono East,Techiman Municipal,13-07-2025,Techiman,wholesale,Soya Bean,8.52,2025-07-13,2025,7,2,wholesale
+Bono East,Techiman Municipal,13-07-2025,Techiman,wholesale,Unshelled Groundnut,10.82666667,2025-07-13,2025,7,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-07-2025,BIBIANI,wholesale,white maize,9.663333333,2025-07-18,2025,7,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-07-2025,BIBIANI,wholesale,Maize Yellow,10.36,2025-07-18,2025,7,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-07-2025,BIBIANI,wholesale,Rice Local perfumed,15.71666667,2025-07-18,2025,7,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-07-2025,BIBIANI,wholesale,Rice Local non perfumed,16.23,2025-07-18,2025,7,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-07-2025,BIBIANI,wholesale,Groundnut Red,24.61666667,2025-07-18,2025,7,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-07-2025,BIBIANI,wholesale,Soya Bean,19.86666667,2025-07-18,2025,7,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,18-07-2025,BIBIANI,wholesale,Unshelled Groundnut,18.74666667,2025-07-18,2025,7,3,wholesale
+Bono East,Kintampo North Municipal,19-07-2025,Kintampo,wholesale,white maize,6.07,2025-07-19,2025,7,3,wholesale
+Bono East,Kintampo North Municipal,19-07-2025,Kintampo,wholesale,Maize Yellow,6.07,2025-07-19,2025,7,3,wholesale
+Bono East,Kintampo North Municipal,19-07-2025,Kintampo,wholesale,Groundnut Red,19.30333333,2025-07-19,2025,7,3,wholesale
+Bono East,Kintampo North Municipal,19-07-2025,Kintampo,wholesale,Soya Bean,10.0,2025-07-19,2025,7,3,wholesale
+Ahafo,Asunafo North Municipal,21-07-2025,Goaso,wholesale,white maize,10.20333333,2025-07-21,2025,7,3,wholesale
+Ahafo,Asunafo North Municipal,21-07-2025,Goaso,wholesale,Maize Yellow,9.513333333,2025-07-21,2025,7,3,wholesale
+Ahafo,Asunafo North Municipal,21-07-2025,Goaso,wholesale,Rice Local perfumed,16.88333333,2025-07-21,2025,7,3,wholesale
+Ahafo,Asunafo North Municipal,21-07-2025,Goaso,wholesale,Groundnut Red,19.89,2025-07-21,2025,7,3,wholesale
+Greater Accra,TMA-Tema East,19-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-07-19,2025,7,3,wholesale
+Greater Accra,TMA-Tema East,19-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-07-19,2025,7,3,wholesale
+Greater Accra,TMA-Tema East,19-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,26.66,2025-07-19,2025,7,3,wholesale
+Greater Accra,TMA-Tema East,19-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,35.33333333,2025-07-19,2025,7,3,wholesale
+Greater Accra,TMA-Tema East,19-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-07-19,2025,7,3,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,white maize,9.33,2025-07-03,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,Maize Yellow,9.67,2025-07-03,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,Rice Local perfumed,16.0,2025-07-03,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,Rice Local non perfumed,14.0,2025-07-03,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,01-07-2025,Makola Market,wholesale,white maize,9.33,2025-07-01,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,01-07-2025,Makola Market,wholesale,Maize Yellow,9.67,2025-07-01,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,01-07-2025,Makola Market,wholesale,Rice Local perfumed,17.5,2025-07-01,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,01-07-2025,Makola Market,wholesale,Rice Local non perfumed,16.67,2025-07-01,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-07-2025,BIBIANI,wholesale,white maize,6.86,2025-07-25,2025,7,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-07-2025,BIBIANI,wholesale,Maize Yellow,7.723333333,2025-07-25,2025,7,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-07-2025,BIBIANI,wholesale,Rice Local perfumed,18.4475,2025-07-25,2025,7,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-07-2025,BIBIANI,wholesale,Rice Local non perfumed,16.27333333,2025-07-25,2025,7,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-07-2025,BIBIANI,wholesale,Groundnut Red,23.84333333,2025-07-25,2025,7,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-07-2025,BIBIANI,wholesale,Soya Bean,24.67333333,2025-07-25,2025,7,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,25-07-2025,BIBIANI,wholesale,Unshelled Groundnut,24.27666667,2025-07-25,2025,7,4,wholesale
+Upper West,Wa Municipal,26-07-2025,Wa Market ,wholesale,white maize,6.133333333,2025-07-26,2025,7,4,wholesale
+Upper West,Wa Municipal,26-07-2025,Wa Market ,wholesale,Maize Yellow,6.133333333,2025-07-26,2025,7,4,wholesale
+Upper West,Wa Municipal,26-07-2025,Wa Market ,wholesale,Rice Local perfumed,8.76,2025-07-26,2025,7,4,wholesale
+Upper West,Wa Municipal,26-07-2025,Wa Market ,wholesale,Rice Local non perfumed,8.14,2025-07-26,2025,7,4,wholesale
+Upper West,Wa Municipal,26-07-2025,Wa Market ,wholesale,Groundnut Red,15.9,2025-07-26,2025,7,4,wholesale
+Upper West,Wa Municipal,26-07-2025,Wa Market ,wholesale,Soya Bean,7.133333333,2025-07-26,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,wholesale,white maize,5.5,2025-07-27,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,wholesale,Maize Yellow,5.5,2025-07-27,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,wholesale,Groundnut Red,14.44,2025-07-27,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga ,wholesale,Soya Bean,5.7875,2025-07-27,2025,7,4,wholesale
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,wholesale,white maize,6.15,2025-07-23,2025,7,4,wholesale
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,wholesale,Maize Yellow,6.15,2025-07-23,2025,7,4,wholesale
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.33,2025-07-23,2025,7,4,wholesale
+Bono,Sunyani Municipal,23-07-2025,Nana Bosomah,wholesale,Rice Local non perfumed,11.67,2025-07-23,2025,7,4,wholesale
+Ahafo,Asunafo North Municipal,27-07-2025,Goaso,wholesale,white maize,9.003333333,2025-07-27,2025,7,4,wholesale
+Ahafo,Asunafo North Municipal,27-07-2025,Goaso,wholesale,Maize Yellow,9.06,2025-07-27,2025,7,4,wholesale
+Ahafo,Asunafo North Municipal,27-07-2025,Goaso,wholesale,Groundnut Red,22.30666667,2025-07-27,2025,7,4,wholesale
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo.,wholesale,white maize,6.14,2025-07-27,2025,7,4,wholesale
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo.,wholesale,Maize Yellow,6.14,2025-07-27,2025,7,4,wholesale
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo.,wholesale,Groundnut Red,13.4,2025-07-27,2025,7,4,wholesale
+Bono East,Kintampo North Municipal,27-07-2025,Kintampo.,wholesale,Soya Bean,10.0,2025-07-27,2025,7,4,wholesale
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,wholesale,white maize,6.54,2025-07-18,2025,7,3,wholesale
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,wholesale,Maize Yellow,7.31,2025-07-18,2025,7,3,wholesale
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,wholesale,Rice Local perfumed,9.556666667,2025-07-18,2025,7,3,wholesale
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,wholesale,Rice Local non perfumed,9.653333333,2025-07-18,2025,7,3,wholesale
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,wholesale,Groundnut Red,20.34,2025-07-18,2025,7,3,wholesale
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,wholesale,Soya Bean,8.63,2025-07-18,2025,7,3,wholesale
+Bono East,Techiman Municipal,18-07-2025,Techiman Market,wholesale,Unshelled Groundnut,10.42,2025-07-18,2025,7,3,wholesale
+Bono East,Techiman Municipal,24-07-2025,Techiman Market ,wholesale,white maize,6.54,2025-07-24,2025,7,4,wholesale
+Bono East,Techiman Municipal,24-07-2025,Techiman Market ,wholesale,Maize Yellow,7.31,2025-07-24,2025,7,4,wholesale
+Bono East,Techiman Municipal,24-07-2025,Techiman Market ,wholesale,Rice Local perfumed,11.0,2025-07-24,2025,7,4,wholesale
+Bono East,Techiman Municipal,24-07-2025,Techiman Market ,wholesale,Rice Local non perfumed,9.886666667,2025-07-24,2025,7,4,wholesale
+Bono East,Techiman Municipal,24-07-2025,Techiman Market ,wholesale,Groundnut Red,19.88,2025-07-24,2025,7,4,wholesale
+Bono East,Techiman Municipal,24-07-2025,Techiman Market ,wholesale,Soya Bean,8.52,2025-07-24,2025,7,4,wholesale
+Bono East,Techiman Municipal,24-07-2025,Techiman Market ,wholesale,Unshelled Groundnut,11.84,2025-07-24,2025,7,4,wholesale
+Eastern,New Juaben South Municipal,30-07-2025,Koforidua Central Market ,wholesale,Maize Yellow,8.33,2025-07-30,2025,7,5,wholesale
+Greater Accra,TMA-Tema East,26-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-07-26,2025,7,4,wholesale
+Greater Accra,TMA-Tema East,26-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-07-26,2025,7,4,wholesale
+Greater Accra,TMA-Tema East,26-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,25.79666667,2025-07-26,2025,7,4,wholesale
+Greater Accra,TMA-Tema East,26-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,34.66666667,2025-07-26,2025,7,4,wholesale
+Greater Accra,TMA-Tema East,26-07-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-07-26,2025,7,4,wholesale
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,wholesale,white maize,8.143333333,2025-07-31,2025,7,5,wholesale
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,wholesale,Maize Yellow,11.06,2025-07-31,2025,7,5,wholesale
+Ahafo,Asunafo North Municipal,31-07-2025,Goaso,wholesale,Groundnut Red,21.43333333,2025-07-31,2025,7,5,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,white maize,9.33,2025-07-03,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,Maize Yellow,9.556666667,2025-07-03,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,Rice Local perfumed,16.0,2025-07-03,2025,7,1,wholesale
+Greater Accra,AMA-Okaikoi South,03-07-2025,AGBOGBLOSHIE,wholesale,Rice Local non perfumed,14.0,2025-07-03,2025,7,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,wholesale,white maize,6.86,2025-07-29,2025,7,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,wholesale,Maize Yellow,7.636666667,2025-07-29,2025,7,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,wholesale,Rice Local perfumed,16.21666667,2025-07-29,2025,7,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,wholesale,Rice Local non perfumed,14.92,2025-07-29,2025,7,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,wholesale,Groundnut Red,25.75666667,2025-07-29,2025,7,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,wholesale,Soya Bean,27.44333333,2025-07-29,2025,7,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-07-2025,Bibiani ,wholesale,Unshelled Groundnut,14.88666667,2025-07-29,2025,7,5,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga,wholesale,white maize,4.6,2025-07-27,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga,wholesale,Maize Yellow,4.6,2025-07-27,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga,wholesale,Rice Local non perfumed,12.0,2025-07-27,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga,wholesale,Groundnut Red,13.66666667,2025-07-27,2025,7,4,wholesale
+Upper East,Bolgatanga Municipal,27-07-2025,Bolga,wholesale,Soya Bean,4.555,2025-07-27,2025,7,4,wholesale
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomah,wholesale,white maize,6.15,2025-07-30,2025,7,5,wholesale
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomah,wholesale,Maize Yellow,6.15,2025-07-30,2025,7,5,wholesale
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomah,wholesale,Rice Local perfumed,11.67,2025-07-30,2025,7,5,wholesale
+Bono,Sunyani Municipal,30-07-2025,Nana Bosomah,wholesale,Rice Local non perfumed,11.275,2025-07-30,2025,7,5,wholesale
+Upper West,Wa Municipal,05-08-2025,Wa Market ,wholesale,white maize,4.0,2025-08-05,2025,8,1,wholesale
+Upper West,Wa Municipal,05-08-2025,Wa Market ,wholesale,Maize Yellow,4.0,2025-08-05,2025,8,1,wholesale
+Upper West,Wa Municipal,05-08-2025,Wa Market ,wholesale,Rice Local perfumed,8.6,2025-08-05,2025,8,1,wholesale
+Upper West,Wa Municipal,05-08-2025,Wa Market ,wholesale,Rice Local non perfumed,6.98,2025-08-05,2025,8,1,wholesale
+Bono East,Kintampo North Municipal,04-08-2025,Kintampo,wholesale,white maize,6.31,2025-08-04,2025,8,1,wholesale
+Bono East,Kintampo North Municipal,04-08-2025,Kintampo,wholesale,Maize Yellow,6.34,2025-08-04,2025,8,1,wholesale
+Bono East,Kintampo North Municipal,04-08-2025,Kintampo,wholesale,Rice Local perfumed,11.67333333,2025-08-04,2025,8,1,wholesale
+Eastern,New Juaben South Municipal,07-08-2025,Agatha  Market ,wholesale,Groundnut Red,30.15666667,2025-08-07,2025,8,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,08-08-2025,Bibiani,wholesale,white maize,8.293333333,2025-08-08,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,08-08-2025,Bibiani,wholesale,Maize Yellow,8.36,2025-08-08,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,08-08-2025,Bibiani,wholesale,Rice Local perfumed,13.95666667,2025-08-08,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,08-08-2025,Bibiani,wholesale,Rice Local non perfumed,11.48666667,2025-08-08,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,08-08-2025,Bibiani,wholesale,Groundnut Red,22.66666667,2025-08-08,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,08-08-2025,Bibiani,wholesale,Soya Bean,23.08,2025-08-08,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,08-08-2025,Bibiani,wholesale,Unshelled Groundnut,39.66666667,2025-08-08,2025,8,2,wholesale
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri,wholesale,white maize,4.876666667,2025-08-07,2025,8,1,wholesale
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri,wholesale,Maize Yellow,4.75,2025-08-07,2025,8,1,wholesale
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri,wholesale,Rice Local perfumed,10.06,2025-08-07,2025,8,1,wholesale
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri,wholesale,Rice Local non perfumed,9.98,2025-08-07,2025,8,1,wholesale
+North East,East Mamprusi Municipal,07-08-2025,Gbintiri,wholesale,Soya Bean,7.123333333,2025-08-07,2025,8,1,wholesale
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,wholesale,white maize,7.37,2025-08-08,2025,8,2,wholesale
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,wholesale,Maize Yellow,7.5,2025-08-08,2025,8,2,wholesale
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,wholesale,Rice Local perfumed,16.31,2025-08-08,2025,8,2,wholesale
+Ahafo,Asunafo North Municipal,08-08-2025,Goaso,wholesale,Groundnut Red,21.97,2025-08-08,2025,8,2,wholesale
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,wholesale,white maize,4.7,2025-08-10,2025,8,2,wholesale
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,wholesale,Maize Yellow,4.733333333,2025-08-10,2025,8,2,wholesale
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,wholesale,Groundnut Red,13.605,2025-08-10,2025,8,2,wholesale
+Upper East,Bolgatanga Municipal,10-08-2025,Bolga,wholesale,Soya Bean,4.537142857,2025-08-10,2025,8,2,wholesale
+Greater Accra,TMA-Tema East,07-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-08-07,2025,8,1,wholesale
+Greater Accra,TMA-Tema East,07-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-08-07,2025,8,1,wholesale
+Greater Accra,TMA-Tema East,07-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,25.66333333,2025-08-07,2025,8,1,wholesale
+Greater Accra,TMA-Tema East,07-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,34.66666667,2025-08-07,2025,8,1,wholesale
+Greater Accra,TMA-Tema East,07-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.66666667,2025-08-07,2025,8,1,wholesale
+Bono East,Techiman Municipal,07-08-2025,,wholesale,white maize,6.54,2025-08-07,2025,8,1,wholesale
+Bono East,Techiman Municipal,07-08-2025,,wholesale,Maize Yellow,6.946666667,2025-08-07,2025,8,1,wholesale
+Bono East,Techiman Municipal,07-08-2025,,wholesale,Rice Local perfumed,11.22333333,2025-08-07,2025,8,1,wholesale
+Bono East,Techiman Municipal,07-08-2025,,wholesale,Rice Local non perfumed,10.24666667,2025-08-07,2025,8,1,wholesale
+Bono East,Techiman Municipal,07-08-2025,,wholesale,Groundnut Red,19.84,2025-08-07,2025,8,1,wholesale
+Bono East,Techiman Municipal,07-08-2025,,wholesale,Soya Bean,8.63,2025-08-07,2025,8,1,wholesale
+Bono East,Techiman Municipal,07-08-2025,,wholesale,Unshelled Groundnut,10.52333333,2025-08-07,2025,8,1,wholesale
+Bono East,Kintampo North Municipal,12-08-2025,Kintampo ,wholesale,white maize,6.233333333,2025-08-12,2025,8,2,wholesale
+Bono East,Kintampo North Municipal,12-08-2025,Kintampo ,wholesale,Maize Yellow,6.376666667,2025-08-12,2025,8,2,wholesale
+Bono East,Kintampo North Municipal,12-08-2025,Kintampo ,wholesale,Rice Local perfumed,11.86333333,2025-08-12,2025,8,2,wholesale
+Bono East,Techiman Municipal,04-08-2025,Techiman,wholesale,white maize,6.54,2025-08-04,2025,8,1,wholesale
+Bono East,Techiman Municipal,04-08-2025,Techiman,wholesale,Maize Yellow,6.92,2025-08-04,2025,8,1,wholesale
+Bono East,Techiman Municipal,04-08-2025,Techiman,wholesale,Rice Local perfumed,11.22333333,2025-08-04,2025,8,1,wholesale
+Bono East,Techiman Municipal,04-08-2025,Techiman,wholesale,Rice Local non perfumed,9.773333333,2025-08-04,2025,8,1,wholesale
+Bono East,Techiman Municipal,04-08-2025,Techiman,wholesale,Groundnut Red,18.91,2025-08-04,2025,8,1,wholesale
+Bono East,Techiman Municipal,04-08-2025,Techiman,wholesale,Soya Bean,8.65,2025-08-04,2025,8,1,wholesale
+Bono East,Techiman Municipal,04-08-2025,Techiman,wholesale,Unshelled Groundnut,10.00666667,2025-08-04,2025,8,1,wholesale
+Eastern,New Juaben South Municipal,14-08-2025,Koforidua Central Market ,wholesale,white maize,5.56,2025-08-14,2025,8,2,wholesale
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,wholesale,white maize,6.15,2025-08-13,2025,8,2,wholesale
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,wholesale,Maize Yellow,6.15,2025-08-13,2025,8,2,wholesale
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.0,2025-08-13,2025,8,2,wholesale
+Bono,Sunyani Municipal,13-08-2025,Nana Bosomah,wholesale,Rice Local non perfumed,11.67,2025-08-13,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,wholesale,white maize,11.30666667,2025-08-14,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,wholesale,Maize Yellow,12.29333333,2025-08-14,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,wholesale,Rice Local perfumed,15.36,2025-08-14,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,wholesale,Rice Local non perfumed,12.97666667,2025-08-14,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,wholesale,Groundnut Red,20.07333333,2025-08-14,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,wholesale,Soya Bean,22.24333333,2025-08-14,2025,8,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,14-08-2025,BIBIANI ,wholesale,Unshelled Groundnut,43.99333333,2025-08-14,2025,8,2,wholesale
+Ahafo,Asunafo North Municipal,14-08-2025,Goaso,wholesale,white maize,8.086666667,2025-08-14,2025,8,2,wholesale
+Ahafo,Asunafo North Municipal,14-08-2025,Goaso,wholesale,Maize Yellow,8.166666667,2025-08-14,2025,8,2,wholesale
+Savannah,Bole,17-05-2025,Bamboi market,wholesale,white maize,7.785,2025-05-17,2025,5,3,wholesale
+Savannah,Bole,17-05-2025,Bamboi market,wholesale,Maize Yellow,6.47,2025-05-17,2025,5,3,wholesale
+Savannah,Bole,17-05-2025,Bamboi market,wholesale,Rice Local perfumed,11.15,2025-05-17,2025,5,3,wholesale
+Savannah,Bole,17-05-2025,Bamboi market,wholesale,Rice Local non perfumed,12.1,2025-05-17,2025,5,3,wholesale
+Savannah,Bole,17-05-2025,Bamboi market,wholesale,Groundnut Red,25.0,2025-05-17,2025,5,3,wholesale
+Savannah,Bole,17-05-2025,Bamboi market,wholesale,Soya Bean,17.5,2025-05-17,2025,5,3,wholesale
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,wholesale,white maize,6.866666667,2025-08-14,2025,8,2,wholesale
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,wholesale,Rice Local perfumed,11.55666667,2025-08-14,2025,8,2,wholesale
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,wholesale,Rice Local non perfumed,9.446666667,2025-08-14,2025,8,2,wholesale
+Oti,Nkwanta South Municipal,14-08-2025,NKWANTA,wholesale,Soya Bean,8.33,2025-08-14,2025,8,2,wholesale
+Upper East,Bolgatanga Municipal,16-08-2025,Bolgatanga,wholesale,white maize,4.625,2025-08-16,2025,8,3,wholesale
+Upper East,Bolgatanga Municipal,16-08-2025,Bolgatanga,wholesale,Maize Yellow,4.6,2025-08-16,2025,8,3,wholesale
+Upper East,Bolgatanga Municipal,16-08-2025,Bolgatanga,wholesale,Rice Local non perfumed,21.33333333,2025-08-16,2025,8,3,wholesale
+Upper East,Bolgatanga Municipal,16-08-2025,Bolgatanga,wholesale,Groundnut Red,15.0,2025-08-16,2025,8,3,wholesale
+Upper East,Bolgatanga Municipal,16-08-2025,Bolgatanga,wholesale,Soya Bean,5.21,2025-08-16,2025,8,3,wholesale
+Upper West,Wa Municipal,17-08-2025,Wa Market ,wholesale,white maize,6.0,2025-08-17,2025,8,3,wholesale
+Upper West,Wa Municipal,17-08-2025,Wa Market ,wholesale,Maize Yellow,6.0,2025-08-17,2025,8,3,wholesale
+Upper West,Wa Municipal,17-08-2025,Wa Market ,wholesale,Rice Local perfumed,8.14,2025-08-17,2025,8,3,wholesale
+Upper West,Wa Municipal,17-08-2025,Wa Market ,wholesale,Rice Local non perfumed,6.98,2025-08-17,2025,8,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-06-2025,AGBOGBLOSHIE MARKET,wholesale,white maize,9.0,2025-06-16,2025,6,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-06-2025,AGBOGBLOSHIE MARKET,wholesale,Maize Yellow,9.3325,2025-06-16,2025,6,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-06-2025,AGBOGBLOSHIE MARKET,wholesale,Rice Local perfumed,15.0,2025-06-16,2025,6,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-06-2025,AGBOGBLOSHIE MARKET,wholesale,Rice Local non perfumed,14.8,2025-06-16,2025,6,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-04-2025,Makola Market ,wholesale,white maize,9.0,2025-04-16,2025,4,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-04-2025,Makola Market ,wholesale,Maize Yellow,9.556666667,2025-04-16,2025,4,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-04-2025,Makola Market ,wholesale,Rice Local perfumed,16.0,2025-04-16,2025,4,3,wholesale
+Greater Accra,AMA-Okaikoi South,16-04-2025,Makola Market ,wholesale,Rice Local non perfumed,14.8,2025-04-16,2025,4,3,wholesale
+Bono East,Kintampo North Municipal,16-08-2025,Kintampo ,wholesale,white maize,5.62,2025-08-16,2025,8,3,wholesale
+Bono East,Kintampo North Municipal,16-08-2025,Kintampo ,wholesale,Maize Yellow,5.63,2025-08-16,2025,8,3,wholesale
+Bono East,Kintampo North Municipal,16-08-2025,Kintampo ,wholesale,Rice Local perfumed,11.36,2025-08-16,2025,8,3,wholesale
+Bono East,Techiman Municipal,14-08-2025,,wholesale,white maize,6.28,2025-08-14,2025,8,2,wholesale
+Bono East,Techiman Municipal,14-08-2025,,wholesale,Maize Yellow,6.666666667,2025-08-14,2025,8,2,wholesale
+Bono East,Techiman Municipal,14-08-2025,,wholesale,Rice Local perfumed,10.86666667,2025-08-14,2025,8,2,wholesale
+Bono East,Techiman Municipal,14-08-2025,,wholesale,Rice Local non perfumed,10.50333333,2025-08-14,2025,8,2,wholesale
+Bono East,Techiman Municipal,14-08-2025,,wholesale,Groundnut Red,18.98,2025-08-14,2025,8,2,wholesale
+Bono East,Techiman Municipal,14-08-2025,,wholesale,Soya Bean,8.366666667,2025-08-14,2025,8,2,wholesale
+Bono East,Techiman Municipal,14-08-2025,,wholesale,Unshelled Groundnut,13.96333333,2025-08-14,2025,8,2,wholesale
+Greater Accra,TMA-Tema East,15-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-08-15,2025,8,3,wholesale
+Greater Accra,TMA-Tema East,15-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-08-15,2025,8,3,wholesale
+Greater Accra,TMA-Tema East,15-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,26.51666667,2025-08-15,2025,8,3,wholesale
+Greater Accra,TMA-Tema East,15-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,36.0,2025-08-15,2025,8,3,wholesale
+Greater Accra,TMA-Tema East,15-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-08-15,2025,8,3,wholesale
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,wholesale,white maize,6.42,2025-08-21,2025,8,3,wholesale
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,wholesale,Maize Yellow,6.456666667,2025-08-21,2025,8,3,wholesale
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,wholesale,Rice Local perfumed,14.44333333,2025-08-21,2025,8,3,wholesale
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,wholesale,Groundnut Red,19.74333333,2025-08-21,2025,8,3,wholesale
+Ahafo,Asunafo North Municipal,21-08-2025,Goaso,wholesale,Unshelled Groundnut,13.72,2025-08-21,2025,8,3,wholesale
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,wholesale,white maize,7.2,2025-08-18,2025,8,3,wholesale
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,wholesale,Rice Local perfumed,11.67,2025-08-18,2025,8,3,wholesale
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,wholesale,Rice Local non perfumed,9.446666667,2025-08-18,2025,8,3,wholesale
+Oti,Nkwanta South Municipal,18-08-2025,NKWANTA,wholesale,Soya Bean,8.33,2025-08-18,2025,8,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,22-08-2025,BIBIANI ,wholesale,white maize,9.126666667,2025-08-22,2025,8,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,22-08-2025,BIBIANI ,wholesale,Maize Yellow,10.41333333,2025-08-22,2025,8,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,22-08-2025,BIBIANI ,wholesale,Rice Local perfumed,20.94,2025-08-22,2025,8,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,22-08-2025,BIBIANI ,wholesale,Rice Local non perfumed,18.04666667,2025-08-22,2025,8,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,22-08-2025,BIBIANI ,wholesale,Groundnut Red,21.63666667,2025-08-22,2025,8,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,22-08-2025,BIBIANI ,wholesale,Soya Bean,12.92,2025-08-22,2025,8,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,22-08-2025,BIBIANI ,wholesale,Unshelled Groundnut,32.92,2025-08-22,2025,8,4,wholesale
+Upper East,Bolgatanga Municipal,23-08-2025,Bowl,wholesale,white maize,4.5,2025-08-23,2025,8,4,wholesale
+Upper East,Bolgatanga Municipal,23-08-2025,Bowl,wholesale,Maize Yellow,4.5,2025-08-23,2025,8,4,wholesale
+Upper East,Bolgatanga Municipal,23-08-2025,Bowl,wholesale,Groundnut Red,14.33333333,2025-08-23,2025,8,4,wholesale
+Upper East,Bolgatanga Municipal,23-08-2025,Bowl,wholesale,Soya Bean,6.393333333,2025-08-23,2025,8,4,wholesale
+Bono East,Techiman Municipal,21-08-2025,,wholesale,white maize,6.15,2025-08-21,2025,8,3,wholesale
+Bono East,Techiman Municipal,21-08-2025,,wholesale,Maize Yellow,6.383333333,2025-08-21,2025,8,3,wholesale
+Bono East,Techiman Municipal,21-08-2025,,wholesale,Rice Local perfumed,12.67,2025-08-21,2025,8,3,wholesale
+Bono East,Techiman Municipal,21-08-2025,,wholesale,Rice Local non perfumed,10.00666667,2025-08-21,2025,8,3,wholesale
+Bono East,Techiman Municipal,21-08-2025,,wholesale,Groundnut Red,18.89333333,2025-08-21,2025,8,3,wholesale
+Bono East,Techiman Municipal,21-08-2025,,wholesale,Soya Bean,8.396666667,2025-08-21,2025,8,3,wholesale
+Bono East,Techiman Municipal,21-08-2025,,wholesale,Unshelled Groundnut,16.38666667,2025-08-21,2025,8,3,wholesale
+Savannah,Bole,17-08-2025,Bamboi market,wholesale,white maize,6.0,2025-08-17,2025,8,3,wholesale
+Savannah,Bole,17-08-2025,Bamboi market,wholesale,Maize Yellow,6.165,2025-08-17,2025,8,3,wholesale
+Savannah,Bole,17-08-2025,Bamboi market,wholesale,Rice Local perfumed,10.0325,2025-08-17,2025,8,3,wholesale
+Savannah,Bole,17-08-2025,Bamboi market,wholesale,Rice Local non perfumed,15.02,2025-08-17,2025,8,3,wholesale
+Savannah,Bole,17-08-2025,Bamboi market,wholesale,Groundnut Red,22.5,2025-08-17,2025,8,3,wholesale
+Savannah,Bole,17-08-2025,Bamboi market,wholesale,Soya Bean,15.6625,2025-08-17,2025,8,3,wholesale
+Greater Accra,TMA-Tema East,23-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-08-23,2025,8,4,wholesale
+Greater Accra,TMA-Tema East,23-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-08-23,2025,8,4,wholesale
+Greater Accra,TMA-Tema East,23-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,25.65333333,2025-08-23,2025,8,4,wholesale
+Greater Accra,TMA-Tema East,23-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,34.0,2025-08-23,2025,8,4,wholesale
+Greater Accra,TMA-Tema East,23-08-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,18.66666667,2025-08-23,2025,8,4,wholesale
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,wholesale,white maize,3.08,2025-08-20,2025,8,3,wholesale
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,wholesale,Maize Yellow,3.08,2025-08-20,2025,8,3,wholesale
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.0,2025-08-20,2025,8,3,wholesale
+Bono,Sunyani Municipal,20-08-2025,Nana Bosomah,wholesale,Rice Local non perfumed,10.0,2025-08-20,2025,8,3,wholesale
+Bono East,Kintampo North Municipal,25-08-2025,Kintampo,wholesale,white maize,5.48,2025-08-25,2025,8,4,wholesale
+Bono East,Kintampo North Municipal,25-08-2025,Kintampo,wholesale,Maize Yellow,5.353333333,2025-08-25,2025,8,4,wholesale
+Bono East,Kintampo North Municipal,25-08-2025,Kintampo,wholesale,Rice Local perfumed,10.24333333,2025-08-25,2025,8,4,wholesale
+Ahafo,Asunafo North Municipal,29-08-2025,Goaso,wholesale,white maize,7.376666667,2025-08-29,2025,8,5,wholesale
+Ahafo,Asunafo North Municipal,29-08-2025,Goaso,wholesale,Maize Yellow,7.373333333,2025-08-29,2025,8,5,wholesale
+Ahafo,Asunafo North Municipal,29-08-2025,Goaso,wholesale,Rice Local perfumed,13.80333333,2025-08-29,2025,8,5,wholesale
+Ahafo,Asunafo North Municipal,29-08-2025,Goaso,wholesale,Groundnut Red,20.27666667,2025-08-29,2025,8,5,wholesale
+Ahafo,Asunafo North Municipal,29-08-2025,Goaso,wholesale,Unshelled Groundnut,15.02333333,2025-08-29,2025,8,5,wholesale
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA ,wholesale,white maize,7.2,2025-08-24,2025,8,4,wholesale
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA ,wholesale,Rice Local perfumed,11.67,2025-08-24,2025,8,4,wholesale
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA ,wholesale,Rice Local non perfumed,9.446666667,2025-08-24,2025,8,4,wholesale
+Oti,Nkwanta South Municipal,24-08-2025,NKWANTA ,wholesale,Soya Bean,8.33,2025-08-24,2025,8,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-08-2025,Bibiani ,wholesale,white maize,9.29,2025-08-29,2025,8,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-08-2025,Bibiani ,wholesale,Maize Yellow,9.75,2025-08-29,2025,8,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-08-2025,Bibiani ,wholesale,Rice Local perfumed,18.21,2025-08-29,2025,8,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-08-2025,Bibiani ,wholesale,Rice Local non perfumed,15.54666667,2025-08-29,2025,8,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-08-2025,Bibiani ,wholesale,Groundnut Red,21.81333333,2025-08-29,2025,8,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-08-2025,Bibiani ,wholesale,Soya Bean,15.51666667,2025-08-29,2025,8,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,29-08-2025,Bibiani ,wholesale,Unshelled Groundnut,29.58666667,2025-08-29,2025,8,5,wholesale
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,wholesale,white maize,3.08,2025-08-29,2025,8,5,wholesale
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,wholesale,Maize Yellow,3.08,2025-08-29,2025,8,5,wholesale
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.0,2025-08-29,2025,8,5,wholesale
+Bono,Sunyani Municipal,29-08-2025,Nana Bosomah,wholesale,Rice Local non perfumed,10.0,2025-08-29,2025,8,5,wholesale
+Bono East,Techiman Municipal,27-08-2025,Techiman Market,wholesale,white maize,4.433333333,2025-08-27,2025,8,4,wholesale
+Bono East,Techiman Municipal,27-08-2025,Techiman Market,wholesale,Maize Yellow,6.54,2025-08-27,2025,8,4,wholesale
+Bono East,Techiman Municipal,27-08-2025,Techiman Market,wholesale,Rice Local perfumed,12.77666667,2025-08-27,2025,8,4,wholesale
+Bono East,Techiman Municipal,27-08-2025,Techiman Market,wholesale,Rice Local non perfumed,10.36,2025-08-27,2025,8,4,wholesale
+Bono East,Techiman Municipal,27-08-2025,Techiman Market,wholesale,Groundnut Red,17.54666667,2025-08-27,2025,8,4,wholesale
+Bono East,Techiman Municipal,27-08-2025,Techiman Market,wholesale,Soya Bean,8.396666667,2025-08-27,2025,8,4,wholesale
+Bono East,Techiman Municipal,27-08-2025,Techiman Market,wholesale,Unshelled Groundnut,15.63,2025-08-27,2025,8,4,wholesale
+Bono East,Kintampo North Municipal,31-08-2025,Kintampo ,wholesale,white maize,4.18,2025-08-31,2025,8,5,wholesale
+Bono East,Kintampo North Municipal,31-08-2025,Kintampo ,wholesale,Maize Yellow,3.473333333,2025-08-31,2025,8,5,wholesale
+Bono East,Kintampo North Municipal,31-08-2025,Kintampo ,wholesale,Rice Local perfumed,11.44333333,2025-08-31,2025,8,5,wholesale
+Upper West,Wa Municipal,26-08-2025,Wa market ,wholesale,white maize,4.0,2025-08-26,2025,8,4,wholesale
+Upper West,Wa Municipal,26-08-2025,Wa market ,wholesale,Maize Yellow,4.0,2025-08-26,2025,8,4,wholesale
+Greater Accra,TMA-Tema East,01-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-09-01,2025,9,1,wholesale
+Greater Accra,TMA-Tema East,01-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,14.66666667,2025-09-01,2025,9,1,wholesale
+Greater Accra,TMA-Tema East,01-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,25.06666667,2025-09-01,2025,9,1,wholesale
+Greater Accra,TMA-Tema East,01-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,34.0,2025-09-01,2025,9,1,wholesale
+Greater Accra,TMA-Tema East,01-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,20.0,2025-09-01,2025,9,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,05-09-2025,Bibiani ,wholesale,white maize,7.506666667,2025-09-05,2025,9,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,05-09-2025,Bibiani ,wholesale,Maize Yellow,8.06,2025-09-05,2025,9,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,05-09-2025,Bibiani ,wholesale,Rice Local perfumed,16.45333333,2025-09-05,2025,9,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,05-09-2025,Bibiani ,wholesale,Rice Local non perfumed,15.18333333,2025-09-05,2025,9,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,05-09-2025,Bibiani ,wholesale,Groundnut Red,22.17333333,2025-09-05,2025,9,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,05-09-2025,Bibiani ,wholesale,Soya Bean,16.62666667,2025-09-05,2025,9,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,05-09-2025,Bibiani ,wholesale,Unshelled Groundnut,27.48333333,2025-09-05,2025,9,1,wholesale
+Ahafo,Asunafo North Municipal,03-06-2025,Goaso,wholesale,white maize,12.01666667,2025-06-03,2025,6,1,wholesale
+Ahafo,Asunafo North Municipal,03-06-2025,Goaso,wholesale,Maize Yellow,12.35,2025-06-03,2025,6,1,wholesale
+Ahafo,Asunafo North Municipal,03-06-2025,Goaso,wholesale,Rice Local perfumed,19.74333333,2025-06-03,2025,6,1,wholesale
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,wholesale,white maize,3.75,2025-09-05,2025,9,1,wholesale
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,wholesale,Maize Yellow,3.75,2025-09-05,2025,9,1,wholesale
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,wholesale,Rice Local perfumed,12.0,2025-09-05,2025,9,1,wholesale
+Bono,Sunyani Municipal,05-09-2025,Nana Bosomah,wholesale,Rice Local non perfumed,10.0,2025-09-05,2025,9,1,wholesale
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,wholesale,white maize,4.5,2025-08-30,2025,8,5,wholesale
+Upper East,Bolgatanga Municipal,30-08-2025,Bolga,wholesale,Maize Yellow,4.5,2025-08-30,2025,8,5,wholesale
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,wholesale,white maize,4.5,2025-09-07,2025,9,1,wholesale
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,wholesale,Maize Yellow,4.5,2025-09-07,2025,9,1,wholesale
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,wholesale,Groundnut Red,14.0,2025-09-07,2025,9,1,wholesale
+Upper East,Bolgatanga Municipal,07-09-2025,Bolga,wholesale,Soya Bean,5.466666667,2025-09-07,2025,9,1,wholesale
+Bono East,Techiman Municipal,04-09-2025,210,wholesale,white maize,5.04,2025-09-04,2025,9,1,wholesale
+Bono East,Techiman Municipal,04-09-2025,210,wholesale,Maize Yellow,5.56,2025-09-04,2025,9,1,wholesale
+Bono East,Techiman Municipal,04-09-2025,210,wholesale,Rice Local perfumed,11.33333333,2025-09-04,2025,9,1,wholesale
+Bono East,Techiman Municipal,04-09-2025,210,wholesale,Rice Local non perfumed,9.773333333,2025-09-04,2025,9,1,wholesale
+Bono East,Techiman Municipal,04-09-2025,210,wholesale,Groundnut Red,17.39666667,2025-09-04,2025,9,1,wholesale
+Bono East,Techiman Municipal,04-09-2025,210,wholesale,Soya Bean,8.026666667,2025-09-04,2025,9,1,wholesale
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,wholesale,white maize,5.123333333,2025-09-08,2025,9,2,wholesale
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,wholesale,Maize Yellow,5.176666667,2025-09-08,2025,9,2,wholesale
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,wholesale,Rice Local perfumed,15.05666667,2025-09-08,2025,9,2,wholesale
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,wholesale,Groundnut Red,18.94333333,2025-09-08,2025,9,2,wholesale
+Ahafo,Asunafo North Municipal,08-09-2025,Goaso,wholesale,Unshelled Groundnut,26.82666667,2025-09-08,2025,9,2,wholesale
+Bono East,Kintampo North Municipal,07-09-2025,Kintampo ,wholesale,white maize,3.416666667,2025-09-07,2025,9,1,wholesale
+Bono East,Kintampo North Municipal,07-09-2025,Kintampo ,wholesale,Maize Yellow,3.336666667,2025-09-07,2025,9,1,wholesale
+Bono East,Kintampo North Municipal,07-09-2025,Kintampo ,wholesale,Rice Local perfumed,11.57666667,2025-09-07,2025,9,1,wholesale
+Upper West,Wa Municipal,10-09-2025,WA MARKET ,wholesale,white maize,10.4,2025-09-10,2025,9,2,wholesale
+Upper West,Wa Municipal,10-09-2025,WA MARKET ,wholesale,Maize Yellow,10.4,2025-09-10,2025,9,2,wholesale
+Upper West,Wa Municipal,10-09-2025,WA MARKET ,wholesale,Soya Bean,22.0,2025-09-10,2025,9,2,wholesale
+Greater Accra,TMA-Tema East,08-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,14.0,2025-09-08,2025,9,2,wholesale
+Greater Accra,TMA-Tema East,08-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,15.0,2025-09-08,2025,9,2,wholesale
+Greater Accra,TMA-Tema East,08-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,25.06666667,2025-09-08,2025,9,2,wholesale
+Greater Accra,TMA-Tema East,08-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,34.0,2025-09-08,2025,9,2,wholesale
+Greater Accra,TMA-Tema East,08-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,20.0,2025-09-08,2025,9,2,wholesale
+Eastern,New Juaben South Municipal,11-09-2025,Koforidua Central Market,wholesale,Maize Yellow,4.44,2025-09-11,2025,9,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,13-09-2025,Bibiani ,wholesale,white maize,7.193333333,2025-09-13,2025,9,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,13-09-2025,Bibiani ,wholesale,Maize Yellow,7.46,2025-09-13,2025,9,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,13-09-2025,Bibiani ,wholesale,Rice Local perfumed,15.33333333,2025-09-13,2025,9,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,13-09-2025,Bibiani ,wholesale,Rice Local non perfumed,13.95666667,2025-09-13,2025,9,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,13-09-2025,Bibiani ,wholesale,Groundnut Red,22.13666667,2025-09-13,2025,9,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,13-09-2025,Bibiani ,wholesale,Soya Bean,17.88,2025-09-13,2025,9,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,13-09-2025,Bibiani ,wholesale,Unshelled Groundnut,24.89666667,2025-09-13,2025,9,2,wholesale
+Bono East,Kintampo North Municipal,15-09-2025,Kintampo ,wholesale,white maize,3.38,2025-09-15,2025,9,3,wholesale
+Bono East,Kintampo North Municipal,15-09-2025,Kintampo ,wholesale,Maize Yellow,3.4,2025-09-15,2025,9,3,wholesale
+Bono East,Kintampo North Municipal,15-09-2025,Kintampo ,wholesale,Rice Local perfumed,11.54,2025-09-15,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,15-09-2025,Goaso,wholesale,white maize,6.66,2025-09-15,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,15-09-2025,Goaso,wholesale,Maize Yellow,6.68,2025-09-15,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,15-09-2025,Goaso,wholesale,Rice Local perfumed,14.14333333,2025-09-15,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,15-09-2025,Goaso,wholesale,Groundnut Red,19.07666667,2025-09-15,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,15-09-2025,Goaso,wholesale,Unshelled Groundnut,30.89666667,2025-09-15,2025,9,3,wholesale
+Upper West,Wa Municipal,15-09-2025,WA MARKET,wholesale,white maize,10.66666667,2025-09-15,2025,9,3,wholesale
+Upper West,Wa Municipal,15-09-2025,WA MARKET,wholesale,Maize Yellow,10.4,2025-09-15,2025,9,3,wholesale
+Upper West,Wa Municipal,15-09-2025,WA MARKET,wholesale,Rice Local non perfumed,24.0,2025-09-15,2025,9,3,wholesale
+Upper West,Wa Municipal,15-09-2025,WA MARKET,wholesale,Soya Bean,12.8,2025-09-15,2025,9,3,wholesale
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,wholesale,white maize,5.2,2025-09-08,2025,9,2,wholesale
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,wholesale,Rice Local perfumed,11.67,2025-09-08,2025,9,2,wholesale
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,wholesale,Rice Local non perfumed,9.17,2025-09-08,2025,9,2,wholesale
+Oti,Nkwanta South Municipal,08-09-2025,NKWANTA,wholesale,Soya Bean,8.33,2025-09-08,2025,9,2,wholesale
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,wholesale,white maize,3.75,2025-09-10,2025,9,2,wholesale
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,wholesale,Maize Yellow,3.75,2025-09-10,2025,9,2,wholesale
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,wholesale,Rice Local perfumed,11.67,2025-09-10,2025,9,2,wholesale
+Bono,Sunyani Municipal,10-09-2025,Nana Bosomah,wholesale,Rice Local non perfumed,10.0,2025-09-10,2025,9,2,wholesale
+Bono East,Techiman Municipal,13-09-2025,,wholesale,white maize,3.93,2025-09-13,2025,9,2,wholesale
+Bono East,Techiman Municipal,13-09-2025,,wholesale,Maize Yellow,4.29,2025-09-13,2025,9,2,wholesale
+Bono East,Techiman Municipal,13-09-2025,,wholesale,Rice Local perfumed,12.55666667,2025-09-13,2025,9,2,wholesale
+Bono East,Techiman Municipal,13-09-2025,,wholesale,Rice Local non perfumed,10.01,2025-09-13,2025,9,2,wholesale
+Bono East,Techiman Municipal,13-09-2025,,wholesale,Groundnut Red,18.7,2025-09-13,2025,9,2,wholesale
+Bono East,Techiman Municipal,13-09-2025,,wholesale,Soya Bean,8.52,2025-09-13,2025,9,2,wholesale
+Bono East,Techiman Municipal,13-09-2025,,wholesale,Unshelled Groundnut,17.71,2025-09-13,2025,9,2,wholesale
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA ,wholesale,white maize,7.2,2025-09-01,2025,9,1,wholesale
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA ,wholesale,Rice Local perfumed,11.67,2025-09-01,2025,9,1,wholesale
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA ,wholesale,Rice Local non perfumed,10.05666667,2025-09-01,2025,9,1,wholesale
+Oti,Nkwanta South Municipal,01-09-2025,NKWANTA ,wholesale,Soya Bean,8.886666667,2025-09-01,2025,9,1,wholesale
+Eastern,New Juaben South Municipal,18-09-2025,Koforidua Central Market ,wholesale,Maize Yellow,5.993333333,2025-09-18,2025,9,3,wholesale
+Greater Accra,TMA-Tema East,18-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,12.0,2025-09-18,2025,9,3,wholesale
+Greater Accra,TMA-Tema East,18-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,13.0,2025-09-18,2025,9,3,wholesale
+Greater Accra,TMA-Tema East,18-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,26.51666667,2025-09-18,2025,9,3,wholesale
+Greater Accra,TMA-Tema East,18-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,32.0,2025-09-18,2025,9,3,wholesale
+Greater Accra,TMA-Tema East,18-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-09-18,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,19-09-2025,Bibiani,wholesale,white maize,6.89,2025-09-19,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,19-09-2025,Bibiani,wholesale,Maize Yellow,7.003333333,2025-09-19,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,19-09-2025,Bibiani,wholesale,Rice Local perfumed,16.51333333,2025-09-19,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,19-09-2025,Bibiani,wholesale,Rice Local non perfumed,13.705,2025-09-19,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,19-09-2025,Bibiani,wholesale,Groundnut Red,22.21333333,2025-09-19,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,19-09-2025,Bibiani,wholesale,Soya Bean,17.7,2025-09-19,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,19-09-2025,Bibiani,wholesale,Unshelled Groundnut,27.96333333,2025-09-19,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,21-09-2025,Goaso,wholesale,white maize,6.66,2025-09-21,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,21-09-2025,Goaso,wholesale,Maize Yellow,6.72,2025-09-21,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,21-09-2025,Goaso,wholesale,Rice Local perfumed,13.95666667,2025-09-21,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,21-09-2025,Goaso,wholesale,Groundnut Red,18.37666667,2025-09-21,2025,9,3,wholesale
+Ahafo,Asunafo North Municipal,21-09-2025,Goaso,wholesale,Unshelled Groundnut,32.19333333,2025-09-21,2025,9,3,wholesale
+Bono East,Kintampo North Municipal,19-09-2025,Kintampo,wholesale,white maize,4.046666667,2025-09-19,2025,9,3,wholesale
+Bono East,Kintampo North Municipal,19-09-2025,Kintampo,wholesale,Maize Yellow,4.046666667,2025-09-19,2025,9,3,wholesale
+Bono East,Kintampo North Municipal,19-09-2025,Kintampo,wholesale,Groundnut Red,9.723333333,2025-09-19,2025,9,3,wholesale
+Bono East,Kintampo North Municipal,19-09-2025,Kintampo,wholesale,Soya Bean,9.166666667,2025-09-19,2025,9,3,wholesale
+Bono East,Techiman Municipal,19-09-2025,,wholesale,white maize,4.62,2025-09-19,2025,9,3,wholesale
+Bono East,Techiman Municipal,19-09-2025,,wholesale,Maize Yellow,5.316666667,2025-09-19,2025,9,3,wholesale
+Bono East,Techiman Municipal,19-09-2025,,wholesale,Rice Local perfumed,12.67,2025-09-19,2025,9,3,wholesale
+Bono East,Techiman Municipal,19-09-2025,,wholesale,Rice Local non perfumed,10.12,2025-09-19,2025,9,3,wholesale
+Bono East,Techiman Municipal,19-09-2025,,wholesale,Groundnut Red,17.10333333,2025-09-19,2025,9,3,wholesale
+Bono East,Techiman Municipal,19-09-2025,,wholesale,Soya Bean,8.643333333,2025-09-19,2025,9,3,wholesale
+Upper West,Wa Municipal,24-09-2025,WA MARKET,wholesale,white maize,10.4,2025-09-24,2025,9,4,wholesale
+Upper West,Wa Municipal,24-09-2025,WA MARKET,wholesale,Maize Yellow,10.4,2025-09-24,2025,9,4,wholesale
+Upper West,Wa Municipal,24-09-2025,WA MARKET,wholesale,Rice Local perfumed,32.0,2025-09-24,2025,9,4,wholesale
+Upper West,Wa Municipal,24-09-2025,WA MARKET,wholesale,Rice Local non perfumed,24.0,2025-09-24,2025,9,4,wholesale
+Upper West,Wa Municipal,24-09-2025,WA MARKET,wholesale,Groundnut Red,24.0,2025-09-24,2025,9,4,wholesale
+Upper West,Wa Municipal,24-09-2025,WA MARKET,wholesale,Soya Bean,12.8,2025-09-24,2025,9,4,wholesale
+Eastern,New Juaben South Municipal,26-09-2025,Koforidua central market ,wholesale,Maize Yellow,6.53,2025-09-26,2025,9,4,wholesale
+Eastern,New Juaben South Municipal,26-09-2025,Koforidua central market ,wholesale,Unshelled Groundnut,20.0,2025-09-26,2025,9,4,wholesale
+Savannah,Bole,15-09-2025,Bamboi market,wholesale,white maize,4.3675,2025-09-15,2025,9,3,wholesale
+Savannah,Bole,15-09-2025,Bamboi market,wholesale,Maize Yellow,4.3675,2025-09-15,2025,9,3,wholesale
+Savannah,Bole,15-09-2025,Bamboi market,wholesale,Rice Local perfumed,13.0,2025-09-15,2025,9,3,wholesale
+Savannah,Bole,15-09-2025,Bamboi market,wholesale,Rice Local non perfumed,8.5,2025-09-15,2025,9,3,wholesale
+Savannah,Bole,15-09-2025,Bamboi market,wholesale,Groundnut Red,21.765,2025-09-15,2025,9,3,wholesale
+Savannah,Bole,15-09-2025,Bamboi market,wholesale,Soya Bean,13.3225,2025-09-15,2025,9,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-09-2025,Bibiani ,wholesale,white maize,7.29,2025-09-27,2025,9,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-09-2025,Bibiani ,wholesale,Maize Yellow,7.573333333,2025-09-27,2025,9,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-09-2025,Bibiani ,wholesale,Rice Local perfumed,14.87333333,2025-09-27,2025,9,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-09-2025,Bibiani ,wholesale,Rice Local non perfumed,12.56,2025-09-27,2025,9,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-09-2025,Bibiani ,wholesale,Groundnut Red,21.41,2025-09-27,2025,9,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-09-2025,Bibiani ,wholesale,Soya Bean,16.14666667,2025-09-27,2025,9,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,27-09-2025,Bibiani ,wholesale,Unshelled Groundnut,23.04,2025-09-27,2025,9,4,wholesale
+Greater Accra,TMA-Tema East,25-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,10.66666667,2025-09-25,2025,9,4,wholesale
+Greater Accra,TMA-Tema East,25-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,11.66666667,2025-09-25,2025,9,4,wholesale
+Greater Accra,TMA-Tema East,25-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,26.38333333,2025-09-25,2025,9,4,wholesale
+Greater Accra,TMA-Tema East,25-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,29.33333333,2025-09-25,2025,9,4,wholesale
+Greater Accra,TMA-Tema East,25-09-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,17.33333333,2025-09-25,2025,9,4,wholesale
+Ahafo,Asunafo North Municipal,28-09-2025,Goaso,wholesale,white maize,6.1,2025-09-28,2025,9,4,wholesale
+Ahafo,Asunafo North Municipal,28-09-2025,Goaso,wholesale,Maize Yellow,6.166666667,2025-09-28,2025,9,4,wholesale
+Ahafo,Asunafo North Municipal,28-09-2025,Goaso,wholesale,Rice Local perfumed,13.36,2025-09-28,2025,9,4,wholesale
+Ahafo,Asunafo North Municipal,28-09-2025,Goaso,wholesale,Groundnut Red,19.07666667,2025-09-28,2025,9,4,wholesale
+Ahafo,Asunafo North Municipal,28-09-2025,Goaso,wholesale,Unshelled Groundnut,34.21,2025-09-28,2025,9,4,wholesale
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,wholesale,white maize,4.14,2025-09-28,2025,9,4,wholesale
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,wholesale,Maize Yellow,4.14,2025-09-28,2025,9,4,wholesale
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,wholesale,Groundnut Red,9.86,2025-09-28,2025,9,4,wholesale
+Bono East,Kintampo North Municipal,28-09-2025,Kintampo,wholesale,Soya Bean,8.0,2025-09-28,2025,9,4,wholesale
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,wholesale,white maize,4.176666667,2025-09-25,2025,9,4,wholesale
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,wholesale,Maize Yellow,4.873333333,2025-09-25,2025,9,4,wholesale
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,wholesale,Rice Local perfumed,12.67,2025-09-25,2025,9,4,wholesale
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,wholesale,Rice Local non perfumed,10.13,2025-09-25,2025,9,4,wholesale
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,wholesale,Groundnut Red,17.22333333,2025-09-25,2025,9,4,wholesale
+Bono East,Techiman Municipal,25-09-2025,Techiman Market,wholesale,Soya Bean,8.273333333,2025-09-25,2025,9,4,wholesale
+Upper West,Wa Municipal,30-09-2025,WA MARKET,wholesale,white maize,10.4,2025-09-30,2025,9,5,wholesale
+Upper West,Wa Municipal,30-09-2025,WA MARKET,wholesale,Maize Yellow,10.4,2025-09-30,2025,9,5,wholesale
+Upper West,Wa Municipal,30-09-2025,WA MARKET,wholesale,Rice Local perfumed,16.0,2025-09-30,2025,9,5,wholesale
+Upper West,Wa Municipal,30-09-2025,WA MARKET,wholesale,Rice Local non perfumed,24.0,2025-09-30,2025,9,5,wholesale
+Upper West,Wa Municipal,30-09-2025,WA MARKET,wholesale,Groundnut Red,24.0,2025-09-30,2025,9,5,wholesale
+Upper West,Wa Municipal,30-09-2025,WA MARKET,wholesale,Soya Bean,12.8,2025-09-30,2025,9,5,wholesale
+Upper West,Wa Municipal,30-09-2025,WA MARKET,wholesale,Unshelled Groundnut,13.0,2025-09-30,2025,9,5,wholesale
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,wholesale,white maize,3.75,2025-09-24,2025,9,4,wholesale
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,wholesale,Maize Yellow,3.75,2025-09-24,2025,9,4,wholesale
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,wholesale,Rice Local perfumed,11.67,2025-09-24,2025,9,4,wholesale
+Bono,Sunyani Municipal,24-09-2025,Nana Bosomah,wholesale,Rice Local non perfumed,10.0,2025-09-24,2025,9,4,wholesale
+Eastern,New Juaben South Municipal,02-10-2025,CENTRAL MARKET ,wholesale,Unshelled Groundnut,15.91,2025-10-02,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,02-10-2025,Bibiani ,wholesale,white maize,5.3,2025-10-02,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,02-10-2025,Bibiani ,wholesale,Maize Yellow,7.81,2025-10-02,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,02-10-2025,Bibiani ,wholesale,Rice Local perfumed,11.535,2025-10-02,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,02-10-2025,Bibiani ,wholesale,Rice Local non perfumed,13.38666667,2025-10-02,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,02-10-2025,Bibiani ,wholesale,Groundnut Red,20.16333333,2025-10-02,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,02-10-2025,Bibiani ,wholesale,Soya Bean,17.60333333,2025-10-02,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,02-10-2025,Bibiani ,wholesale,Unshelled Groundnut,24.23,2025-10-02,2025,10,1,wholesale
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,wholesale,white maize,6.633333333,2025-10-03,2025,10,1,wholesale
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,wholesale,Maize Yellow,6.68,2025-10-03,2025,10,1,wholesale
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,wholesale,Rice Local perfumed,14.16666667,2025-10-03,2025,10,1,wholesale
+Ahafo,Asunafo North Municipal,03-10-2025,Goaso,wholesale,Groundnut Red,18.91666667,2025-10-03,2025,10,1,wholesale
+Bono,Sunyani Municipal,01-10-2025,Nana Bosomah,wholesale,white maize,4.62,2025-10-01,2025,10,1,wholesale
+Bono,Sunyani Municipal,01-10-2025,Nana Bosomah,wholesale,Maize Yellow,4.62,2025-10-01,2025,10,1,wholesale
+Bono,Sunyani Municipal,01-10-2025,Nana Bosomah,wholesale,Rice Local perfumed,11.67,2025-10-01,2025,10,1,wholesale
+Bono,Sunyani Municipal,01-10-2025,Nana Bosomah,wholesale,Rice Local non perfumed,10.0,2025-10-01,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,white maize,10.4,2025-10-06,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,Maize Yellow,10.4,2025-10-06,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,Rice Local perfumed,32.0,2025-10-06,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,Rice Local non perfumed,24.0,2025-10-06,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,Groundnut Red,24.0,2025-10-06,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,Soya Bean,12.8,2025-10-06,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,Unshelled Groundnut,13.0,2025-10-06,2025,10,1,wholesale
+Greater Accra,TMA-Tema East,04-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,9.333333333,2025-10-04,2025,10,1,wholesale
+Greater Accra,TMA-Tema East,04-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,10.33333333,2025-10-04,2025,10,1,wholesale
+Greater Accra,TMA-Tema East,04-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,27.10333333,2025-10-04,2025,10,1,wholesale
+Greater Accra,TMA-Tema East,04-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,32.25666667,2025-10-04,2025,10,1,wholesale
+Greater Accra,TMA-Tema East,04-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,15.79333333,2025-10-04,2025,10,1,wholesale
+Bono East,Techiman Municipal,02-10-2025,Techiman Market,wholesale,white maize,4.23,2025-10-02,2025,10,1,wholesale
+Bono East,Techiman Municipal,02-10-2025,Techiman Market,wholesale,Maize Yellow,5.0,2025-10-02,2025,10,1,wholesale
+Bono East,Techiman Municipal,02-10-2025,Techiman Market,wholesale,Rice Local perfumed,12.11,2025-10-02,2025,10,1,wholesale
+Bono East,Techiman Municipal,02-10-2025,Techiman Market,wholesale,Rice Local non perfumed,9.88,2025-10-02,2025,10,1,wholesale
+Bono East,Techiman Municipal,02-10-2025,Techiman Market,wholesale,Groundnut Red,17.39,2025-10-02,2025,10,1,wholesale
+Bono East,Techiman Municipal,02-10-2025,Techiman Market,wholesale,Soya Bean,8.396666667,2025-10-02,2025,10,1,wholesale
+Ahafo,Asunafo North Municipal,09-10-2025,Goaso,wholesale,white maize,5.286666667,2025-10-09,2025,10,2,wholesale
+Ahafo,Asunafo North Municipal,09-10-2025,Goaso,wholesale,Maize Yellow,5.246666667,2025-10-09,2025,10,2,wholesale
+Ahafo,Asunafo North Municipal,09-10-2025,Goaso,wholesale,Groundnut Red,19.23,2025-10-09,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,10-10-2025,Bibiani ,wholesale,white maize,7.01,2025-10-10,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,10-10-2025,Bibiani ,wholesale,Maize Yellow,7.443333333,2025-10-10,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,10-10-2025,Bibiani ,wholesale,Rice Local perfumed,15.97,2025-10-10,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,10-10-2025,Bibiani ,wholesale,Rice Local non perfumed,13.70333333,2025-10-10,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,10-10-2025,Bibiani ,wholesale,Groundnut Red,20.42333333,2025-10-10,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,10-10-2025,Bibiani ,wholesale,Soya Bean,14.79666667,2025-10-10,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,10-10-2025,Bibiani ,wholesale,Unshelled Groundnut,19.49333333,2025-10-10,2025,10,2,wholesale
+Savannah,Bole,16-09-2025,Bamboi market,wholesale,white maize,4.33,2025-09-16,2025,9,3,wholesale
+Savannah,Bole,16-09-2025,Bamboi market,wholesale,Maize Yellow,4.33,2025-09-16,2025,9,3,wholesale
+Savannah,Bole,16-09-2025,Bamboi market,wholesale,Rice Local perfumed,11.305,2025-09-16,2025,9,3,wholesale
+Savannah,Bole,16-09-2025,Bamboi market,wholesale,Rice Local non perfumed,7.195,2025-09-16,2025,9,3,wholesale
+Savannah,Bole,16-09-2025,Bamboi market,wholesale,Groundnut Red,18.4475,2025-09-16,2025,9,3,wholesale
+Savannah,Bole,16-09-2025,Bamboi market,wholesale,Soya Bean,13.0525,2025-09-16,2025,9,3,wholesale
+Savannah,Bole,16-09-2025,Bamboi market,wholesale,Unshelled Groundnut,4.3675,2025-09-16,2025,9,3,wholesale
+Upper West,Wa Municipal,15-10-2025,WA MARKET,wholesale,white maize,11.2,2025-10-15,2025,10,3,wholesale
+Upper West,Wa Municipal,15-10-2025,WA MARKET,wholesale,Maize Yellow,11.46666667,2025-10-15,2025,10,3,wholesale
+Upper West,Wa Municipal,15-10-2025,WA MARKET,wholesale,Rice Local perfumed,32.0,2025-10-15,2025,10,3,wholesale
+Upper West,Wa Municipal,15-10-2025,WA MARKET,wholesale,Rice Local non perfumed,24.0,2025-10-15,2025,10,3,wholesale
+Upper West,Wa Municipal,15-10-2025,WA MARKET,wholesale,Groundnut Red,24.0,2025-10-15,2025,10,3,wholesale
+Upper West,Wa Municipal,15-10-2025,WA MARKET,wholesale,Soya Bean,12.8,2025-10-15,2025,10,3,wholesale
+Upper West,Wa Municipal,15-10-2025,WA MARKET,wholesale,Unshelled Groundnut,12.0,2025-10-15,2025,10,3,wholesale
+Bono East,Techiman Municipal,10-10-2025,Techiman,wholesale,white maize,4.23,2025-10-10,2025,10,2,wholesale
+Bono East,Techiman Municipal,10-10-2025,Techiman,wholesale,Maize Yellow,5.0,2025-10-10,2025,10,2,wholesale
+Bono East,Techiman Municipal,10-10-2025,Techiman,wholesale,Rice Local perfumed,11.22333333,2025-10-10,2025,10,2,wholesale
+Bono East,Techiman Municipal,10-10-2025,Techiman,wholesale,Rice Local non perfumed,9.766666667,2025-10-10,2025,10,2,wholesale
+Bono East,Techiman Municipal,10-10-2025,Techiman,wholesale,Groundnut Red,14.03333333,2025-10-10,2025,10,2,wholesale
+Bono East,Techiman Municipal,10-10-2025,Techiman,wholesale,Soya Bean,8.396666667,2025-10-10,2025,10,2,wholesale
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,wholesale,white maize,4.33,2025-09-29,2025,9,5,wholesale
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,wholesale,Rice Local perfumed,10.67,2025-09-29,2025,9,5,wholesale
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,wholesale,Rice Local non perfumed,7.776666667,2025-09-29,2025,9,5,wholesale
+Oti,Nkwanta South Municipal,29-09-2025,NKWANTA,wholesale,Soya Bean,8.836666667,2025-09-29,2025,9,5,wholesale
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,wholesale,white maize,4.33,2025-10-06,2025,10,1,wholesale
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,wholesale,Rice Local perfumed,10.67,2025-10-06,2025,10,1,wholesale
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,wholesale,Rice Local non perfumed,8.33,2025-10-06,2025,10,1,wholesale
+Oti,Nkwanta South Municipal,06-10-2025,NKWANTA,wholesale,Soya Bean,11.86666667,2025-10-06,2025,10,1,wholesale
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,wholesale,white maize,3.866666667,2025-10-13,2025,10,2,wholesale
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,wholesale,Maize Yellow,3.86,2025-10-13,2025,10,2,wholesale
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,wholesale,Groundnut Red,9.306666667,2025-10-13,2025,10,2,wholesale
+Bono East,Kintampo North Municipal,13-10-2025,Kintampo,wholesale,Soya Bean,6.67,2025-10-13,2025,10,2,wholesale
+Greater Accra,TMA-Tema East,11-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,8.333333333,2025-10-11,2025,10,2,wholesale
+Greater Accra,TMA-Tema East,11-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,9.0,2025-10-11,2025,10,2,wholesale
+Greater Accra,TMA-Tema East,11-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,26.37333333,2025-10-11,2025,10,2,wholesale
+Greater Accra,TMA-Tema East,11-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,29.61666667,2025-10-11,2025,10,2,wholesale
+Greater Accra,TMA-Tema East,11-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.66666667,2025-10-11,2025,10,2,wholesale
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,wholesale,white maize,4.0,2025-10-08,2025,10,2,wholesale
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,wholesale,Maize Yellow,4.0,2025-10-08,2025,10,2,wholesale
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,wholesale,Rice Local perfumed,11.67,2025-10-08,2025,10,2,wholesale
+Bono,Sunyani Municipal,08-10-2025,Nana Bosomah,wholesale,Rice Local non perfumed,7.0,2025-10-08,2025,10,2,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,16-10-2025,Bibiani ,wholesale,white maize,6.843333333,2025-10-16,2025,10,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,16-10-2025,Bibiani ,wholesale,Maize Yellow,7.42,2025-10-16,2025,10,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,16-10-2025,Bibiani ,wholesale,Rice Local perfumed,16.48,2025-10-16,2025,10,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,16-10-2025,Bibiani ,wholesale,Rice Local non perfumed,13.41,2025-10-16,2025,10,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,16-10-2025,Bibiani ,wholesale,Soya Bean,15.31333333,2025-10-16,2025,10,3,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,16-10-2025,Bibiani ,wholesale,Unshelled Groundnut,22.54,2025-10-16,2025,10,3,wholesale
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,wholesale,white maize,4.23,2025-10-15,2025,10,3,wholesale
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,wholesale,Maize Yellow,5.0,2025-10-15,2025,10,3,wholesale
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,wholesale,Rice Local perfumed,10.89,2025-10-15,2025,10,3,wholesale
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,wholesale,Rice Local non perfumed,9.76,2025-10-15,2025,10,3,wholesale
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,wholesale,Groundnut Red,15.83333333,2025-10-15,2025,10,3,wholesale
+Bono East,Techiman Municipal,15-10-2025,Techiman Market,wholesale,Soya Bean,8.273333333,2025-10-15,2025,10,3,wholesale
+Greater Accra,TMA-Tema East,19-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,8.0,2025-10-19,2025,10,3,wholesale
+Greater Accra,TMA-Tema East,19-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,9.0,2025-10-19,2025,10,3,wholesale
+Greater Accra,TMA-Tema East,19-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,25.79666667,2025-10-19,2025,10,3,wholesale
+Greater Accra,TMA-Tema East,19-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,27.33333333,2025-10-19,2025,10,3,wholesale
+Greater Accra,TMA-Tema East,19-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,16.0,2025-10-19,2025,10,3,wholesale
+Upper West,Wa Municipal,23-10-2025,WA MARKET,wholesale,white maize,11.2,2025-10-23,2025,10,4,wholesale
+Upper West,Wa Municipal,23-10-2025,WA MARKET,wholesale,Maize Yellow,12.0,2025-10-23,2025,10,4,wholesale
+Upper West,Wa Municipal,23-10-2025,WA MARKET,wholesale,Rice Local perfumed,32.0,2025-10-23,2025,10,4,wholesale
+Upper West,Wa Municipal,23-10-2025,WA MARKET,wholesale,Rice Local non perfumed,24.0,2025-10-23,2025,10,4,wholesale
+Upper West,Wa Municipal,23-10-2025,WA MARKET,wholesale,Groundnut Red,24.0,2025-10-23,2025,10,4,wholesale
+Upper West,Wa Municipal,23-10-2025,WA MARKET,wholesale,Soya Bean,12.4,2025-10-23,2025,10,4,wholesale
+Upper West,Wa Municipal,23-10-2025,WA MARKET,wholesale,Unshelled Groundnut,12.0,2025-10-23,2025,10,4,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,white maize,10.4,2025-10-06,2025,10,1,wholesale
+Upper West,Wa Municipal,06-10-2025,WA MARKET,wholesale,Maize Yellow,10.4,2025-10-06,2025,10,1,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,23-10-2025,Bibiani ,wholesale,white maize,6.32,2025-10-23,2025,10,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,23-10-2025,Bibiani ,wholesale,Maize Yellow,8.226666667,2025-10-23,2025,10,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,23-10-2025,Bibiani ,wholesale,Rice Local perfumed,14.46666667,2025-10-23,2025,10,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,23-10-2025,Bibiani ,wholesale,Rice Local non perfumed,13.83,2025-10-23,2025,10,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,23-10-2025,Bibiani ,wholesale,Groundnut Red,20.45333333,2025-10-23,2025,10,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,23-10-2025,Bibiani ,wholesale,Soya Bean,18.55333333,2025-10-23,2025,10,4,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,23-10-2025,Bibiani ,wholesale,Unshelled Groundnut,43.38666667,2025-10-23,2025,10,4,wholesale
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,wholesale,white maize,5.816666667,2025-10-26,2025,10,4,wholesale
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,wholesale,Maize Yellow,5.786666667,2025-10-26,2025,10,4,wholesale
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,wholesale,Rice Local perfumed,13.27,2025-10-26,2025,10,4,wholesale
+Ahafo,Asunafo North Municipal,26-10-2025,Goaso,wholesale,Groundnut Red,20.0,2025-10-26,2025,10,4,wholesale
+Oti,Nkwanta South Municipal,13-10-2025,NKWANTA,wholesale,white maize,4.33,2025-10-13,2025,10,2,wholesale
+Bono East,Kintampo North Municipal,22-10-2025,KINTAMPO ,wholesale,white maize,3.376666667,2025-10-22,2025,10,4,wholesale
+Bono East,Kintampo North Municipal,22-10-2025,KINTAMPO ,wholesale,Rice Local perfumed,10.35,2025-10-22,2025,10,4,wholesale
+Bono East,Kintampo North Municipal,22-10-2025,KINTAMPO ,wholesale,Soya Bean,8.0,2025-10-22,2025,10,4,wholesale
+Bono,Sunyani Municipal,28-10-2025,Nana Bosomah ,wholesale,white maize,4.0,2025-10-28,2025,10,4,wholesale
+Bono,Sunyani Municipal,28-10-2025,Nana Bosomah ,wholesale,Maize Yellow,4.0,2025-10-28,2025,10,4,wholesale
+Bono,Sunyani Municipal,28-10-2025,Nana Bosomah ,wholesale,Rice Local perfumed,11.67,2025-10-28,2025,10,4,wholesale
+Bono,Sunyani Municipal,28-10-2025,Nana Bosomah ,wholesale,Rice Local non perfumed,10.8325,2025-10-28,2025,10,4,wholesale
+Greater Accra,TMA-Tema East,25-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,white maize,8.0,2025-10-25,2025,10,4,wholesale
+Greater Accra,TMA-Tema East,25-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Maize Yellow,8.666666667,2025-10-25,2025,10,4,wholesale
+Greater Accra,TMA-Tema East,25-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Rice Local perfumed,25.78666667,2025-10-25,2025,10,4,wholesale
+Greater Accra,TMA-Tema East,25-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Groundnut Red,32.0,2025-10-25,2025,10,4,wholesale
+Greater Accra,TMA-Tema East,25-10-2025,TEMA COMMUNITY ONE MAIN MARKET,wholesale,Soya Bean,15.60333333,2025-10-25,2025,10,4,wholesale
+Upper West,Wa Municipal,31-10-2025,WA MARKET,wholesale,white maize,9.666666667,2025-10-31,2025,10,5,wholesale
+Upper West,Wa Municipal,31-10-2025,WA MARKET,wholesale,Maize Yellow,10.0,2025-10-31,2025,10,5,wholesale
+Upper West,Wa Municipal,31-10-2025,WA MARKET,wholesale,Rice Local perfumed,32.0,2025-10-31,2025,10,5,wholesale
+Upper West,Wa Municipal,31-10-2025,WA MARKET,wholesale,Rice Local non perfumed,28.0,2025-10-31,2025,10,5,wholesale
+Upper West,Wa Municipal,31-10-2025,WA MARKET,wholesale,Groundnut Red,24.0,2025-10-31,2025,10,5,wholesale
+Upper West,Wa Municipal,31-10-2025,WA MARKET,wholesale,Soya Bean,14.4,2025-10-31,2025,10,5,wholesale
+Upper West,Wa Municipal,31-10-2025,WA MARKET,wholesale,Unshelled Groundnut,12.0,2025-10-31,2025,10,5,wholesale
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,wholesale,white maize,5.426666667,2025-10-30,2025,10,5,wholesale
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,wholesale,Maize Yellow,5.413333333,2025-10-30,2025,10,5,wholesale
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,wholesale,Rice Local perfumed,14.63666667,2025-10-30,2025,10,5,wholesale
+Ahafo,Asunafo North Municipal,30-10-2025,Goaso,wholesale,Groundnut Red,19.52666667,2025-10-30,2025,10,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,30-10-2025,Bibiani ,wholesale,white maize,7.373333333,2025-10-30,2025,10,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,30-10-2025,Bibiani ,wholesale,Maize Yellow,9.95,2025-10-30,2025,10,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,30-10-2025,Bibiani ,wholesale,Rice Local perfumed,12.63666667,2025-10-30,2025,10,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,30-10-2025,Bibiani ,wholesale,Rice Local non perfumed,10.64,2025-10-30,2025,10,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,30-10-2025,Bibiani ,wholesale,Groundnut Red,20.31333333,2025-10-30,2025,10,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,30-10-2025,Bibiani ,wholesale,Soya Bean,15.29,2025-10-30,2025,10,5,wholesale
+Western North,Bibiani Anhwiaso Bekwai Municipal,30-10-2025,Bibiani ,wholesale,Unshelled Groundnut,20.01666667,2025-10-30,2025,10,5,wholesale
